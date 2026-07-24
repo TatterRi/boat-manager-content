@@ -1,0 +1,810 @@
+[
+  {
+    "answer" : "Hold all the myriad details, documents and logbooks you need for your boats in one place, synched with the cloud. Fine tuned by personal use over several thousand miles underway.\n\nThe app enables you to create and manage:\n• All the administrative details and documents for any of your boats.\n• Equipment and Spares lists for each boat.\n• A comprehensive Logbook recording the captain’s daily log, fuel log, pumpout log and GenSet log.\n• Documents (files, photos, videos) can be attached to each boat, ships log, ships equipment, spare parts inventory, tools list, crew member, waypoint or ToDo item\/note.\n• Documents can be viewed, printed or shared.\n• A database of recommended Planned Maintenance tasks and intervals, which can be added to a boat-specific Upkeep Logbook.\n• Expiry Dates for documents (insurance policies), equipment (fire systems or PLBs) and spare parts (flares), each with an optional Calendar reminder.\n• Crew lists with contact information, a default-crew flag, and a list of each log entry where the crew was aboard.\n• Waypoints imported by GPX or CSV and selected in the logbook.\n• Calendar and Map views of where you have been, with links to the relevant logbook entry.\n• A popover dashboard (“the Helm”) showing where you are, the last log entry, upcoming dates for the default boat, and gauges for engine hours, fuel, water and holding tank.\n• A popover ToDo list and Notes feature.\n• The boat can have a Fuel Consumption data curve (least-squares fit) to estimate remaining fuel.\n• Key statistics and charts: days underway, speeds, distances, costs, fuel consumption, plus a carbon-footprint estimate.\n• Fully iCloud-enabled so your data syncs across devices—and still works offline, syncing when you reconnect.\n• Apple Weather integration in logbook and Helm.\n• Customizable links to tide and nautical-weather websites.\n• Dark Mode for night-time use.\n• CSV export of all your data (Numbers\/Excel compatible) for backup or further analysis.\n\nA personal project by a USCG-credentialed Master Mariner and ex-Royal Navy officer.",
+    "category" : "1. About",
+    "imageName" : "BoatMgr.SFSymbol",
+    "isSysImg" : false,
+    "order" : 0,
+    "question" : "Manage all the details for all your Boats on your iPhone and iPad"
+  },
+  {
+    "answer" : "Boat Manager is free for the first month.\n\nThe subscription allows continued support for all the features and more ... unlimited boats, unlimited Logs, a range of Boat Maintenance management functions including reminders synched with Apple Reminders, Log entries synched with Apple Calendar and PDF’s of boats, equipment, logs, crew and maintenance records.\n",
+    "category" : "2. First Use",
+    "imageName" : "plus.app",
+    "isSysImg" : true,
+    "order" : 0,
+    "question" : "Is the application free of charge?"
+  },
+  {
+    "answer" : "On first opening the app a series of welcome screens will lead you through setting up the App.\n⚠️Important Note: The default boat is needed. \nA default boat is loaded when the add is started for the first time. You can edit the boat during onboarding or go to Settings > Required > Default Boat and either select default boat or  “Add new Boat”. The selected boat will become the default boat. Once the boat is created you can add the rest of the details.",
+    "category" : "2. First Use",
+    "imageName" : "exclamationmark.triangle",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "How do I set up the App?"
+  },
+  {
+    "answer" : "The Helm is a popover view that shows the current position. Buttons shows the National Forecast Centers marine forecast for your GPS location and the National Weather Service Radar Map.\n\nSwipe to the side to see the last log entry and reminders of key upcoming dates. \n\nQuick summaries of todays and tomorrows weather from Apple weather for the current location are next to quick links to websites for the tides and marine forecast. Both of these links are configurable under Settings.\n\nThe Helm opens automatically on starting the app. This behavior can be turned off in Settings.",
+    "category" : "2. First Use",
+    "imageName" : "helm",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "The “Helm” dashboard"
+  },
+  {
+    "answer" : "At the top right of the screen is a button that allows you to create a ToDo List, a Shopping List or a Note.\n\n• Any of the many things that need to be done can be quickly jotted down on the popover ToDo list. They can be tagged by boat, crew, waypoint etc. \n• When they are done you can mark it complete.\n• ToDos can be added directly to the default Ships Maintenance Log\n• A ‘Note’ is a ‘ToDo’ without a completion flag.\n• Shopping List items can be added directly from the Spare Parts Form",
+    "category" : "2. First Use",
+    "imageName" : "Notes.SFSymbol",
+    "isSysImg" : false,
+    "order" : 3,
+    "question" : "ToDo List, Shopping List and Notes"
+  },
+  {
+    "answer" : "You can have any number of boats. You must have at least one.\n\nSet the Default boat on the Settings Screen. The Default boat shows on the Helm Dashboard and is used for shortcuts throughout the App.\n\nEach boat has 5 tabs:\n• The Specs tab shows the boats technical data\n• The Log tab shows the various logs\n• The Gear tab shows the equipment list, the Spare Parts stores & tools\n• The Maintenance tab stores the completed maintenance tasks along with a Dashboard that shows the last log date for selected equipment.\n• The Papers tab stores all the electronic Papers",
+    "category" : "2. First Use",
+    "imageName" : "sailboat",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "Whats under Boats?"
+  },
+  {
+    "answer" : "The Crew section enables you to store information about your regular crew members.\n\nYou can specify various information for each contact, including a name, an address, a telephone number, an e-mail address and experience qualifications.\n\n• Setting a Crew member as default will automatically fill their name into any new log entry.\n• Contacts can be Added directly from your phones Contacts. \n• Existing Crew members can be Synched with Contacts so that you can always find them in your phone.",
+    "category" : "2. First Use",
+    "imageName" : "figure.sailing",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "Whats under Crew?"
+  },
+  {
+    "answer" : "Waypoints are the ports of call for your logbooks. \n\n• They can be imported from your chart plotter using the industry standard GPX format or CSV files. \n\n• Favorite waypoints can be selected. They then show at the top of the list, as does the waypoint selected as the Homeport in the Settings form.\n\nYou can populate the Waypoint Latitude and Longitude from Apple Maps. Press the 'Open Maps' button. Select a location on the map or create a pin. On the left of the screen is a section titled \"Coordinates\". Long press on that and select Copy.\n\nWhen you go back to the Boat Manager App you will be asked to allow Paste. Allow Paste. A button above the map will be enabled to Paste the coordinates into the Waypoints fields. Save the waypoint.",
+    "category" : "2. First Use",
+    "imageName" : "mappin.and.ellipse",
+    "isSysImg" : true,
+    "order" : 11,
+    "question" : "Whats under Waypoints?"
+  },
+  {
+    "answer" : "The USCG recommends that every boater file a Float Plan prior to departure. \n\nA Float Plan records your intended destination and arrival and critical details on the Captain, people on board and the vessel in order to assist the rescue authorities in the event that you do not arrive.\n\n• Float Plans can be saved for future use. They are independent of the vessel.\n• You can enter just the essentials to help rescuers locate you and your vessel — or fill out a full USCG style Float Plan for greater detail. Boat and default Crew details are populated for you.\n• Vessel, Captain and Crew details are populated from the database.\n• A PDF is generated that can be shared via Email or Messenger.\n\n• A Float Plan can be selected and sent from the Log View.\n• An Arrived button sends a message with your location to say you are safe. \n• It then populates a draft log entry for you to complete.",
+    "category" : "2. First Use",
+    "imageName" : "paperplane",
+    "isSysImg" : true,
+    "order" : 12,
+    "question" : "Whats under Float Plans?"
+  },
+  {
+    "answer" : "Maintenance has a Library of common planned maintenance tasks, each with their own recommended service interval, for example, engine oil changes, filter changes etc.\n\n• Any item can be selected and added to a specific boat.\n• Items can be combined to form Checklists that can be added to a ships log \n• Items or Checklists can have Reminders set, that both show in the App, but also in Apple Reminders and on Apple Calendars\n• There is also a list of maintenance relevant contacts that can be synched with Apple Contacts in the same way Crew can.",
+    "category" : "2. First Use",
+    "imageName" : "book.and.wrench",
+    "isSysImg" : true,
+    "order" : 13,
+    "question" : "Whats under Maintenance?"
+  },
+  {
+    "answer" : "The App can create Apple Reminders and Sync them with the Apple Reminders App, so that standard Apple functionality can work. It creates a list in Reminders called \"Boat Manager\". \n\nAny reminders you create in the App show there. They can then be shared, shown on Apple Calendars etc.\n\nReminders created on the main menu can apply to any boat.\n\nA filtered selection of these Reminders shows under a boats >Upkeep> Reminders. Reminders created under a boat apply only to that boat.",
+    "category" : "2. First Use",
+    "imageName" : "list.bullet",
+    "isSysImg" : true,
+    "order" : 14,
+    "question" : "Whats under Reminders?"
+  },
+  {
+    "answer" : "Calculations performed by the application based on the entered data for all boats or a selected boat: Log book statistics, days underway and at a marina or anchor etc. Fuel usage and expenses plus the Carbon footprint.\n\nA CSV button enables the export of all data to Excel or Numbers",
+    "category" : "2. First Use",
+    "imageName" : "chart.line.uptrend.xyaxis",
+    "isSysImg" : true,
+    "order" : 15,
+    "question" : "Whats under Analysis?"
+  },
+  {
+    "answer" : "You can update the engine hours by tapping on the hours display either on the Boat Details form or the ‘Helm’ dashboard.\n\n⚠️This value will show as the default in the next log entry you create. If the log entry engine hours are greater than the last boat engine hour reading it will be updated from the log book.",
+    "category" : "2. First Use",
+    "imageName" : "numbers.rectangle",
+    "isSysImg" : true,
+    "order" : 16,
+    "question" : "How can I update the engine hours\/odometer values?"
+  },
+  {
+    "answer" : "The mass of CO2 emitted by your boat is essentially linked to its fuel consumption (and therefore to distance run in the log book). \n\nThe calculation used in the app is: 1 liter of consumed fuel = emission of 2.5 kg of CO2.",
+    "category" : "2. First Use",
+    "imageName" : "carbon.dioxide.cloud",
+    "isSysImg" : true,
+    "order" : 16,
+    "question" : "How is the carbon footprint calculated?"
+  },
+  {
+    "answer" : "This icon shows the iCloud Synchronization status. If you have data synced to iCloud it will show a green cloud icon. If not it will show a red cloud icon.",
+    "category" : "2. First Use",
+    "imageName" : "icloud",
+    "isSysImg" : true,
+    "order" : 17,
+    "question" : "What is the cloud in the bottom left corner of the screen?"
+  },
+  {
+    "answer" : "Automatic iCloud Backup comes as standard. \n\nOtherwise go to Settings > Data Import And Export > CSV Export.",
+    "category" : "2. First Use",
+    "imageName" : "archivebox",
+    "isSysImg" : true,
+    "order" : 18,
+    "question" : "How do I backup my data?"
+  },
+  {
+    "answer" : "Yes the CSV files will include encoded images and documents. It makes the process slow, but ensures nothing is lost.\n",
+    "category" : "2. First Use",
+    "imageName" : "richtext.page",
+    "isSysImg" : true,
+    "order" : 19,
+    "question" : "Will my documents and photos be exported?"
+  },
+  {
+    "answer" : "In common with most objects in the App, you can attach any electronic Document to the Log.\nIt can be added on the Ships Papers Tab.",
+    "category" : "2. First Use",
+    "imageName" : "paperclip",
+    "isSysImg" : true,
+    "order" : 20,
+    "question" : "Attachments"
+  },
+  {
+    "answer" : "The Save button in the upper right will save any changes. Once a change is saved it cannot be undone.",
+    "category" : "4. Buttons",
+    "imageName" : "square.and.arrow.down.fill",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "The Save Button"
+  },
+  {
+    "answer" : "The Edit button in the upper right will uplock the form so you can make changes. An unlocked form also allows you to copy and paste from the field.",
+    "category" : "4. Buttons",
+    "imageName" : "pencil.circle",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "The Edit Button"
+  },
+  {
+    "answer" : "The + button in the upper right will add a new record of the contextual type shown on the current screen. i.e. a Day Log on the Day Log screen, a Maintenance focused log on the Upkeep screen, a Crew on the crew screen etc.",
+    "category" : "4. Buttons",
+    "imageName" : "plus.circle.fill",
+    "isSysImg" : true,
+    "order" : 0,
+    "question" : "The Add Button"
+  },
+  {
+    "answer" : "The x button in the upper left of a screen will dismiss the screen without making any changes.",
+    "category" : "4. Buttons",
+    "imageName" : "xmark.circle",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "The Dismiss Button"
+  },
+  {
+    "answer" : "In the top right will popover the Helm Dashboard.",
+    "category" : "4. Buttons",
+    "imageName" : "helm",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "The Helm Button"
+  },
+  {
+    "answer" : "In the top right will popover the ToDo List\/Shopping List\/Notes.",
+    "category" : "4. Buttons",
+    "imageName" : "Notes.SFSymbol",
+    "isSysImg" : false,
+    "order" : 5,
+    "question" : "The ToDo Button"
+  },
+  {
+    "answer" : "Allows the user preferences to be configured, the default boat and homeport to be selected and key user preferences to be recorded.",
+    "category" : "4. Buttons",
+    "imageName" : "gear",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "The Settings Button"
+  },
+  {
+    "answer" : "The red lifebelt icon in the bottom toolbar sends an email to the emergency contact set in the user Profile, listing the default boats name, crew and detailed last location.",
+    "category" : "4. Buttons",
+    "imageName" : "lifepreserver",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "The Emergency Distress Message Button"
+  },
+  {
+    "answer" : "This shows a Map view of any logs.\nPins show locations in the logbook. Selecting a pin shows a link to the last log entry at that location below the map view.",
+    "category" : "4. Buttons",
+    "imageName" : "map",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "The Map Button"
+  },
+  {
+    "answer" : "This shows a calendar view of any logs and any expiry dates (such as document expiry dates, inventory expiry dates etc.) for all boats.\n\nIf there is an entry on a selected date a link shows below the calendar view.\n\nToday’s date is highlighted in red.",
+    "category" : "4. Buttons",
+    "imageName" : "calendar",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "The Calendar Button"
+  },
+  {
+    "answer" : "This shows a PDF preview view of any list or view. The PDF can be Shared.",
+    "category" : "4. Buttons",
+    "imageName" : "file-pdf.SFSymbol",
+    "isSysImg" : false,
+    "order" : 10,
+    "question" : "The PDF Button"
+  },
+  {
+    "answer" : "GPX is an industry standard for transferring waypoints between Chart Plotters and electronic devices. This button starts a GPX import into your waypoints list.",
+    "category" : "4. Buttons",
+    "imageName" : "file-GPX",
+    "isSysImg" : false,
+    "order" : 11,
+    "question" : "The GPX Button"
+  },
+  {
+    "answer" : "Will calculate the boat speed from the log distance run and time underway",
+    "category" : "4. Buttons",
+    "imageName" : "calculator",
+    "isSysImg" : false,
+    "order" : 12,
+    "question" : "The Calculator Button"
+  },
+  {
+    "answer" : "Will open the National Weather Service Radar",
+    "category" : "4. Buttons",
+    "imageName" : "radar_weather_icon",
+    "isSysImg" : false,
+    "order" : 13,
+    "question" : "The Radar Button"
+  },
+  {
+    "answer" : "Will list or select a Float Plan",
+    "category" : "4. Buttons",
+    "imageName" : "paperplane",
+    "isSysImg" : true,
+    "order" : 14,
+    "question" : "The Float Plan Button"
+  },
+  {
+    "answer" : "Will open a share window populated with the current location",
+    "category" : "4. Buttons",
+    "imageName" : "checkmark.message",
+    "isSysImg" : true,
+    "order" : 15,
+    "question" : "The Arrived Button"
+  },
+  {
+    "answer" : "Use the main sidebar menu to access Boats and things shared across boats, such as:\n• Crew, \n• Waypoints, \n• the Planned Maintenance Library & Checklists, \n• Reminders and \n• Analysis\n\nSelect a Boat to use the bottom TabBar to chose between:\n• Ships Details, \n• Gear (Equipment and Spares), \n• Logs\n• Upkeep and \n• Ships Papers\n\n• Swipe left or Right to change Tab.\n• A long press on any list will open a Context Menu with actions.\n• Tap the '?' button at the bottom left of the screen to open this Help menu.\n• The Top right buttons show the Helm and the ToDo Lists.",
+    "category" : "3. Navigation",
+    "imageName" : "arrow.trianglehead.turn.up.right.diamond",
+    "isSysImg" : true,
+    "order" : 0,
+    "question" : "How do I navigate the app?"
+  },
+  {
+    "answer" : "Tap the '+' button at the top right of the screen...",
+    "category" : "3. Navigation",
+    "imageName" : "plus.circle.fill",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "How do I add a new entry?"
+  },
+  {
+    "answer" : "Select the record. Tap this button to unlock the form and start updating the record.\nTap on the Save icon on the upper right side to save your changes.",
+    "category" : "3. Navigation",
+    "imageName" : "pencil.circle",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "How do I edit an existing entry?"
+  },
+  {
+    "answer" : "Tap on the Save icon on the upper right side to save your changes.",
+    "category" : "3. Navigation",
+    "imageName" : "square.and.arrow.down.fill",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "How do I save my changes?"
+  },
+  {
+    "answer" : "The X mark on the top left will dismiss the current screen and any changes since the form was loaded. It will not undo any changes saved.",
+    "category" : "3. Navigation",
+    "imageName" : "x.circle",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "How do I cancel any changes?"
+  },
+  {
+    "answer" : "Tap the “Trash” icon at the top left of any List.\n\nThis will offer you the option to delete all the boats or show a red ⛔️ icon to the left of the list item you want to delete. \n\nTap on this button to confirm the deletion and then select “Done” at the top left.\n\n⚠️Important Note: If a boat is deleted, it will also delete all related data, such as log books, equipment lists, documents etc.\n\n💡Note: this deletion method applies to all list data in the application (crew, waypoints, logs, documents etc.). It can often be found under the Quick Actions (Context Menu) opened by a 'long press' on a list item",
+    "category" : "3. Navigation",
+    "imageName" : "trash",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "How can I delete an entry?"
+  },
+  {
+    "answer" : "From the main menu clicking on the photo of the default boat will take you directly to the details for that boat.",
+    "category" : "3. Navigation",
+    "imageName" : "sidebar.left",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "How do I go to the default boat?"
+  },
+  {
+    "answer" : "Forms with a lot of information, such as the boat form or the logbook form are divided into sections that can be expanded or collapsed. Each section can be toggled by tapping the section icon. All sections can be expanded or collapsed by the user at any time.\n\nAs one section opens it closes any open sections to save screen space.\n\nMost forms have photo\/map images at the top. They can be hidden by swiping up, or tapping the icon at the top right and left of the section. In many cases this photo is hidden to save screen space when you add a new Item.\n\nIf a view has multiple tabs they can be navigated left and right by swiping.",
+    "category" : "3. Navigation",
+    "imageName" : "menubar.arrow.up.rectangle",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "Why do sections keep opening and closing?"
+  },
+  {
+    "answer" : "⌄ indicates a drop Down list. Tap on the ⌄ icon to expand the list and select the desired value. The selected value will be displayed in the text field.",
+    "category" : "3. Navigation",
+    "imageName" : "chevron.down.circle",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "Drop Down Lists"
+  },
+  {
+    "answer" : "A long press on a list will bring up a Quick Action (Context) menu. Actions like deleting the list item or in some cases copying or editing the item can be performed from here.",
+    "category" : "3. Navigation",
+    "imageName" : "contextualmenu.and.cursorarrow",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "Quick Action (Context) Menus"
+  },
+  {
+    "answer" : "This is the Filter menu. It allows the user to filter the list of items displayed on the screen.",
+    "category" : "3. Navigation",
+    "imageName" : "line.3.horizontal.decrease.circle",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "What is this button for?"
+  },
+  {
+    "answer" : "This button will usually provide the user location to any position relevant fields.",
+    "category" : "3. Navigation",
+    "imageName" : "mappin.and.ellipse.circle",
+    "isSysImg" : true,
+    "order" : 11,
+    "question" : "GPS Location"
+  },
+  {
+    "answer" : "This button will usually provide a more detailed view of the subject. Such as a reminder set against that date.",
+    "category" : "3. Navigation",
+    "imageName" : "binoculars.circle",
+    "isSysImg" : true,
+    "order" : 12,
+    "question" : "View more detail"
+  },
+  {
+    "answer" : "Allows the user preferences to be configured, the default boat and homeport to be selected and key user preferences to be recorded.",
+    "category" : "9. Settings",
+    "imageName" : "gear",
+    "isSysImg" : true,
+    "order" : 0,
+    "question" : "Settings"
+  },
+  {
+    "answer" : "Is entirely optional. Enter the details you might want on your Boat Card to share with fellow boaters.",
+    "category" : "9. Settings",
+    "imageName" : "person",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "The User Profile"
+  },
+  {
+    "answer" : "The only required entry is the default Boat. All the gear, logs, documents and other data will be linked to the boat.\n\nGo to Settings > Required> Default Boat for a list of all the Boats in your account. Select the desired boat from the list and it will be set as the default.\n\nThe Homeport is optional but is recommended and is set in a similar way.",
+    "category" : "9. Settings",
+    "imageName" : "house",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "How do I set the Default Boat and Homeport?"
+  },
+  {
+    "answer" : "Will show the Helm popup automatically when the App is started.",
+    "category" : "9. Settings",
+    "imageName" : "helm",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "Show Helm on Start?"
+  },
+  {
+    "answer" : "Will select the tab shown by default on the Boat view.",
+    "category" : "9. Settings",
+    "imageName" : "viewfinder",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "Select default Boat view?"
+  },
+  {
+    "answer" : "Will determine if the Departure and Arrival Times are shown on the Day Log view.",
+    "category" : "9. Settings",
+    "imageName" : "clock",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "Show Times on Day Log?"
+  },
+  {
+    "answer" : "The Dark Mode switch enables the application to be viewed at night.",
+    "category" : "9. Settings",
+    "imageName" : "moon.circle",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "Dark Mode"
+  },
+  {
+    "answer" : "Allows the user to chose how the data is displayed throughout the App.\n\n⚠️Important Note: The data is stored “unit-less”. In most cases if you change the display unit the underlying data does not change from the when it was input. \n\nChanging a unit display will NOT convert the values.\n\nAny calculations are done using the raw data. \n\nSome data fed from the Apple weather service will change as you change the unit settings. Temperature, wind speed etc. The values stored in the log do not change as they are held as saved.",
+    "category" : "9. Settings",
+    "imageName" : "ruler",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "Unit Settings"
+  },
+  {
+    "answer" : "Allow adding and deleting the List Categories for:\n• Equipment Types\n• Spares Inventory Types\n• Document Types\n• Boat Locations\n",
+    "category" : "9. Settings",
+    "imageName" : "list.dash",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "List Categories?"
+  },
+  {
+    "answer" : "Will automatically add a summary of the Day log into an Apple Calendar called 'Boat Manager' every time a Day Log is created or saved.\n\nThat Apple Calendar can then be shared etc.\n",
+    "category" : "9. Settings",
+    "imageName" : "calendar.badge.plus",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "Add Log to Calendar"
+  },
+  {
+    "answer" : "Will skip a step during the process of adding Items or Checklists to the Ships Log or to Reminders.\n\nIf turned off, the App will ask you to select which Boat to add to. SO that you could add the same task to one boat after another, for example.\n\nIf turned on, it will add it to the Default Boat.\n\nThis toggle can also be set on the Add Maintenance screen.\n",
+    "category" : "9. Settings",
+    "imageName" : "wrench.and.screwdriver",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "Add Maintenance Items\/Checklists to Default Boat"
+  },
+  {
+    "answer" : "The Dashboard estimates how much fuel has been consumed since the boat was last refueled. There are several ways available:\n• The average of the Gallons Per Hour in all the logs to date\n• The average of the Miles Per Gallon in all the logs to date.\n• From the Cruising Data added to the Boat Specs page.\n• From the least squares fit curve calculated from the data added on the Boat Specs page.\n• or the Average of all the above.",
+    "category" : "9. Settings",
+    "imageName" : "fuelpump.circle",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "Fuel Consumption Calc. Method"
+  },
+  {
+    "answer" : "The remainders function needs a means of estimating the elapsed time for services planned based on engine service hours.\nThis can be adjusted here.\n\nIt defaults to 50 hours per month.",
+    "category" : "9. Settings",
+    "imageName" : "engine.combustion",
+    "isSysImg" : true,
+    "order" : 11,
+    "question" : "Engine Hours per Month"
+  },
+  {
+    "answer" : "Default websites for marine weather and tidal information, used on the Helm Screen.",
+    "category" : "9. Settings",
+    "imageName" : "link",
+    "isSysImg" : true,
+    "order" : 12,
+    "question" : "Websites"
+  },
+  {
+    "answer" : "Adds the functionality to code each log entry by Bodies of Water.\n\nThe Bodies of Water can then be added to Waypoints or directly to a new tab on the Day Log screen.\n\nThe Analysis Page will then have an additional USCG section which generates the report needed to complete a CG-719S Small Vessel Sea Service form.\n",
+    "category" : "9. Settings",
+    "imageName" : "United_States_Coast_Guard",
+    "isSysImg" : false,
+    "order" : 13,
+    "question" : "Track USCG Days?"
+  },
+  {
+    "answer" : "Go to Settings > Data Import And Export > CSV Export.\nEach data set can be exported individually or select \"All\" for all to be done in a batch.",
+    "category" : "9. Settings",
+    "imageName" : "tray.and.arrow.up",
+    "isSysImg" : true,
+    "order" : 14,
+    "question" : "How do I export my data?"
+  },
+  {
+    "answer" : "Go to Settings > Data Import And Export > CSV Import.\n\nEach data set must imported individually. Its best done in the sequence shown on the view, as that minimizes the risk that the Parent->Child relationships become confused. \n",
+    "category" : "9. Settings",
+    "imageName" : "tray.and.arrow.down",
+    "isSysImg" : true,
+    "order" : 15,
+    "question" : "How do I import my data?"
+  },
+  {
+    "answer" : "There are 6 Logs:\n• The Day Log - containing a record of the ships day. Usually completed at the end of the day. \n\nThe other Logs shown are all filtered versions of this master log, including the Upkeep and Expenses Logs:\n• The Fuel Log\n• The Pumpout Log (required in certain jurisdictions)\n• The GenSet Log (if the boat has a GenSet)\n• The Upkeep Log\n• The Expenses Log\n\n",
+    "category" : ">5.3 Logs",
+    "imageName" : "plus.app.fill",
+    "isSysImg" : true,
+    "order" : 0,
+    "question" : "The Logs"
+  },
+  {
+    "answer" : "The Logbook requires a Date, a narrative, a port and the Lat and Lon in order to save. The Save button in the top right will be disabled until then.",
+    "category" : ">5.3 Logs",
+    "imageName" : "square.and.arrow.down.fill",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "Why can't I save the Log?"
+  },
+  {
+    "answer" : "The logbook expects you to enter a daily report that shows your boats prime location for the day. Convention has it at the end of the day.\n\nThe Berth selection will show a cost field if its not an Anchor, a Lock Wall or Underway.\n\nThe Port can be populated from the Waypoints list, or can be typed in.\n\nThe Latitude and Longitude can be populated from GPS, the waypoints list or typed in.\n\nOnce a Latitude and Longitude are entered the Map at the top section of the Log entry will show the location.\nTapping the \"Open Maps\" button will open the Apple Maps App centered on this location.\n\nYou can also populate the Latitude and Longitude from Maps. On the 'Add Waypoint' Screen.\n",
+    "category" : ">5.3 Logs",
+    "imageName" : "mappin.and.ellipse",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "Whats under Location?"
+  },
+  {
+    "answer" : "A new log will copy over certain fields from the previous log entry. Things like:\n• The port, \n• The Latitude & Longitude \n• The berth\n• The USCG details\n• The engine hours",
+    "category" : ">5.3 Logs",
+    "imageName" : "plus.circle.fill",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "A new Log defaults to yesterdays Log"
+  },
+  {
+    "answer" : "This is an optional section. If you have selected it under settings, it will show you the Body of Water for the USCG CG-719S report.\n\nThe Body of Water defaults to what on the Waypoint chosen for the Port.\n\nIf there is none showing, you can choose one from the drop down list and it will update the waypoint.\n\nThe greyed out fields are from the Body Of Water table on Settings and are used to estimate the values needed for the report.",
+    "category" : ">5.3 Logs",
+    "imageName" : "United_States_Coast_Guard",
+    "isSysImg" : false,
+    "order" : 4,
+    "question" : "Whats under USCG?"
+  },
+  {
+    "answer" : "Typically you want to record the engine hours for the day. \n\nThe log will default to the previous logs engine hours (if any). The 'Set to Latest' button will overwrite what the app things is the last log value.\n\nIf you enter the Engine Hrs. Run it will add that amount to the engine hours. The new engine hours are hen copied to the Boat record for the boats records and will show in the dashboard.\n\nNote: There is no error checking here. You can put in negative numbers and the log will obey the Captain.\n\nIf the boat has a GenSet there is a toggle to allow the Generator hours to be recorded too.\n ",
+    "category" : ">5.3 Logs",
+    "imageName" : "gauge.open.with.lines.needle.33percent",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "Whats under Engine Hours?"
+  },
+  {
+    "answer" : "The Distance Run is the distance you boat travelled that day.\n\nIt defaults to the Great Circle Distance between todays Port Latitude and Longitude and the previous Log Entries Latitude and Longitude.\n\nThats always and under estimate of the distance the boat travelled, so I usually type over it with the actual from my Chart Plotter.\n\nThe Distance Run shows on the log List.\n\nOptionally the time of departure and arrival for the day can be used to calculate the Time elapsed. If you don't want these fields to show they can be turned off on the Settings screen.\n\nThe Hours underway defaults to whatever the difference between the departure and arrival times are, assuming they are on the same day. \n\nHours underway is the not necessarily the same as Engine hours. It is hours underway that shows on the Log List. \n\nThe RPM field is optional. I enter the average RPM for the day. It's used to estimate the fuel consumption.\n\nSOG is Speed over the Ground. The Calculator button will divide the distance run by the hours underway. It is also used to estimate the fuel consumed.\n ",
+    "category" : ">5.3 Logs",
+    "imageName" : "compass.drawing",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "Whats under Time & Distance Run?"
+  },
+  {
+    "answer" : "Typically a Captain must record who is on their vessel. The names auto-populate from the defaults set on the Crew menu.\n\nOr they can be selected from the drop down list or typed in. If you type them in separate the names with , and the App will count the number of people on board.",
+    "category" : ">5.3 Logs",
+    "imageName" : "person",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "Whats under People on Board?"
+  },
+  {
+    "answer" : "The blue button showing the Cloud and Sun icon will take the current weather from Apple Weather. Tap on the description to populate the weather field for the log.\n\nThe icon defaults to the Apple weather icon. If you want to change it for your log you can tap on the icon below the description and a menu will open that shows all the weather icons. \n\nThe weather icon you select will show on the Log.\n\nThe Wind details show the wind and the appropriate Beaufort Scale Force rating.\n\nThe Sea State is auto populated by an estimate calculated from a function of the Wind Speed. Wave height = 0.016 * surface wind speed in Knots^2, (a simplified Rossby & Montgomery equation). Its not a fetch and duration method or a Sverdrup-Munk-Bretschneider method or anything fancy. Its intended more as a safety guide. \n\nAll of these fields can be typed over or overwritten from the drop down lists.\n  ",
+    "category" : ">5.3 Logs",
+    "imageName" : "cloud.sun",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "Whats the Weather?"
+  },
+  {
+    "answer" : "Records the quantity and cost of any refueling, water top ups, pump-outs or propane tank replacements.\nThe steppers increase in 20% steps using the tank capacities from the Boat Specification form.\n\nThe icons show on the Log List.\n\nThe Analysis page will calculate the average time between tankage operations. ",
+    "category" : ">5.3 Logs",
+    "imageName" : "cube",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "Whats under Tankage?"
+  },
+  {
+    "answer" : "The minimum entry is a text entry for the log. Anything you type in the Maintenance or Maintenance Notes will show on the Maintenance Log and show a small icon on the Day Log.\n\nMaintenance is done against 'Tasks'. You add the Maintenance Task to the Log and record who did the work, what work it was and what it cost. Tasks can be added from the Maintenance Library or from Reminders.\n\nCosts are calculated by adding up any costs entered on Tasks added to the log. See the Maintenance Help section for more.",
+    "category" : ">5.3 Logs",
+    "imageName" : "wrench.and.screwdriver",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "Whats under Log Maintenance?"
+  },
+  {
+    "answer" : "Any notes will show on the Log list.\n\nOther costs also sow on the Expenses form",
+    "category" : ">5.3 Logs",
+    "imageName" : "note.text",
+    "isSysImg" : true,
+    "order" : 11,
+    "question" : "Log Notes"
+  },
+  {
+    "answer" : "Yes. Swipe to the right at the top of the Log form and a picture frame appears. You can add a photo or a picture from your photo library here.",
+    "category" : ">5.3 Logs",
+    "imageName" : "photo",
+    "isSysImg" : true,
+    "order" : 12,
+    "question" : "Can I attach a photo to the Log?"
+  },
+  {
+    "answer" : "The Crew section enables you to store information about your regular crew members.\n\nThey can crew on any of your boats\n\nYou can specify various information for each contact, including a name, an address, a telephone number, an e-mail address and experience qualifications.\n\n• Setting a Crew member as default will automatically fill their name into any new log entry.\n• Contacts can be Added directly from your phones Contacts. \n• Existing Crew members can be Synched with Contacts so that you can always find them in your phone.\n",
+    "category" : "6. Crew",
+    "imageName" : "figure.sailing",
+    "isSysImg" : true,
+    "order" : 0,
+    "question" : "Crew"
+  },
+  {
+    "answer" : "The Library is pre-populated will a list of typical maintenance tasks, sorted by Equipment Type. \n\nEach Item has a recommended maintenance interval either:\n• Daily\n• Months or \n• Service Hours.\n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
+    "category" : "8. Maintenance",
+    "imageName" : "book.and.wrench",
+    "isSysImg" : true,
+    "order" : 0,
+    "question" : "Whats in the Maintenance Library?"
+  },
+  {
+    "answer" : "Select a Maintenance Item. At the top left of the form the 'Reminder' button will open a list of Boats. Tapping the '+' button will open the 'Add Reminder' form. Fill in and save the reminder.\n\nIt will now show in both the Reminders Main Menu, or under the Boat Upkeep Tab ->Reminders list.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. \n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
+    "category" : "8. Maintenance",
+    "imageName" : "list.bullet",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "How do I set a Maintenance Reminder?"
+  },
+  {
+    "answer" : "Select a Maintenance Item. At the top right of the form the 'Logbook' button will open a list of Boats. Tapping the '+' button will open the 'Add Maintenance to Log' form. Saving this form will add the maintenance task to the last log entry of the selected boat.\n\nIt will now show on the Ships Log for that boat.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. ",
+    "category" : "8. Maintenance",
+    "imageName" : "list.bullet.rectangle",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "How do I add a Maintenance Item to the Ships Log?"
+  },
+  {
+    "answer" : "The Checklists menu option lists any existing checklists. Tap the + button to create a new Checklist.\n\nOnce a Checklist has been created, add tasks to it by selecting the list and tapping the 'Add Task' button at the top of the list on the right.\n\nChecklists can have reminders set in the same way an Item can. Each Checklist is added as a single reminder.\n\nChecklists can be added to the Log in the same way an Item can. Each item in the Checklist will be added as a separate task in the Log.",
+    "category" : "8. Maintenance",
+    "imageName" : "checklist",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "How to I create a Maintenance Checklist?"
+  },
+  {
+    "answer" : "These are a filtered list of contacts, intended for service specialists. They can be added and synched with your phones contact list in the same way the Ships Crew functions.",
+    "category" : "8. Maintenance",
+    "imageName" : "person.2",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "What are Maintenance Contacts?"
+  },
+  {
+    "answer" : "This tab allows you to record any maintenance or upkeep carried on your boat.\n• Add new maintenance items from the list or type in your own.\n• Record tasks carried out on specific pieces of equipment, who did the work and what it cost.\n• An Expenses option lists all the costs recorded on any of the logs and has a button to allow a tailored CSV export to Excel or Numbers.\n• The dashboard shows the last log entry for any service on the key equipment. You selected the equipment you want to show under the Maintenance section of the Equipment Tab. \n• PDF Reports are available for both. ",
+    "category" : ">5.4 Upkeep",
+    "imageName" : "wrench.and.screwdriver",
+    "isSysImg" : true,
+    "order" : 0,
+    "question" : "What under the Upkeep Tab"
+  },
+  {
+    "answer" : "The Maintenance Log is found under Boats > Upkeep > Maintenance Log\n\nThe Maintenance and Maintenance notes hold the narrative for this log. Anything entered will show on this list.\n\nAll the maintenance activities are all held in the Ships Log. The Maintenance Log shows only those upkeep relevant elements of the log.",
+    "category" : ">5.4 Upkeep",
+    "imageName" : "wrench.adjustable",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "Where is the Maintenance Log?"
+  },
+  {
+    "answer" : "Actual work is recorded against Maintenance Tasks.\n\nThe task captures:\n• the nature of the work, \n• who did it, \n• when they did it,\n• what equipment they did it on, \n• what spares were consumed,\n• what it cost and \n• if the task was completed and if so when.\n\nCertain equipment Types have pre-populated maintenance checklists that show on the Task form.\n\nAny log can have any number of related maintenance tasks.\n\nThe tasks show on the Upkeep log under the main entry for the day.\n",
+    "category" : ">5.4 Upkeep",
+    "imageName" : "wrench.and.screwdriver",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "What are Maintenance Tasks?"
+  },
+  {
+    "answer" : "If you are in a Log entry, \n• go to the Maintenance Section\n• and tap 'Add Task. \n• A list of suggested tasks from the Maintenance Library will pop up. \n• Either Add one of these to the Log, or \n• Tap the 'Add an Empty Task to Log\" button.\n\nIf you are viewing the Upkeep Maintenance Log:\n• Tap the 'Plus' button. The + button will open the same form to edit an existing logs maintenance entries for the last log entry. You can select a different date and the form will open the data for that date. If a date is selected with no log entry it will add a new log entry for that date.\n",
+    "category" : ">5.4 Upkeep",
+    "imageName" : "plus",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "How do I add a Maintenance Task?"
+  },
+  {
+    "answer" : "Each Maintenance Task can have the following costs recorded:\n• Labor\n• Material\n• Yard\nA total is calculated. The summary shows on the Upkeep log.",
+    "category" : ">5.4 Upkeep",
+    "imageName" : "banknote",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "What costs are recorded?"
+  },
+  {
+    "answer" : "The Maintenance Dashboard shows the last maintenance task date for selected equipment. The elapsed time\/service hours since that service are also shown.\n\nTo show a piece of equipment on the dashboard go to Boat > Equipment > Maintenance > Maintenance Status > Show On Dashboard\n\nPre-populated checkboxes for that equipments type (if any) will show along with the number of Days or Service Hours since.\n",
+    "category" : ">5.4 Upkeep",
+    "imageName" : "gauge.with.dots.needle.bottom.100percent",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "What is the Maintenance Dashboard?"
+  },
+  {
+    "answer" : "Expenses are under Boat > Upkeep > Expenses ....\n\nCosts show in various places on the log. Mooring fees, tankage fees, maintenance costs, other costs etc. An Expenses form extracts just those fields on a single sheet.\n\nIcons summarizing the costs on that log show on the list. tapping one of the icons will bring up an expenses form.\n\nThe + button will open the same form to edit an existing logs expense entries for a given date. \nIt defaults to opening the last log entry. You can select another date.\nIf a date is selected with no log entry it will add a new log entry for that date.\n",
+    "category" : ">5.4 Upkeep",
+    "imageName" : "banknote",
+    "isSysImg" : true,
+    "order" : 0,
+    "question" : "Where are Expenses recorded?"
+  },
+  {
+    "answer" : "Yes. The Equipment, Spare parts inventory and Tools Lists are under Boat > Gear Tab.\n\nThe Equipment type list is configurable under Settings > List Categories.\n\nThe Expiry date can be set for things like warranty expiry. A reminder can be set against the expiry Date.\n\nCertain equipment Categories have pre-defined sub-forms with to capture specific details:\n• Batteries\n• Engines\n• Generator\n• Transmission\n• Propellers\n",
+    "category" : ">5.2 Gear & Spares",
+    "imageName" : "fan",
+    "isSysImg" : true,
+    "order" : 0,
+    "question" : "Is there an Equipment List?"
+  },
+  {
+    "answer" : "Any maintenance carried out on the equipment that has been recorded on the Ships Log will show under Gear > Equipment > Maintenance.\n\nSet the maintenance frequency here. Maintenance Status will show the last maintenance task date against the specific pre-determined checkbox items. You set if you want this summary on the dashboard here.\n\nSpares allows you to set a relationship to any Spares. You can also set this from the Spare to the Equipment.\n\nAttachments can also be set from the documents Tab  to the Equipment.",
+    "category" : ">5.2 Gear & Spares",
+    "imageName" : "wrench.and.screwdriver",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "The Equipment Maintenance Log"
+  },
+  {
+    "answer" : "The Spares menu stores the Name, Manufacturer, Manufacturers Part Number, cost and quantity. \n\nThe Location is configurable (under Settings > List Categories)\n\nThe 'Shopping cart' icon automatically adds the Spares details to the Shopping list. The Shopping list is in the top right corner next to ToDo.\n\nSpares can also be linked to equipment, have an expiry date and attachments.\n\nYou can filter the Spares Inventory List for out of Stock items or Spares by Location.",
+    "category" : ">5.2 Gear & Spares",
+    "imageName" : "shippingbox",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "The Spares Inventory"
+  },
+  {
+    "answer" : "Yes. Select the Equipment you want to copy from the list. Open the Context Menu (long press). Select Copy Equipment.\nA list of boats will show. Tap the boat + button.",
+    "category" : ">5.2 Gear & Spares",
+    "imageName" : "document.on.document",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "Can I copy Equipment between Boats?"
+  },
+  {
+    "answer" : "There are 5 tabs for each Boat. \n\n• The Specs tab shows the boats technical data\n• The Log tab shows the various logs\n• The Gear tab shows the equipment list & the Spare Parts stores\n• The Maintenance tab stores the completed maintenance tasks along with a Dashboard that shows the last log date for selected equipment.\n• The Papers tab stores all the electronic Papers",
+    "category" : "5. Boats",
+    "imageName" : "sailboat",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "What are the Boat Tabs?"
+  },
+  {
+    "answer" : "• Store Up to 3 photos of your boat. Swipe to the side at the top of the Specs Page to see the other photos.\n• Basic Ships Details such as Motor\/Sail, Twin\/Single engine, etc.\n• Administration details, such as the make\/model\/VIN\/MMSI\/Official number. Any administrative documents show in the list here.\n• Insurance Details. Any Insurance documents are listed here.\n• Dimensions, weights and tankage details\n• Speed and Fuel Consumption data and chart\n• A PDF output to Share\"",
+    "category" : "5. Boats",
+    "imageName" : "rectangle.stack",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "The Specs Tab"
+  },
+  {
+    "answer" : "• All the ships equipment, with its description, location, manufacturer, age, website, any log entries, relevant maintenance records and any attachments\n• All the spare parts, with its description, location, manufacturer, etc. and any attachments.\n• All the tools on board, with its description, location, manufacturer, etc. and any attachments.\n• The list can be filtered to show whats at each location or what equipment was new or upgraded\n• PDF output to Share",
+    "category" : "5. Boats",
+    "imageName" : "fan",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "The Gear Tab"
+  },
+  {
+    "answer" : "The Ships log allows you to register events and places in order to keep track of major events in the life of your boat.\n\n• Location can be provided from the devices GPS or from the imported waypoints. Shows on Apple maps when entered.\n• The engine hours at the end of the log, synched with the boats record and Helm\/Dashboard, so you always have the latest engine hours showing.\n• Distance run is estimated from the great circle distance between log GPS lat\/Lon and the last log entry. It can, of course, be overwritten with the real distance run. I usually enter if from my chart plotter.\n• Speed over the ground is calculated from the time and distance and again can be overwritten.\n• The People on board defaults to the crew list but can be added from the crew list or typed in.\n• The Weather can be automatically downloaded from Apple Weather from the last log location, or selected from drop downs.\n• Tankage updates\/ water\/fuel\/pumpout.\n• Maintenance updates with costs and links to the equipment list and maintenance schedule list.\n• Any documents can be attached.\n\nThere are 4 variants of the log:\n• The **Day Log** The Full ships log with one entry per day. The default shows the departure and arrival times. This can be hidden under Settings\n• The **Fuel Log** A filtered list for any fuel entries, showing date, location, fuel quantity and cost.\n• The **Pumpout Log** A filtered list for any pumpout entries, as required in some jurisdictions.\n• The **GenSet Log** A filtered list for when the GenSet was run (if the boat has a GenSet)",
+    "category" : "5. Boats",
+    "imageName" : "list.bullet.rectangle",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "The Ships Log Tab"
+  },
+  {
+    "answer" : "This tab allows you to record any maintenance or upkeep carried on your boat.\n• Add new maintenance items from the list or type in your own.\n• Record tasks carried out on specific pieces of equipment, who did the work and what it cost.\n• An Expenses option lists all the costs recorded on any of the logs and has a button to allow a tailored CSV export to Excel or Numbers.\n• The dashboard shows the last log entry for any service on the key equipment. You selected the equipment you want to show under the Maintenance section of the Equipment Tab. \n• PDF Reports are available for both. ",
+    "category" : "5. Boats",
+    "imageName" : "wrench.and.screwdriver",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "The Upkeep Tab"
+  },
+  {
+    "answer" : "This tab allows you to upload any electronic document and attach it to a log entry, equipment entry or maintenance item.\n\n• You can upload any document from your phone or computer.The document will be uploaded to the cloud and linked to the log entry.\n\nYou can also download any document from the cloud and view it in a preview.\n• Documents can have expiry dates (for things like insurance policies)\n• You can set Apple reminders for those expiry dates.",
+    "category" : "5. Boats",
+    "imageName" : "rectangle.and.paperclip",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "The Ships Papers Tab"
+  },
+  {
+    "answer" : "Yes. You can populate the Waypoint Latitude and Longitude from Apple Maps. Press the 'Open Maps' button. Select a location on the map or create a pin. On the left of the screen is a section titled \"Coordinates\". Long press on that and select Copy.\n\nWhen you go back to the Boat Manager App you will be asked to allow Paste. Allow Paste. A button above the map will be enabled to Paste the coordinates into the Waypoints fields. Save the waypoint.",
+    "category" : "7. Waypoints",
+    "imageName" : "mappin.and.ellipse",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "Can I add Waypoints from Maps?"
+  }
+]
