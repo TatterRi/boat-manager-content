@@ -616,6 +616,14 @@
     "question" : "What is the Maintenance Dashboard?"
   },
   {
+    "answer" : "Season Outlook is a planning tool to enable you to create reminders for maintenance for the upcoming season.",
+    "category" : "5.4 Upkeep",
+    "imageName" : "calendar.badge.plus",
+    "isSysImg" : false,
+    "order" : 6,
+    "question" : "What is the Season Outlook?"
+  },
+  {
     "answer" : "The Crew section enables you to store information about your regular crew members.\n\nThey can crew on any of your boats\n\nYou can specify various information for each contact, including a name, an address, a telephone number, an e-mail address and experience qualifications.\n\n• Setting a Crew member as default will automatically fill their name into any new log entry.\n• Contacts can be Added directly from your phones Contacts. \n• Existing Crew members can be Synched with Contacts so that you can always find them in your phone.\n",
     "category" : "6. Crew",
     "imageName" : "figure.sailing",
@@ -640,20 +648,20 @@
     "question" : "Whats in the Maintenance Library?"
   },
   {
-    "answer" : "Select a Maintenance Item. At the top right of the form the 'Logbook' button will open a list of Boats. Tapping the '+' button will open the 'Add Maintenance to Log' form. Saving this form will add the maintenance task to the last log entry of the selected boat.\n\nIt will now show on the Ships Log for that boat.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. ",
-    "category" : "8. Maintenance",
-    "imageName" : "list.bullet.rectangle",
-    "isSysImg" : true,
-    "order" : 1,
-    "question" : "How do I add a Maintenance Item to the Ships Log?"
-  },
-  {
     "answer" : "Select a Maintenance Item. At the top left of the form the 'Reminder' button will open a list of Boats. Tapping the '+' button will open the 'Add Reminder' form. Fill in and save the reminder.\n\nIt will now show in both the Reminders Main Menu, or under the Boat Upkeep Tab ->Reminders list.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. \n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
     "category" : "8. Maintenance",
     "imageName" : "list.bullet",
     "isSysImg" : true,
     "order" : 1,
     "question" : "How do I set a Maintenance Reminder?"
+  },
+  {
+    "answer" : "Select a Maintenance Item. At the top right of the form the 'Logbook' button will open a list of Boats. Tapping the '+' button will open the 'Add Maintenance to Log' form. Saving this form will add the maintenance task to the last log entry of the selected boat.\n\nIt will now show on the Ships Log for that boat.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. ",
+    "category" : "8. Maintenance",
+    "imageName" : "list.bullet.rectangle",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "How do I add a Maintenance Item to the Ships Log?"
   },
   {
     "answer" : "The Checklists menu option lists any existing checklists. Tap the + button to create a new Checklist.\n\nOnce a Checklist has been created, add tasks to it by selecting the list and tapping the 'Add Task' button at the top of the list on the right.\n\nChecklists can have reminders set in the same way an Item can. Each Checklist is added as a single reminder.\n\nChecklists can be added to the Log in the same way an Item can. Each item in the Checklist will be added as a separate task in the Log.",
