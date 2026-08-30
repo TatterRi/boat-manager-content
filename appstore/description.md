@@ -1,0 +1,83 @@
+# App Store description — Boat Manager
+
+Current revision. 3,927 characters (limit 4,000). Plain text; paste as-is.
+Reasoning behind the edits is in `appstore/description-notes.md`.
+
+```
+Every detail of every boat you run — logbook, maintenance, documents and crew — in one place, on iPhone, iPad and Mac.
+
+Built by a USCG-credentialed Master Mariner and ex-Royal Navy officer, over several thousand miles underway.
+
+COMPREHENSIVE LOGBOOK
+• Captain's daily log, fuel log, pump-out log and optional generator log
+• Apple Weather conditions recorded with each entry
+• GPS position and waypoints on an embedded map
+• Sea service summaries formatted for USCG CG-719S
+• Optionally synced to a shareable Apple Calendar
+
+MAINTENANCE, PLANNING & EXPENSES
+• Planning: an Outlook showing what falls due month by month, as far ahead as you choose, repeat services and budgets included
+• Projects: gather a refit, a haul-out or a yard visit into one named job with its own dates, budget and progress
+• Schedule several jobs in one pass, as logbook tasks, Apple Reminders, or both
+• Service intervals dated from your logged engine hours, not a flat guess
+• A library of recommended planned-maintenance tasks and intervals
+• Build your own checklists, by date or by service hours
+• Maintenance Dashboard showing the status of the equipment you care about
+• Expenses log with CSV export and PDF report
+
+EQUIPMENT, TOOLS & SPARES
+• Every piece of equipment on every boat, with maintenance checkboxes by type
+• Full service history drawn from the Maintenance Log
+• Track manufacturer, part number, serial number and cost
+• Link spares to the equipment they fit
+• Warranty and calibration dates, with reminders
+
+DOCUMENTS & EXPIRY DATES
+• Registration, insurance, safety certificates, manuals, receipts, photos and videos
+• Attach files to boats, log entries, equipment, spares, tools, crew, waypoints or notes
+• Expiry dates for documents, equipment and spares, each with an optional Calendar reminder
+
+BOAT DETAILS
+• Administrative details, specifications and capacities for any or all of your boats
+• Fuel consumption curve fitted to your own data, to estimate what is left in the tank
+
+FLOAT PLANS & SAFETY
+• USCG-inspired float plans created from within the daily log
+• Export to PDF or send by Messages or Mail in one tap
+• One-tap arrival message with your position, which also drafts the log entry
+• Emergency message with your position, sent from within the app
+
+CREW & CONTACTS
+• Crew lists with contact details and default-crew flags
+• Created from, or kept in step with, Apple Contacts
+• See every log entry each crew member was aboard for
+
+NAVIGATION & VISUALIZATION
+• Import waypoints by GPX or CSV
+• Calendar and Map views of where you have been, each linking back to its log entry
+• Your own links to tide and nautical-weather sites
+
+THE HELM
+• A pop-over dashboard: current position, weather, engine hours, the last log entry, key statistics and what is coming due
+• To-do list, shopping list and notes, with categories you name yourself
+
+ANALYSIS & REPORTS
+• Statistics and charts drawn straight from the logbooks: days underway, speeds, distances, costs, fuel and tankage
+• Carbon-footprint estimate from your fuel use
+• PDF reports for boat details, logs, maintenance, equipment, spares and tools
+
+APPLE ECOSYSTEM
+• iCloud sync across iPhone, iPad and Mac, with full offline use
+• Apple Reminders for maintenance and administrative dates
+• Apple Calendar, Apple Contacts and Apple Weather throughout
+• Dark Mode for night watches
+• CSV import and export of everything, for backup or deeper analysis
+
+Everything is free for the first 30 days. After that it is $0.99 per month or $9.99 per year, billed through your Apple Account and cancellable at any time.
+
+Note: the emergency and float-plan features are aids, not a substitute for a VHF/DSC radio, an EPIRB, or leaving a float plan with someone ashore.
+
+Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Privacy Policy: https://boatmanager.app/privacy
+Support & Feedback: support@boatmanager.app | https://boatmanager.app/support
+```
