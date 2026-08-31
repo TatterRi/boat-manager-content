@@ -30,10 +30,14 @@ attribution that `DataAttributionView` already provides.)
 The old line — "A subscription is required thereafter, for a small fee" —
 is a rejection risk under guideline 3.1.2, which wants the price and the
 duration stated. It also hides good news: at $0.99/month or $9.99/year
-the price is a selling point, not something to apologise for. Prices
-taken from the StoreKit configuration (`BM.2`, `BM.3`) — confirm they
-match App Store Connect before submitting, and confirm the trial is 30
-days, since the in-app help says "the first month".
+the price is a selling point, not something to apologise for. Both tiers
+are confirmed against App Store Connect.
+
+One thing left over: the description says the first 30 days are free,
+while the in-app help (`help.json`, "Is the application free of
+charge?") still says "free for the first month". Same intent, two
+wordings, and the store listing is the one a prospective buyer reads
+first. Worth making the help match.
 
 ## Structure
 
@@ -62,12 +66,19 @@ since few readers reach the bottom.
 - Fuel-consumption curve added; it is in the in-app About text but was
   not in the listing
 
-## Added
+## The safety disclaimer
 
-A safety qualifier on the emergency and float-plan features — an aid, not
-a substitute for VHF/DSC, an EPIRB, or leaving a float plan ashore.
-Prudent for a safety-adjacent claim, and it reads as competence rather
-than hedging to the audience this app is for.
+Included, and confirmed to stay:
+
+> Note: the emergency and float-plan features are aids, not a substitute
+> for a VHF/DSC radio, an EPIRB, or leaving a float plan with someone
+> ashore.
+
+It sits after the subscription line, at the foot of the listing, where it
+qualifies the emergency and float-plan claims without interrupting the
+read. To the audience this app is written for it reads as competence
+rather than hedging — the people who care about a CG-719S summary are the
+same people who would notice its absence.
 
 ## Worth knowing
 
