@@ -96,20 +96,20 @@
     "question" : "Whats under Analysis?"
   },
   {
-    "answer" : "The mass of CO2 emitted by your boat is essentially linked to its fuel consumption (and therefore to distance run in the log book). \n\nThe calculation used in the app is: 1 liter of consumed fuel = emission of 2.5 kg of CO2.",
-    "category" : "2. First Use",
-    "imageName" : "carbon.dioxide.cloud",
-    "isSysImg" : true,
-    "order" : 16,
-    "question" : "How is the carbon footprint calculated?"
-  },
-  {
     "answer" : "You can update the engine hours by tapping on the hours display either on the Boat Details form or the ‘Helm’ dashboard.\n\n⚠️This value will show as the default in the next log entry you create. If the log entry engine hours are greater than the last boat engine hour reading it will be updated from the log book.",
     "category" : "2. First Use",
     "imageName" : "numbers.rectangle",
     "isSysImg" : true,
     "order" : 16,
     "question" : "How can I update the engine hours\/odometer values?"
+  },
+  {
+    "answer" : "The mass of CO2 emitted by your boat is essentially linked to its fuel consumption (and therefore to distance run in the log book). \n\nThe calculation used in the app is: 1 liter of consumed fuel = emission of 2.5 kg of CO2.",
+    "category" : "2. First Use",
+    "imageName" : "carbon.dioxide.cloud",
+    "isSysImg" : true,
+    "order" : 16,
+    "question" : "How is the carbon footprint calculated?"
   },
   {
     "answer" : "This icon shows the iCloud Synchronization status. If you have data synced to iCloud it will show a green cloud icon. If not it will show a red cloud icon.",
@@ -578,7 +578,7 @@
   {
     "answer" : "The blue button showing the waves and arrow icon fills in the tide for this log's date, taken from the NOAA station shown on the Helm dashboard. \n\nThe times and heights are recorded exactly as they were when you filled them in, and are never looked up again — reopening an old log shows what you wrote, even with no signal. You can type over the line or edit it freely; the master's word is final.\n\nExpanding the section shows which station it came from, the datum the heights are measured above (normally MLLW, so a height adds to the depth on the chart), and the times, which are in the station's own local time rather than your device's.\\n\\nHeights follow the Short Distance unit set under Settings > Units. NOAA covers US waters only; elsewhere, turn off Tide Predictions in Settings and use your own tide website.",
     "category" : "5.3 Logs",
-    "imageName" : "water.waves.and.arrow.trianglehead.up",
+    "imageName" : "tides_icon",
     "isSysImg" : false,
     "order" : 102,
     "question" : "What was the tide?"
@@ -656,20 +656,20 @@
     "question" : "Whats in the Maintenance Library?"
   },
   {
-    "answer" : "Select a Maintenance Item. At the top right of the form the 'Logbook' button will open a list of Boats. Tapping the '+' button will open the 'Add Maintenance to Log' form. Saving this form will add the maintenance task to the last log entry of the selected boat.\n\nIt will now show on the Ships Log for that boat.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. ",
-    "category" : "8. Maintenance",
-    "imageName" : "list.bullet.rectangle",
-    "isSysImg" : true,
-    "order" : 1,
-    "question" : "How do I add a Maintenance Item to the Ships Log?"
-  },
-  {
     "answer" : "Select a Maintenance Item. At the top left of the form the 'Reminder' button will open a list of Boats. Tapping the '+' button will open the 'Add Reminder' form. Fill in and save the reminder.\n\nIt will now show in both the Reminders Main Menu, or under the Boat Upkeep Tab ->Reminders list.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. \n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
     "category" : "8. Maintenance",
     "imageName" : "list.bullet",
     "isSysImg" : true,
     "order" : 1,
     "question" : "How do I set a Maintenance Reminder?"
+  },
+  {
+    "answer" : "Select a Maintenance Item. At the top right of the form the 'Logbook' button will open a list of Boats. Tapping the '+' button will open the 'Add Maintenance to Log' form. Saving this form will add the maintenance task to the last log entry of the selected boat.\n\nIt will now show on the Ships Log for that boat.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. ",
+    "category" : "8. Maintenance",
+    "imageName" : "list.bullet.rectangle",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "How do I add a Maintenance Item to the Ships Log?"
   },
   {
     "answer" : "The Checklists menu option lists any existing checklists. Tap the + button to create a new Checklist.\n\nOnce a Checklist has been created, add tasks to it by selecting the list and tapping the 'Add Task' button at the top of the list on the right.\n\nChecklists can have reminders set in the same way an Item can. Each Checklist is added as a single reminder.\n\nChecklists can be added to the Log in the same way an Item can. Each item in the Checklist will be added as a separate task in the Log.",
