@@ -40,7 +40,7 @@
     "question" : "How do I set up the App?"
   },
   {
-    "answer" : "The Helm is a popover view that shows the current position. \n\nIt shows a snapshot of useful information for the day. Where you are. Where the boat was last logged. The state of tankage, fuel, engine hours and the estimated fuel left.\n\nScroll down to see today and tomorrow’s weather and below that the tides at a point nearest to you.\n\nButtons shows the National Forecast Centers marine forecast for your GPS location and the National Weather Service\n\nThe Helm opens automatically on starting the app. This behavior can be turned off in settings.",
+    "answer" : "The Helm is a popover view that shows the current position. \n\nIt shows a snapshot of useful information for the day. Where you are. Where the boat was last logged. The state of tankage, fuel, engine hours and the estimated fuel left.\n\nScroll down to see today and tomorrow’s weather and below that the tides at a point nearest to you.\n\nButtons shows the National Forecast Centers marine forecast for your GPS location and the National Weather Service Radar Map.\n\nThe Helm opens automatically on starting the app. This behavior can be turned off in Settings.",
     "category" : "2. First Use",
     "imageName" : "helm",
     "isSysImg" : true,
