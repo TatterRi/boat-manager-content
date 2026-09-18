@@ -40,7 +40,7 @@
     "question": "How do I set up the App?"
   },
   {
-    "answer": "The Helm is a popover view that shows the current position. Buttons shows the National Forecast Centers marine forecast for your GPS location and the National Weather Service Radar Map.\n\nSwipe to the side to see the last log entry and reminders of key upcoming dates. \n\nThe Helm opens automatically on starting the app. This behavior can be turned off in Settings.\n\nThe Helm opens automatically on starting the app. This behavior can be turned off in Settings.",
+    "answer": "The Helm is a popover dashboard for your default boat. It opens automatically on starting the app; that can be turned off in Settings.\n\n• Current Location and Last Logged side by side, each on a map. Tap the current position to open it full screen, or the last logged one to open that log.\n• Cards for water, pumpout and engine hours since the last oil change; Upkeep; Reminders; and, on a motor vessel, fuel used since the last refuel. Tap the fuel card to see how the estimate was worked out, method by method.\n• Engine hours. Tap a reading to update it.\n• Today's and tomorrow's weather from Apple Weather, and NOAA tide predictions for your station. Tap the weather to open the National Weather Service marine forecast for your position; the buttons below open that forecast and the NWS radar map.",
     "category": "2. First Use",
     "imageName": "helm",
     "isSysImg": true,
