@@ -1,0 +1,35 @@
+Tides on the Helm, and safety checks that file themselves.
+
+TIDES, IN THE APP
+The Helm reads NOAA predictions for the nearest station: the height now, whether it is flooding or ebbing, and every high and low of the day. Pin a station for where you are heading and it keeps working without a signal. Fill the tide into a log entry with one tap.
+
+SAFETY
+A new section beside Maintenance. The USCG Vessel Safety Check and a federal Required Equipment list come ready to run, each item explained in the form's own words. Work through a list, answer Yes, No or N/A, and the run files a report in the log, an open task for every failure, and a PDF on the boat's papers.
+
+GEAR THAT KNOWS ITS REQUIREMENT
+Tag an extinguisher, flares or a PFD with the requirement it satisfies, and its record shows when it was last checked and how it did.
+
+A PHOTO BECOMES A JOB
+Share a photo into Boat Manager and file it as a new ToDo with the picture attached — or against a boat, a piece of equipment, a task, a waypoint or crew. ToDos now carry a reminder with a due date and a repeat.
+
+DATA HEALTH
+In Settings. It reads your logs for what cannot be right — a meter reading that went backwards, a refuel with no quantity, a run with no hours — says why it matters, and proposes the fix. Nothing changes until you tap Fix, and what is actually correct can be set aside.
+
+A TIDIER HELM
+Every card the same shape and level with its neighbour: engine hours have a card of their own, the forecast is one card with its links, and fuel has its own with a tank bar. Drag anywhere to scroll. Tap the fuel card for the working.
+
+A STRAIGHTER FUEL ESTIMATE
+Every refuel and every hour now count, whether or not she moved that day, and a mistyped log can no longer drag the tank estimate down.
+
+FIND YOUR CHECKLIST RUNS
+A checklist run is filed under the day it was done, not the most recent log. Two new filters on the log — Checklist Run and Safety Checks — find them again.
+
+FIXES
+• CSV exports restore on a device set to another region, and keep the time of day
+• Hours can no longer be logged as negative
+• The Boats CSV export no longer marks every safety item as carried
+• Delete All on the Maintenance screen now deletes
+• The Document Dates tab is gone — the filter on Documents does the same job
+• A run on a day with no log now starts that log with yesterday's hours and position
+
+Fair winds. Questions and suggestions are always welcome — they are what shapes each release.
