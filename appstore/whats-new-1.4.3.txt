@@ -1,0 +1,29 @@
+Planning, and a season you can see coming.
+
+PLANNING
+A new tab under Upkeep. The Outlook lays out what falls due month by month, as far ahead as you care to look, with repeat services and budgets counted in.
+
+PROJECTS
+Gather a refit list, a haul-out or a yard visit into one named project with its own dates, budget and progress.
+
+SCHEDULE JOBS IN A BATCH
+Pick several jobs straight from the Outlook and book them in one pass — as dated logbook tasks, as Apple Reminders, or both.
+
+REMINDERS THAT FOLLOW YOUR HOURS
+Service-hours reminders and the Outlook are now dated from how hard your engines actually run, measured from your own logged readings rather than a flat guess.
+
+POSITION AT A GLANCE
+The dashboard shows where you are and where you were last written up side by side, each with its own position.
+
+ROOM TO WORK ON iPHONE
+A thorough pass over every form, list and picker on the smaller screen. Fields run the full width, labels read in full instead of one letter per line, nothing hides behind the bottom bar, and tapping a row in a chooser now picks it. The dashboard, To-Do and help buttons stay with you however deep you navigate.
+
+FIXES
+• Work you have not finished no longer counts as done
+• Attachments open when you tap them
+• Photos still arriving from iCloud no longer close the app
+• Planned work is marked on the upkeep calendar
+• The Mac version stops asking permission at every launch
+• Founding Members are recorded in the profile
+
+Fair winds. Questions and suggestions are always welcome — they are what shapes each release.

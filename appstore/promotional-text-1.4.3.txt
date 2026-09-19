@@ -1,0 +1,1 @@
+New in 1.4.3: Planning. See what falls due month by month, group a refit into a project, and schedule a season's jobs in one pass.
