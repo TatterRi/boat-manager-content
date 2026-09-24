@@ -1,0 +1,1 @@
+New in 1.5.1: share a receipt straight into your expenses, and safety checks that answer from your own records — expired flares flagged before you start.

@@ -1,0 +1,25 @@
+Receipts that file themselves, and safety checks that do their homework.
+
+A RECEIPT BECOMES AN EXPENSE
+Share a receipt or invoice into Boat Manager and file it as an expense: pick the boat, the day and the kind of cost, and type the amount. It goes on that day's log with the receipt attached, starting the log if there isn't one. A yard invoice goes on its maintenance task instead, where labour, parts and yard costs are totalled. The expense form now lists the receipts behind its figures.
+
+SAFETY CHECKS THAT DO THEIR HOMEWORK
+Open a safety check and it answers what your records can before you start: the gear you have tagged, what the boat record says is aboard, and how many extinguishers her length requires against how many you have. Expired flares show as a failure, with the reason, before you walk the deck. Suggestions stay dashed until you confirm them, so nothing is recorded as checked that you did not look at.
+
+EQUIPMENT KEEPS ITS HISTORY
+A maintenance task is now linked to the equipment it was done on, so renaming the equipment no longer hides its work from the Upkeep dashboard. Saving a task links it. Data Health finds older tasks naming equipment the boat doesn't have, and offers the link.
+
+DATA HEALTH FINDS MORE
+The same boat, waypoint, contact, checklist or piece of equipment twice — Fix keeps the copy with the most links and moves the rest onto it. And a passage where the engines ran well past the hours underway, unless the log has maintenance on it to explain why.
+
+FIXES
+• With no signal, the app no longer waits on "Checking subscription" — a subscriber gets their boat from what the device last knew
+• An equipment's logbook no longer shows another boat's work on gear with the same name
+• Safety Documents and Invoices are in the document categories
+• What's New opens every time you ask, from Settings or Help, not just the first
+• The boat photo strip has page dots and arrows, so more photos are easy to find on the Mac
+• The tide-predictions setting sits beside the Helm options
+
+New help for Data Health, the fuel estimate and sharing into the app.
+
+Fair winds. Questions and suggestions are always welcome — they are what shapes each release.
