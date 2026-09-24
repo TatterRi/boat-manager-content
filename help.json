@@ -8,6 +8,14 @@
     "question" : "Manage all the details for all your Boats on your iPhone and iPad"
   },
   {
+    "answer" : "Two decisions explain most of what might look odd.\n\nIt started as a spreadsheet. Many sheets, kept for years, then imported. That is why costs are columns on a log rather than separate records, and why CSV import and export are a first-class route rather than an afterthought. If you arrive with your own spreadsheet, importing it is the expected way in.\n\nThe day log stands alone. It is not a legal document, but it is treated like one: nothing changes a log except you editing it. That is why a new log starts with yesterday's hours and position rather than working them out, why weather and tide are written into a log once and read back exactly as they were, and why Data Health proposes a fix instead of making it. Equipment maintenance is the one deliberate exception — fully linked, because nothing else kept the history straight.\n\nIn short: the app will not quietly change your record.",
+    "category" : "1. About",
+    "imageName" : "questionmark.bubble",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "Why does the app work the way it does?"
+  },
+  {
     "answer" : "Safety holds checklists that are not maintenance: things you check rather than things you do. Two come ready to run.\n\n• USCG Vessel Safety Check — the fifteen decal requirements and the recommended items from form ANSC 7012, each with the form's own explanation of what is required. N\/A is offered only where the form allows it.\n• Required Equipment — what federal law requires the boat to carry, by length: PFDs, extinguishers, distress signals, sound signals, lights, ventilation and a backfire arrester.\n\nTap a list to read it. Tap Run to work through it: tick each item you examine, then answer Yes, No or N\/A. Checking and complying are recorded separately, so \"I looked and it failed\" is a real answer and an unticked item stays not-yet-examined rather than failed.\n\nA run files three things: a summary in the log with the tally and every finding; an open task for each failure, carrying the rule so you know what to put right; and a PDF of the report on the boat's Ships Papers under Safety Documents. The Safety Checks filter on the Maintenance Log finds runs again.\n\nIf you deleted either list, Load on the Safety screen brings it back. Add your own with the + button, and give each step a section to group it under.\n\nAn inspection performed by someone else — a USCG Auxiliary examiner, a surveyor — is not a run. Scan the form they give you into Documents under Safety Documents with its date, and it carries an expiry reminder like any other paper.",
     "category" : "10. Safety",
     "imageName" : "checkmark.shield",
@@ -22,6 +30,14 @@
     "isSysImg" : true,
     "order" : 1,
     "question" : "Which gear satisfies which requirement?"
+  },
+  {
+    "answer" : "When you open a safety check, it answers what your records can before you start:\n\n• Gear you have tagged with a Safety Category, on Equipment or Spares — its name, where it is, how many, and when it expires. Expired flares or an expired extinguisher mark that item as a likely failure, and say why.\n• What the boat record says is aboard — horn and bell, navigation lights, placards, anchor and rode, flares carried and so on.\n• Fire extinguishers: how many the boat's length requires, against how many you have recorded.\n\nThe reasons are shown under each item. Suggested answers are drawn dashed and are not counted as checked until you tap an answer yourself, or Check All. Saving without looking records nothing as examined.\n\nNothing you answer changes the boat record. If the check finds the boat's details are wrong, correct them on the boat.",
+    "category" : "10. Safety",
+    "imageName" : "doc.text.magnifyingglass",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "What does a safety check fill in for me?"
   },
   {
     "answer" : "Boat Manager is free for the first month.\n\nThe subscription allows continued support for all the features and more ... unlimited boats, unlimited Logs, a range of Boat Maintenance management functions including reminders synched with Apple Reminders, Log entries synched with Apple Calendar and PDF’s of boats, equipment, logs, crew and maintenance records.\n",
@@ -160,6 +176,14 @@
     "question" : "Attachments"
   },
   {
+    "answer" : "Yes. From Files, Photos, Mail or anywhere with a Share button, choose Boat Manager. The app opens with the file ready to save and asks what to attach it to:\n\n• Boat Document — filed with the boat's papers.\n• New ToDo — a new to-do with the picture attached.\n• Expense — a receipt or invoice with its cost (see Where do I file a receipt or invoice?).\n• Equipment, Maintenance Task, Waypoint or Crew — attached to one you pick.\n\nPDFs and images are accepted.",
+    "category" : "2. First Use",
+    "imageName" : "square.and.arrow.down",
+    "isSysImg" : true,
+    "order" : 21,
+    "question" : "Can I share things into Boat Manager from other apps?"
+  },
+  {
     "answer" : "Use the main sidebar menu to access Boats and things shared across boats, such as:\n• Crew, \n• Waypoints, \n• the Planned Maintenance Library & Checklists, \n• Reminders and \n• Analysis\n\nSelect a Boat to use the bottom TabBar to chose between:\n• Ships Details, \n• Gear (Equipment and Spares), \n• Logs\n• Upkeep and \n• Ships Papers\n\n• Swipe left or Right to change Tab.\n• A long press on any list will open a Context Menu with actions.\n• Tap the '?' button at the bottom left of the screen to open this Help menu.\n• The Top right buttons show the Helm and the ToDo Lists.",
     "category" : "3. Navigation",
     "imageName" : "arrow.trianglehead.turn.up.right.diamond",
@@ -262,6 +286,14 @@
     "isSysImg" : true,
     "order" : 12,
     "question" : "View more detail"
+  },
+  {
+    "answer" : "The fuel card estimates how much has been burned since the last refuel you logged, and roughly how much of the tank that leaves — assuming that refuel filled the tank. The ~ is deliberate: it is an estimate.\n\nFour methods, from your own logs and the boat's Specs:\n1. Your long-run gallons per hour, times hours run since the refuel.\n2. Distance run since the refuel, divided by your long-run miles per gallon.\n3. The cruising burn rate from Specs, times hours run.\n4. A burn curve through the trolling, cruising and maximum figures on Specs, at the speed you actually made good.\n\nBy default the card averages the methods that could produce a figure; Settings > Fuel Consumption Calc. Method picks one instead. Every refuel and every hour counts, whether or not the boat moved that day. Tap the card to see each method's working.\n\nMethods 3 and 4 need the tankage, speeds and burn rates on the boat's Specs; Data Health tells you which are missing.",
+    "category" : "3. Navigation",
+    "imageName" : "fuelpump",
+    "isSysImg" : true,
+    "order" : 13,
+    "question" : "How is fuel on the Helm worked out?"
   },
   {
     "answer" : "The + button in the upper right will add a new record of the contextual type shown on the current screen. i.e. a Day Log on the Day Log screen, a Maintenance focused log on the Upkeep screen, a Crew on the crew screen etc.",
@@ -456,6 +488,14 @@
     "question" : "What costs are recorded?"
   },
   {
+    "answer" : "Two ways in.\n\nFrom another app: share the PDF or photo to Boat Manager and choose Expense. Four questions follow, each with a sensible default:\n• Which boat — skipped if you have only one.\n• Which day — today unless you change it. The form says which log it will go on; if that day has no log, one is started with yesterday's hours and position.\n• What kind of cost — Mooring, Fuel, Pumpout, Water, Propane or Other.\n• How much.\nThe receipt is filed as an Invoice on that day's log, and the amount is added to that cost.\n\nYard, labour and parts: choose Maintenance instead. Pick the maintenance task and whether it is Labour, Parts or Yard. The invoice goes on the task and the amount onto that task's costs, which is where maintenance money is totalled.\n\nFrom inside the app: the expense form ends with Receipts & Invoices. Add one there and it is attached to that day's log.",
+    "category" : "5.1 Expenses",
+    "imageName" : "dollarsign.circle",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "Where do I file a receipt or invoice?"
+  },
+  {
     "answer" : "Yes. The Equipment, Spare parts inventory and Tools Lists are under Boat > Gear Tab.\n\nThe Equipment type list is configurable under Settings > List Categories.\n\nThe Expiry date can be set for things like warranty expiry. A reminder can be set against the expiry Date.\n\nCertain equipment Categories have pre-defined sub-forms with to capture specific details:\n• Batteries\n• Engines\n• Generator\n• Transmission\n• Propellers\n",
     "category" : "5.2 Gear & Spares",
     "imageName" : "fan",
@@ -648,6 +688,14 @@
     "question" : "What is Planning?"
   },
   {
+    "answer" : "When you save a maintenance task, it is linked to the equipment it names on that boat. The link survives renaming the equipment, so the Upkeep dashboard and the equipment's logbook keep finding the work.\n\nTasks saved before version 1.5.1 are found by the equipment's name, as they always were, until you next edit them. If a task names equipment the boat does not have — renamed since, or mistyped — Data Health lists it, and where one piece of equipment is plainly the one meant, Fix links it.\n\nA name only ever matches on its own boat, so a dinghy and a tender that both carry an \"Air pump\" keep separate histories.",
+    "category" : "5.4 Upkeep",
+    "imageName" : "link",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "How does a task know which equipment it was done on?"
+  },
+  {
     "answer" : "The Crew section enables you to store information about your regular crew members.\n\nThey can crew on any of your boats\n\nYou can specify various information for each contact, including a name, an address, a telephone number, an e-mail address and experience qualifications.\n\n• Setting a Crew member as default will automatically fill their name into any new log entry.\n• Contacts can be Added directly from your phones Contacts. \n• Existing Crew members can be Synched with Contacts so that you can always find them in your phone.\n",
     "category" : "6. Crew",
     "imageName" : "figure.sailing",
@@ -838,5 +886,13 @@
     "isSysImg" : true,
     "order" : 15,
     "question" : "How do I import my data?"
+  },
+  {
+    "answer" : "Data Health, in Settings, reads your records for things that cannot be right, or probably are not, says why each matters, and proposes a fix. Nothing changes until you tap Fix. If something it raises is actually correct, Set aside and it will not be raised again unless the figures change.\n\nIt looks for:\n• Hours that are negative, or a meter reading that went backwards.\n• The same log twice.\n• The same boat, waypoint, contact, crew member, piece of equipment, spare, tool, maintenance item, checklist, document, project, body of water or list option twice. Fix keeps the copy with the most links and moves the other's links onto it.\n• A task naming equipment the boat does not have.\n• Distance run with no hours underway; engine hours well past hours underway (logs with maintenance on them are left alone — the engines were run to test the work).\n• A refuel with no quantity, more than 24 hours in one log, 1,000 NM or more in one log, distance run with no position, a log dated in the future.\n• Fuel figures missing from the boat's Specs.\n\nOpen log takes you to the record so you can read it before deciding.",
+    "category" : "9. Settings",
+    "imageName" : "stethoscope",
+    "isSysImg" : true,
+    "order" : 16,
+    "question" : "What is Data Health?"
   }
 ]
