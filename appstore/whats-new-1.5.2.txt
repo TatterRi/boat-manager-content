@@ -1,0 +1,23 @@
+Equipment on paper, and a fuel card that tells you how far.
+
+EQUIPMENT ON PAPER
+Open any piece of equipment and tap the PDF button for a report of everything on its record: the specs, the engine or battery details, how it is maintained and how each job stands, every task logged against it with the hours and the cost, and its spares, contacts and documents. Send it to a mechanic before they come aboard. A long service history runs on to further pages.
+
+FUEL LEFT, AND HOW FAR IT GOES
+The fuel card on the Helm now shows what is left in the tank — the tankage less the estimate used, so the two always add up — and the range that gives at your boat's own miles per gallon, like the range on a car. Tap the card for the working.
+
+EVERY SIX MONTHS
+A maintenance item can now repeat every 6 months. It sorts between quarterly and annual work, reads "6, 12, 24 mo" in the list, and a new Semiannually filter finds it.
+
+TAP TO SEE THE LOG
+On the Helm, tap Last Water, Last Pumpout or Since Oil Change and the log that figure counts from opens.
+
+FILTERS YOU CAN READ AT A GLANCE
+Every choice in every filter menu now has an icon, matching the ones on your logs and expenses. Maintenance frequencies show a calendar with the number of months on it.
+
+FIXES
+• The 1000-hour maintenance filter reads Biennially in both places it appears
+
+New help for the equipment report, fuel range and maintenance intervals, and the User Guide is updated to match.
+
+Fair winds. Questions and suggestions are always welcome — they are what shapes each release.

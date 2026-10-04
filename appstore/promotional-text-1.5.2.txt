@@ -1,0 +1,1 @@
+New in 1.5.2: a PDF report of any piece of equipment to send your mechanic, and fuel left and range on the Helm.
