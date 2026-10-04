@@ -56,7 +56,7 @@
     "question" : "How do I set up the App?"
   },
   {
-    "answer" : "The Helm is a popover view that shows the current position. \n\nIt shows a snapshot of useful information for the day. Where you are. Where the boat was last logged. The state of tankage, fuel, engine hours and the estimated fuel left.\n\nScroll down to see today and tomorrow’s weather and below that the tides at a point nearest to you.\n\nButtons shows the National Forecast Centers marine forecast for your GPS location and the National Weather Service Radar Map.\n\nThe Helm opens automatically on starting the app. This behavior can be turned off in Settings.",
+    "answer" : "The Helm is a popover view that shows the current position. \n\nIt shows a snapshot of useful information for the day. Where you are. Where the boat was last logged. The state of tankage, fuel, engine hours, and the estimated fuel left and range.\n\nTap a card for more. Last Water, Last Pumpout and Since Oil Change each open the log that figure counts from; the fuel card shows its working.\n\nScroll down to see today and tomorrow’s weather and below that the tides at a point nearest to you.\n\nButtons shows the National Forecast Centers marine forecast for your GPS location and the National Weather Service Radar Map.\n\nThe Helm opens automatically on starting the app. This behavior can be turned off in Settings.",
     "category" : "2. First Use",
     "imageName" : "helm",
     "isSysImg" : true,
@@ -288,7 +288,7 @@
     "question" : "View more detail"
   },
   {
-    "answer" : "The fuel card estimates how much has been burned since the last refuel you logged, and roughly how much of the tank that leaves — assuming that refuel filled the tank. The ~ is deliberate: it is an estimate.\n\nFour methods, from your own logs and the boat's Specs:\n1. Your long-run gallons per hour, times hours run since the refuel.\n2. Distance run since the refuel, divided by your long-run miles per gallon.\n3. The cruising burn rate from Specs, times hours run.\n4. A burn curve through the trolling, cruising and maximum figures on Specs, at the speed you actually made good.\n\nBy default the card averages the methods that could produce a figure; Settings > Fuel Consumption Calc. Method picks one instead. Every refuel and every hour counts, whether or not the boat moved that day. Tap the card to see each method's working.\n\nMethods 3 and 4 need the tankage, speeds and burn rates on the boat's Specs; Data Health tells you which are missing.",
+    "answer" : "The fuel card estimates how much has been burned since the last refuel you logged, and roughly how much of the tank that leaves — assuming that refuel filled the tank. The ~ is deliberate: it is an estimate.\n\nUnder the tank bar it shows the fuel left, which is the tankage on Specs less the estimate used, so the two always add up to the tank, and the range: that fuel at your long-run miles per gallon, like the range on a car. The range needs logged distance to work from; without it the line is left off.\n\nFour methods, from your own logs and the boat's Specs:\n1. Your long-run gallons per hour, times hours run since the refuel.\n2. Distance run since the refuel, divided by your long-run miles per gallon.\n3. The cruising burn rate from Specs, times hours run.\n4. A burn curve through the trolling, cruising and maximum figures on Specs, at the speed you actually made good.\n\nBy default the card averages the methods that could produce a figure; Settings > Fuel Consumption Calc. Method picks one instead. Every refuel and every hour counts, whether or not the boat moved that day. Tap the card to see each method's working.\n\nMethods 3 and 4 need the tankage, speeds and burn rates on the boat's Specs; Data Health tells you which are missing.",
     "category" : "3. Navigation",
     "imageName" : "fuelpump",
     "isSysImg" : true,
@@ -376,7 +376,7 @@
     "question" : "The Calendar Button"
   },
   {
-    "answer" : "This shows a PDF preview view of any list or view. The PDF can be Shared.",
+    "answer" : "This shows a PDF preview view of any list or view. The PDF can be Shared.\n\nOn a piece of equipment it is a report of its whole record (specs, maintenance status, service history, spares and contacts) for sending to a technician.",
     "category" : "4. Buttons",
     "imageName" : "file-pdf.SFSymbol",
     "isSysImg" : false,
@@ -526,6 +526,14 @@
     "isSysImg" : true,
     "order" : 3,
     "question" : "The Spares Inventory"
+  },
+  {
+    "answer" : "Yes. Open the equipment under Boat > Gear Tab and tap the PDF button at the top of its form.\n\nThe report holds everything on its record: the specifications and the details for its type (engine, generator, transmission, battery or propeller), how it is maintained and how each job stands, every task logged against it with the date, hours, who did it and the cost, and its spares, maintenance items, contacts and the names of its documents.\n\nShare it from the preview: to a mechanic before they come aboard, a surveyor, or a buyer. A long service history runs on to further pages.",
+    "category" : "5.2 Gear & Spares",
+    "imageName" : "doc.richtext",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "Can I get a PDF of one piece of equipment?"
   },
   {
     "answer" : "There are 6 Logs:\n• The Day Log - containing a record of the ships day. Usually completed at the end of the day. \n\nThe other Logs shown are all filtered versions of this master log, including the Upkeep and Expenses Logs:\n• The Fuel Log\n• The Pumpout Log (required in certain jurisdictions)\n• The GenSet Log (if the boat has a GenSet)\n• The Upkeep Log\n• The Expenses Log\n\n",
@@ -712,7 +720,7 @@
     "question" : "Can I add Waypoints from Maps?"
   },
   {
-    "answer" : "The Library is pre-populated will a list of typical maintenance tasks, sorted by Equipment Type. \n\nEach Item has a recommended maintenance interval either:\n• Daily\n• Months or \n• Service Hours.\n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
+    "answer" : "The Library is pre-populated will a list of typical maintenance tasks, sorted by Equipment Type. \n\nEach Item has a recommended maintenance interval either:\n• Daily\n• Months: every 1, 3, 6, 12 or 24 months, or\n• Service Hours: every 50, 100, 250 or 1000 hours.\n\nThe filter on the Library finds items by how often they recur: daily, monthly, quarterly, every six months, annually or every two years.\n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
     "category" : "8. Maintenance",
     "imageName" : "book.and.wrench",
     "isSysImg" : true,
