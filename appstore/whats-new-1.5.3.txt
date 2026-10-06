@@ -1,7 +1,7 @@
 A quick fix for adding a log.
 
 ADDING A LOG WORKS AGAIN
-Tapping + on the Ships Log opened an empty sheet instead of a new log entry. It opens the form again, and so do adding a maintenance log and adding a float plan to the log. Nothing you had already logged was affected.
+Tapping + on the log list opens the new log entry form again. We think this was caused by a change in iOS 27. Nothing you had already logged was affected.
 
 Everything new in 1.5.2 is here too: the equipment report, fuel left and range on the Helm, the 6-month maintenance interval, and icons on every filter.
 
