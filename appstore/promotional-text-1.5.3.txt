@@ -1,0 +1,1 @@
+A PDF report of any piece of equipment for your mechanic, and fuel left and range on the Helm. 1.5.3 fixes adding a new log.

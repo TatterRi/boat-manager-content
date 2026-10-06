@@ -1,0 +1,8 @@
+A quick fix for adding a log.
+
+ADDING A LOG WORKS AGAIN
+Tapping + on the Ships Log opened an empty sheet instead of a new log entry. It opens the form again, and so do adding a maintenance log and adding a float plan to the log. Nothing you had already logged was affected.
+
+Everything new in 1.5.2 is here too: the equipment report, fuel left and range on the Helm, the 6-month maintenance interval, and icons on every filter.
+
+Fair winds. Questions and suggestions are always welcome — they are what shapes each release.
