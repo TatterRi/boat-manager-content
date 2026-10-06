@@ -536,6 +536,14 @@
     "question" : "Can I get a PDF of one piece of equipment?"
   },
   {
+    "answer" : "In version 1.5.2, tapping + on the Ships Log opens an empty sheet instead of a new log entry, on iPhone, iPad and Mac. Adding a maintenance log and adding a float plan to the log are affected the same way. Your existing logs are safe. We think a change in iOS 27 and macOS 27 caused it.\n\nVersion 1.5.3 fixes it and is with Apple for review now. Update as soon as it appears in the App Store.\n\nUntil then, to add a log: long-press an existing log in the Ships Log (right-click on a Mac), choose Copy Log…, pick the date, then open the copy and change what differs. This needs at least one log already.",
+    "category" : "5.3 Logs",
+    "imageName" : "exclamationmark.triangle",
+    "isSysImg" : true,
+    "order" : -1,
+    "question" : "Tapping + opens an empty sheet (version 1.5.2)"
+  },
+  {
     "answer" : "There are 6 Logs:\n• The Day Log - containing a record of the ships day. Usually completed at the end of the day. \n\nThe other Logs shown are all filtered versions of this master log, including the Upkeep and Expenses Logs:\n• The Fuel Log\n• The Pumpout Log (required in certain jurisdictions)\n• The GenSet Log (if the boat has a GenSet)\n• The Upkeep Log\n• The Expenses Log\n\n",
     "category" : "5.3 Logs",
     "imageName" : "plus.app.fill",
