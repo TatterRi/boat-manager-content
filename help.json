@@ -88,7 +88,7 @@
     "question" : "Whats under Crew?"
   },
   {
-    "answer" : "Waypoints are the ports of call for your logbooks. \n\n• They can be imported from your chart plotter using the industry standard GPX format or CSV files. \n\n• Favorite waypoints can be selected. They then show at the top of the list, as does the waypoint selected as the Homeport in the Settings form.\n\nYou can populate the Waypoint Latitude and Longitude from Apple Maps. Press the 'Open Maps' button. Select a location on the map or create a pin. On the left of the screen is a section titled \"Coordinates\". Long press on that and select Copy.\n\nWhen you go back to the Boat Manager App you will be asked to allow Paste. Allow Paste. A button above the map will be enabled to Paste the coordinates into the Waypoints fields. Save the waypoint.",
+    "answer" : "Waypoints are the ports of call for your logbooks: marinas, anchorages, moorings and the places in between.\n\n• They can be imported from your chart plotter using the industry standard GPX format or CSV files.\n\n• Favorite waypoints can be selected. They then show at the top of the list, as does the waypoint selected as the Homeport in the Settings form.\n\n• Each waypoint keeps what you need to know about the place: its type and body of water, VHF channel, phone, email and website, and what is at the berth and ashore. See “What can a waypoint record about a marina?”\n\nYou can populate the Waypoint Latitude and Longitude from Apple Maps. Select a location on the map or drop a pin, then long press its coordinates and select Copy.\n\nBack in Boat Manager, edit the waypoint and open its Chart: under the Latitude and Longitude are Current Location and Paste. Tap Paste (allow it when asked) and the position fills in. Save the waypoint.",
     "category" : "2. First Use",
     "imageName" : "mappin.and.ellipse",
     "isSysImg" : true,
@@ -680,7 +680,7 @@
     "question" : "What are Maintenance Tasks?"
   },
   {
-    "answer" : "If you are in a Log entry, \n• go to the Maintenance Section\n• and tap 'Add Task. \n• A list of suggested tasks from the Maintenance Library will pop up. \n• Either Add one of these to the Log, or \n• Tap the 'Add an Empty Task to Log\" button.\n\nIf you are viewing the Upkeep Maintenance Log:\n• Tap the 'Plus' button. The + button will open the same form to edit an existing logs maintenance entries for the last log entry. You can select a different date and the form will open the data for that date. If a date is selected with no log entry it will add a new log entry for that date.\n",
+    "answer" : "If you are in a Log entry, \n• tap + on the Maint. section.\n• A list of suggested tasks from the Maintenance Library will pop up. \n• Either tap one of these to add it to the Log, or \n• Tap + at the top of the list for a Blank Task, or the checklist button to Run a Checklist.\n\nIf you are viewing the Upkeep Maintenance Log:\n• Tap the 'Plus' button. The + button will open the same form to edit an existing logs maintenance entries for the last log entry. You can select a different date and the form will open the data for that date. If a date is selected with no log entry it will add a new log entry for that date.\n\n",
     "category" : "5.4 Upkeep",
     "imageName" : "plus",
     "isSysImg" : true,
@@ -720,7 +720,7 @@
     "question" : "Crew"
   },
   {
-    "answer" : "Yes. You can populate the Waypoint Latitude and Longitude from Apple Maps. Press the 'Open Maps' button. Select a location on the map or create a pin. On the left of the screen is a section titled \"Coordinates\". Long press on that and select Copy.\n\nWhen you go back to the Boat Manager App you will be asked to allow Paste. Allow Paste. A button above the map will be enabled to Paste the coordinates into the Waypoints fields. Save the waypoint.",
+    "answer" : "Yes. You can populate the Waypoint Latitude and Longitude from Apple Maps. Select a location on the map or drop a pin, then long press its coordinates and select Copy.\n\nBack in Boat Manager, edit the waypoint and open its Chart: under the Latitude and Longitude are Current Location and Paste. Tap Paste (allow it when asked) and the position fills in. Save the waypoint.",
     "category" : "7. Waypoints",
     "imageName" : "mappin.and.ellipse",
     "isSysImg" : true,
@@ -910,5 +910,45 @@
     "isSysImg" : true,
     "order" : 16,
     "question" : "What is Data Health?"
+  },
+  {
+    "answer" : "Open a waypoint and tap the pencil. Its details are in groups, each showing the key facts on its header:\n\n• Details: the type (marina, anchorage, mooring field, fuel dock and so on), a description, the body of water, and whether it is a favorite.\n• Contact & Web: VHF channel, phone, email, website and an ActiveCaptain link. The button beside each one calls, emails or opens it.\n• Berth: low-water depth, the dockage rate, shore power (and its amps), water, diesel, gasoline and pump-out.\n• Ashore: toilets, showers, laundry, trash, oil disposal, parts and chandlery, transport, Wi-Fi, the nearest groceries and your own notes.\n\nEach facility is Yes, No or Not known, so a blank never reads as No. When you change them, the group shows the date: facilities change, and an old Yes can mislead.",
+    "category" : "7. Waypoints",
+    "imageName" : "sailboat",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "What can a waypoint record about a marina?"
+  },
+  {
+    "answer" : "Yes, from OpenStreetMap. Edit the waypoint (it needs a position) and tap Fill from OpenStreetMap, under Berth and Ashore.\n\nBoat Manager asks OpenStreetMap, including OpenSeaMap's harbour facilities, what is mapped nearby:\n• at the berth, within about 300 m: toilets, showers, water, fuel, pump-out, trash, and the marina's own phone, website, VHF, power and Wi-Fi where they are mapped;\n• within a walk: ferries, water taxis and buses;\n• within a few miles: the nearest supermarket (and a closer corner shop for basics), laundromats and chandleries. One further than the berth goes in your Facilities Notes rather than marking Laundry or Chandlery Yes.\n\nEach finding shows where it came from and how far away it is. Tick what to copy and tap Save: a finding that fills an empty or Not known field starts ticked, one that would replace something you entered starts unticked. Then Save the waypoint.\n\nOpenStreetMap only lists what local mappers have added. Anything it doesn't mention stays Not known, never No. Coverage is good in many harbours and thin in others, and you can add what's missing at openstreetmap.org.\n\nMap data © OpenStreetMap contributors.",
+    "category" : "7. Waypoints",
+    "imageName" : "map",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "Can Boat Manager fill in a marina's facilities for me?"
+  },
+  {
+    "answer" : "Yes. Find the marina or anchorage on ActiveCaptain (activecaptain.garmin.com, or share it from the ActiveCaptain app) and copy its link. Edit the waypoint, open Contact & Web and paste the link into ActiveCaptain Link, then save. Boat Manager keeps the marker's number, and the button beside it opens the page.\n\nBoat Manager links to ActiveCaptain but doesn't copy from it: read the reviews and details there, and type what matters to you into Berth and Ashore.",
+    "category" : "7. Waypoints",
+    "imageName" : "link",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "Can I link a waypoint to ActiveCaptain?"
+  },
+  {
+    "answer" : "When you choose a body of water for a waypoint, or on a log's USCG section, the list starts with Nearby suggestions for the position:\n• the body of water of any of your waypoints within 2 NM;\n• the built-in bodies of water whose area includes the position, smallest first: Hampton Roads before Chesapeake Bay before the Atlantic Ocean;\n• those of your waypoints further out, to 50 NM.\n\nThe full list follows, grouped by type. Bodies of water you add yourself have no area, so they are suggested only from your nearby waypoints.",
+    "category" : "7. Waypoints",
+    "imageName" : "globe.americas",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "How does Boat Manager suggest a body of water?"
+  },
+  {
+    "answer" : "The ? buttons beside fields and groups open the help for that part of the app. From version 1.6 they are off, to keep the forms uncluttered. Turn them back on in Settings with Show Contextual Help. Help & FAQ is always available from the ? at the top of the screen.",
+    "category" : "9. Settings",
+    "imageName" : "questionmark.circle",
+    "isSysImg" : true,
+    "order" : 17,
+    "question" : "Show Contextual Help?"
   }
 ]
