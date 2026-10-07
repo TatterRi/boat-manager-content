@@ -41,6 +41,8 @@ FIXES
 • Deleting a float plan while searching deletes the one you swiped
 • A CSV import with a row it can't read stops there and says so, instead of hanging
 • Data Health finds duplicate to-dos and logs whose maintenance notes say only "Maintenance", and asks before zeroing negative hours
+• Data Health also finds blank documents and blank logs, and a Documents CSV import no longer leaves blank documents behind
+• Add Crew fills the screen on iPhone
 
 New help for the new features, and the User Guide is updated to match.
 
