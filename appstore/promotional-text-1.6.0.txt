@@ -1,0 +1,1 @@
+New in 1.6: waypoints that record a marina's facilities, filled in from Apple Maps and OpenStreetMap, and quick edits to your logged maintenance tasks.
