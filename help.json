@@ -680,7 +680,7 @@
     "question" : "What are Maintenance Tasks?"
   },
   {
-    "answer" : "If you are in a Log entry, \n• go to the Maintenance Section\n• and tap 'Add Task. \n• A list of suggested tasks from the Maintenance Library will pop up. \n• Either Add one of these to the Log, or \n• Tap the 'Add an Empty Task to Log\" button.\n\nIf you are viewing the Upkeep Maintenance Log:\n• Tap the 'Plus' button. The + button will open the same form to edit an existing logs maintenance entries for the last log entry. You can select a different date and the form will open the data for that date. If a date is selected with no log entry it will add a new log entry for that date.\n",
+    "answer" : "If you are in a Log entry, \n• tap + on the Maint. section.\n• A list of suggested tasks from the Maintenance Library will pop up. \n• Either tap one of these to add it to the Log, or \n• Tap + at the top of the list for a Blank Task, or the checklist button to Run a Checklist.\n\nIf you are viewing the Upkeep Maintenance Log:\n• Tap the 'Plus' button. The + button will open the same form to edit an existing logs maintenance entries for the last log entry. You can select a different date and the form will open the data for that date. If a date is selected with no log entry it will add a new log entry for that date.\n",
     "category" : "5.4 Upkeep",
     "imageName" : "plus",
     "isSysImg" : true,
