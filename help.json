@@ -144,7 +144,7 @@
     "question" : "How can I update the engine hours\/odometer values?"
   },
   {
-    "answer" : "This icon shows the iCloud Synchronization status. If you have data synced to iCloud it will show a green cloud icon. If not it will show a red cloud icon.",
+    "answer" : "This icon shows the iCloud Sync status. If your data is syncing to iCloud the cloud is green; if not, it is red. Tap it for the details.\n\nIt is the iCloud Sync row at the foot of the main menu, above Settings.",
     "category" : "2. First Use",
     "imageName" : "icloud",
     "isSysImg" : true,
@@ -184,7 +184,7 @@
     "question" : "Can I share things into Boat Manager from other apps?"
   },
   {
-    "answer" : "Use the main sidebar menu to access Boats and things shared across boats, such as:\n• Crew, \n• Waypoints, \n• the Planned Maintenance Library & Checklists, \n• Reminders and \n• Analysis\n\nSelect a Boat to use the bottom TabBar to chose between:\n• Ships Details, \n• Gear (Equipment and Spares), \n• Logs\n• Upkeep and \n• Ships Papers\n\n• Swipe left or Right to change Tab.\n• A long press on any list will open a Context Menu with actions.\n• Tap the '?' button at the bottom left of the screen to open this Help menu.\n• The Top right buttons show the Helm and the ToDo Lists.",
+    "answer" : "Use the main sidebar menu to access Boats and things shared across boats, such as:\n• Crew, \n• Waypoints, \n• the Planned Maintenance Library & Checklists, \n• Reminders and \n• Analysis\n\nSelect a Boat to use the bottom TabBar to chose between:\n• Ships Details, \n• Gear (Equipment and Spares), \n• Logs\n• Upkeep and \n• Ships Papers\n\n• Swipe left or Right to change Tab.\n• A long press on any list will open a Context Menu with actions.\n• Tap the ? button at the top right of the screen to open this Help menu.\n• The top right buttons are the lifebelt (emergency message), the Helm, the ToDo Lists and Help.\n• iCloud Sync and Settings are at the foot of the main menu.",
     "category" : "3. Navigation",
     "imageName" : "arrow.trianglehead.turn.up.right.diamond",
     "isSysImg" : true,
@@ -224,7 +224,7 @@
     "question" : "How do I cancel any changes?"
   },
   {
-    "answer" : "Tap the “Trash” icon at the top left of any List.\n\nThis will offer you the option to delete all the boats or show a red ⛔️ icon to the left of the list item you want to delete. \n\nTap on this button to confirm the deletion and then select “Done” at the top left.\n\n⚠️Important Note: If a boat is deleted, it will also delete all related data, such as log books, equipment lists, documents etc.\n\n💡Note: this deletion method applies to all list data in the application (crew, waypoints, logs, documents etc.). It can often be found under the Quick Actions (Context Menu) opened by a 'long press' on a list item",
+    "answer" : "Tap the “Trash” icon at the top left of any List.\n\nThis will offer you the option to delete all the boats or show a red ⛔️ icon to the left of the list item you want to delete. \n\nTap on this button to confirm the deletion and then select “Done” at the top left.\n\n⚠️Important Note: If a boat is deleted, it will also delete all related data, such as log books, equipment lists, documents etc.\n\n💡Note: this deletion method applies to all list data in the application (crew, waypoints, logs, documents etc.). It can often be found under the Quick Actions (Context Menu) opened by a 'long press' on a list item. Deleting from that menu asks you to confirm first.\n\n💡Note: Remove from Log on a maintenance task takes the task off that log; the task itself is kept.",
     "category" : "3. Navigation",
     "imageName" : "trash",
     "isSysImg" : true,
@@ -256,7 +256,7 @@
     "question" : "Drop Down Lists"
   },
   {
-    "answer" : "A long press on a list will bring up a Quick Action (Context) menu. Actions like deleting the list item or in some cases copying or editing the item can be performed from here.",
+    "answer" : "A long press on a list item brings up its Quick Action (Context) menu. Actions like opening, copying or deleting the item are performed from here. Anything that deletes is shown in red and asks before it acts.\n\nEvery log list (Day Log, Fuel, Pumpout, GenSet, the Maintenance Log and Expenses) has the same menu:\n• Open\n• Copy to Another Date…\n• Add to This Day: Fuel, Pump-out, Water, Propane or Maintenance\n• Delete Log…\n\nOn the Maintenance Log, each task under a log has a ⋯ button with the task's own menu:\n• Open Task\n• Mark Complete or Incomplete\n• Done By: yourself, a crew member or a maintenance contact\n• Equipment: what it was done on\n• Add Spare…\n• Copy to Another Log…\n• Remove from Log\n\nInside a log, a long press on a task gives the same menu.",
     "category" : "3. Navigation",
     "imageName" : "contextualmenu.and.cursorarrow",
     "isSysImg" : true,
@@ -312,7 +312,7 @@
     "question" : "The Save Button"
   },
   {
-    "answer" : "The Edit button in the upper right will uplock the form so you can make changes. An unlocked form also allows you to copy and paste from the field.",
+    "answer" : "The Edit button in the upper right unlocks the form so you can make changes. An unlocked form also allows you to copy and paste from the field.\n\nWhile a form is locked its groups still open and close, but their + buttons are greyed out: tap Edit to add a photo, document, spare, contact or task.",
     "category" : "4. Buttons",
     "imageName" : "pencil.circle",
     "isSysImg" : true,
@@ -344,7 +344,7 @@
     "question" : "The ToDo Button"
   },
   {
-    "answer" : "Allows the user preferences to be configured, the default boat and homeport to be selected and key user preferences to be recorded.",
+    "answer" : "Allows the user preferences to be configured, the default boat and homeport to be selected and key user preferences to be recorded.\n\nSettings is at the foot of the main menu, below iCloud Sync.",
     "category" : "4. Buttons",
     "imageName" : "gear",
     "isSysImg" : true,
@@ -352,7 +352,7 @@
     "question" : "The Settings Button"
   },
   {
-    "answer" : "The red lifebelt icon in the bottom toolbar sends an email to the emergency contact set in the user Profile, listing the default boats name, crew and detailed last location.",
+    "answer" : "The red lifebelt in the toolbar at the top right, beside the Helm, sends an email to the emergency contact set in the user Profile, listing the default boat's name, crew and detailed last location.",
     "category" : "4. Buttons",
     "imageName" : "lifepreserver",
     "isSysImg" : true,
@@ -672,7 +672,7 @@
     "question" : "Where is the Maintenance Log?"
   },
   {
-    "answer" : "Actual work is recorded against Maintenance Tasks.\n\nThe task captures:\n• the nature of the work, \n• who did it, \n• when they did it,\n• what equipment they did it on, \n• what spares were consumed,\n• what it cost and \n• if the task was completed and if so when.\n\nCertain equipment Types have pre-populated maintenance checklists that show on the Task form.\n\nAny log can have any number of related maintenance tasks.\n\nThe tasks show on the Upkeep log under the main entry for the day.\n",
+    "answer" : "Actual work is recorded against Maintenance Tasks.\n\nThe task captures:\n• the nature of the work, \n• who did it, \n• when they did it,\n• what equipment they did it on, \n• what spares were consumed,\n• what it cost and \n• if the task was completed and if so when.\n\nCertain equipment Types have pre-populated maintenance checklists that show on the Task form.\n\nAny log can have any number of related maintenance tasks.\n\nThe tasks show on the Upkeep log under the main entry for the day.\n\nOn the Maintenance Log, tap a task to open it, or use its ⋯ button to change it without opening it: mark it complete, set who did it (yourself, a crew member or a maintenance contact) and the equipment it was done on, add a spare it used, or copy it to another log.",
     "category" : "5.4 Upkeep",
     "imageName" : "wrench.and.screwdriver",
     "isSysImg" : true,
@@ -728,7 +728,7 @@
     "question" : "Can I add Waypoints from Maps?"
   },
   {
-    "answer" : "The Library is pre-populated will a list of typical maintenance tasks, sorted by Equipment Type. \n\nEach Item has a recommended maintenance interval either:\n• Daily\n• Months: every 1, 3, 6, 12 or 24 months, or\n• Service Hours: every 50, 100, 250 or 1000 hours.\n\nThe filter on the Library finds items by how often they recur: daily, monthly, quarterly, every six months, annually or every two years.\n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
+    "answer" : "The Library is pre-populated will a list of typical maintenance tasks, sorted by Equipment Type. \n\nEach Item has a recommended maintenance interval either:\n• Daily\n• Months: every 1, 3, 6, 12 or 24 months, or\n• Service Hours: every 50, 100, 250, 500 or 1000 hours.\n\nThe five boxes beside each item show which services it falls due at: 50 hours or 1 month, 100 hours or 3 months, 250 hours or 6 months, 500 hours or 12 months, and 1000 hours or 24 months. An item done every 3 months is also done at the 6, 12 and 24 month services, so it is ticked in all four.\n\nThe filter on the Library finds items by how often they recur: daily, monthly, quarterly, every six months, annually or every two years.\n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
     "category" : "8. Maintenance",
     "imageName" : "book.and.wrench",
     "isSysImg" : true,
@@ -888,7 +888,7 @@
     "question" : "Track USCG Days?"
   },
   {
-    "answer" : "Go to Settings > Data Import And Export > CSV Export.\nEach data set can be exported individually or select \"All\" for all to be done in a batch.",
+    "answer" : "Go to Settings > Data Import And Export > CSV Export.\nEach data set can be exported individually or select \"All\" for all to be done in a batch.\n\nFloat Plans are included, each with its itinerary and passengers.",
     "category" : "9. Settings",
     "imageName" : "tray.and.arrow.up",
     "isSysImg" : true,
@@ -896,7 +896,7 @@
     "question" : "How do I export my data?"
   },
   {
-    "answer" : "Go to Settings > Data Import And Export > CSV Import.\n\nEach data set must imported individually. Its best done in the sequence shown on the view, as that minimizes the risk that the Parent->Child relationships become confused. \n",
+    "answer" : "Go to Settings > Data Import And Export > CSV Import.\n\nEach data set must imported individually. Its best done in the sequence shown on the view, as that minimizes the risk that the Parent->Child relationships become confused.\n\nIf a row in a file can't be read, the import stops at that row and says which one; the rows before it are imported.",
     "category" : "9. Settings",
     "imageName" : "tray.and.arrow.down",
     "isSysImg" : true,
