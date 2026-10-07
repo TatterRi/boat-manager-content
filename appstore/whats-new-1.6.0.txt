@@ -7,7 +7,7 @@ FILL FROM MAPS
 While editing a waypoint, tap Fill from Maps. Apple Maps gives the marina's name and phone and the nearest supermarket and laundry; OpenStreetMap gives the boating facilities: toilets, water, fuel and pump-out at the berth, Safe Harbor, VHF. Set how far to look; a mooring's facilities are ashore. Tick what to copy; nothing you entered is replaced unless you choose.
 
 A LOGGED PORT BECOMES A WAYPOINT
-Open any log whose port has no waypoint and tap Save as Waypoint: it starts with the port's name, the log's position and a type from its berth. Every log at that port then links to it.
+Open any log whose port has no waypoint and tap Save as Waypoint: it starts with the port's name, the log's position and a type from its berth. Every log at that port then links to it. Choosing a port, the list now starts with the three nearest waypoints.
 
 ONE MENU FOR EVERY LOG
 Long-press a log on any of its lists, from the Day Log to Expenses, for the same menu: open it, copy it to another date, add fuel, a pump-out, water, propane or maintenance to that day, or delete it, which now asks first.
