@@ -936,7 +936,7 @@
     "question" : "What happens to my logs if I rename a waypoint?"
   },
   {
-    "answer" : "The name the logs use. Set Niki Tattersfield's Display Name to Niki, and People on Board, Done By and the log PDFs say Niki. Float plans keep the full Crew Name, which is what a float plan needs. Leave it blank to use the Crew Name.\n\nChanging either name carries through: every log, task and float plan that named the person by the old name now uses the new one. Linking someone to a Contact sets their Crew Name to the Contact's name and keeps the name you used as their Display Name.",
+    "answer" : "The name the logs use. Give someone a first name or nickname as their Display Name, and People on Board, Done By and the log PDFs use it. Float plans keep the full Crew Name, which is what a float plan needs. Leave it blank to use the Crew Name.\n\nChanging either name carries through: every log, task and float plan that named the person by the old name now uses the new one. Linking someone to a Contact sets their Crew Name to the Contact's name and keeps the name you used as their Display Name.",
     "category" : "6. Crew",
     "imageName" : "person.text.rectangle",
     "isSysImg" : true,
