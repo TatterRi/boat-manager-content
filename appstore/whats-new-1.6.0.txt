@@ -1,49 +1,53 @@
-Waypoints made for liveaboards, filled in from Maps, and quicker ways to work with your log and maintenance.
+Waypoints made for liveaboards, filled in from Maps, and every part of the app a tap closer.
 
 WAYPOINTS FOR LIVEABOARDS
-A waypoint now records what you need to know about a place: its type and operator, whether it's a Safe Harbor marina (with your member number beside it), VHF channel, phone and email; at the berth, low-water depth, dockage, shore power, water, fuel and pump-out; ashore, toilets, showers, laundry, trash, oil disposal, chandlery, transport, Wi-Fi and the nearest groceries. Each is Yes, No or Not known, dated when it changes.
+Record your own view of a place: type, operator, address, Safe Harbor (with your member number), VHF, phone and email. At the berth: slips, moorings or anchorage, depth, dockage, shore power by amps and volts, water, fuel, pump-out, wake protection, dinghy dock. For liveaboards: welcome or transients only, mail and packages, gated docks, feels safe, walkable, Uber. Ashore: laundry and its cost, pharmacy, medical, bars and restaurants by name, marine stores, pet friendly, courtesy car. Services: yard work, propane, mechanical, electrical, canvas and more. Each is Yes, No or Not known, dated when it changes.
 
 FILL FROM MAPS
-While editing a waypoint, tap Fill from Maps. Apple Maps gives the marina's name and phone and the nearest supermarket and laundry; OpenStreetMap gives the boating facilities: toilets, water, fuel and pump-out at the berth, Safe Harbor, VHF. Set how far to look; a mooring's facilities are ashore. Tick what to copy; nothing you entered is replaced unless you choose.
+While editing a waypoint, tap Fill from Maps. Apple Maps gives the marina's name, phone and address and what's nearby; OpenStreetMap gives the boating facilities. Tick what to copy; nothing you entered is replaced unless you choose.
+
+FIND THE RIGHT PLACE
+Filter waypoints by what they have — moorings, pump-out and liveaboards welcome, together. Each shows how often you've logged there.
+
+NAMES CAN CHANGE
+Rename a waypoint and its logbook keeps every visit. Crew get a Display Name for the logs — Niki, not Niki Tattersfield — and a rename carries through their logs, tasks and float plans. Renamed maintenance items keep their history; to-do tags follow what they tag.
+
+ICONS THAT TAKE YOU THERE
+Blue icons now do something. On a log row they open the log at that part: Tankage, Maintenance, Weather, the berth, the people aboard. Equipment, Spares and Tools icons open those groups; a document's icon opens the file, an expense's paperclip its invoice, a task's gear its equipment.
 
 A LOGGED PORT BECOMES A WAYPOINT
-Open any log whose port has no waypoint and tap Save as Waypoint: it starts with the port's name, the log's position and a type from its berth. Every log at that port then links to it. Choosing a port, the list now starts with the three nearest waypoints.
+Tap Save as Waypoint on any log whose port has none. Choosing a port, the list starts with the three nearest.
 
 ONE MENU FOR EVERY LOG
-Long-press a log on any of its lists, from the Day Log to Expenses, for the same menu: open it, copy it to another date, add fuel, a pump-out, water, propane or maintenance to that day, or delete it, which now asks first.
+Long-press a log on any list for the same menu: open, copy to another date, add fuel, pump-out, water, propane or maintenance to that day, or delete, which now asks first.
 
 TASKS FROM THE MAINTENANCE LOG
-Tap a task under a log to open it. Its ⋯ button marks it complete, sets who did it (you, your crew or a maintenance contact) and the equipment, adds a spare it used, or copies it to another log, all without opening it.
+Each task's ⋯ button marks it complete, sets who did it and the equipment, adds a spare, or copies it to another log, without opening it.
 
 SIX MONTHS GETS ITS OWN COLUMN
-The Maintenance Library's service columns are now 50 hours or 1 month, 100 or 3, 250 or 6, 500 or 12, and 1000 or 24, and an item can repeat every 500 hours. Your items move into the new columns by themselves.
+Service columns are now 50 h or 1 month, 100 or 3, 250 or 6, 500 or 12, 1000 or 24. Your items move by themselves.
 
 EVERY SCREEN AT A GLANCE
-Groups start closed and each header shows what matters in it: the day's costs, the engine hours, the tasks done, the weather. The log, Equipment, Spares, Crew and the boat's Specs all work the same way, and every list shows a photo or icon beside each name.
+Groups start closed and each header shows what's in it. Lists show a photo or icon beside each name.
 
-MORE ROOM ON IPAD AND MAC
-The bottom bar is gone: the lifebuoy sits at the top beside the Helm, and iCloud Sync and Settings are at the foot of the menu. Checklists show the list and the checklist side by side.
-
-QUICKER TO THE LOG ON IPHONE
-The app opens on your default boat, the tabs are labelled, and the lifebuoy sits at the top. Sort menus on the main lists, your recent choices at the top of pickers, and an empty list now says what goes in it.
+MORE ROOM ON IPAD AND MAC, QUICKER ON IPHONE
+The bottom bar is gone: the lifebuoy sits beside the Helm, iCloud Sync and Settings at the foot of the menu, checklists side by side. iPhone opens on your default boat.
 
 AND MORE
-• Paste a marker's ActiveCaptain link into a waypoint, and one tap opens its page
-• Picking a body of water suggests the ones around you first, smallest first
-• CSV Export and Import now include Float Plans, with their itineraries and passengers
-• The ? help buttons are off; turn them back on in Settings, Show Contextual Help
+• ActiveCaptain links on waypoints
+• Body-of-water suggestions from where you are
+• Float Plans in CSV Export and Import
+• The log's narrative grows as you type
+• The ? help buttons are off; turn them on in Settings
 
 FIXES
 • Sheets no longer open blank the first time
-• Officialdom opens at once on iPhone
+• Opening a log no longer replaces its body of water with its waypoint's
 • A search no longer carries over to the next list
-• CSV export keeps equipment linked to its maintenance items
+• CSV import stops at a row it can't read instead of hanging, and Documents import no longer leaves blank documents
+• Data Health finds duplicate to-dos, blank documents and logs, and placeholder maintenance notes
 • Deleting a float plan while searching deletes the one you swiped
-• A CSV import with a row it can't read stops there and says so, instead of hanging
-• Data Health finds duplicate to-dos and logs whose maintenance notes say only "Maintenance", and asks before zeroing negative hours
-• Data Health also finds blank documents and blank logs, and a Documents CSV import no longer leaves blank documents behind
+• Float plans fill in the operator from the log's captain; a tool's reminder opens the tool
 • Add Crew fills the screen on iPhone
 
-New help for the new features, and the User Guide is updated to match.
-
-Fair winds. Questions and suggestions are always welcome — they are what shapes each release.
+Fair winds. Questions and suggestions are always welcome — they shape each release.
