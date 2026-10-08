@@ -38,6 +38,7 @@ AND MORE
 • Body-of-water suggestions from where you are
 • Float Plans in CSV Export and Import
 • The log's narrative grows as you type
+• On a smaller iPhone or with larger text, the log lists fit the screen instead of cutting off at the edges
 • The ? help buttons are off; turn them on in Settings
 
 FIXES
