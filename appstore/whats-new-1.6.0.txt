@@ -10,7 +10,7 @@ FIND THE RIGHT PLACE
 Filter waypoints by what they have — moorings, pump-out and liveaboards welcome, together. Each shows how often you've logged there.
 
 NAMES CAN CHANGE
-Rename a waypoint and its logbook keeps every visit. Crew get a Display Name for the logs — Niki, not Niki Tattersfield — and a rename carries through their logs, tasks and float plans. Renamed maintenance items keep their history; to-do tags follow what they tag.
+Rename a waypoint and its logbook keeps every visit. Crew get a Display Name for the logs — a first name or nickname instead of their full name — and a rename carries through their logs, tasks and float plans. Renamed maintenance items keep their history; to-do tags follow what they tag.
 
 ICONS THAT TAKE YOU THERE
 Blue icons now do something. On a log row they open the log at that part: Tankage, Maintenance, Weather, the berth, the people aboard. Equipment, Spares and Tools icons open those groups; a document's icon opens the file, an expense's paperclip its invoice, a task's gear its equipment.
