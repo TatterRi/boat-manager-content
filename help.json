@@ -910,5 +910,45 @@
     "isSysImg" : true,
     "order" : 16,
     "question" : "What is Data Health?"
+  },
+  {
+    "answer" : "Your own view of a place, kept whatever ActiveCaptain or the guides say.\n\n• Contact & Web: VHF, phone, email, website and the address\n• Berth: slips, moorings or anchorage, low-water depth, dockage, shore power by amps and volts, water, fuel, pump-out, wake protection and a dinghy dock\n• Liveaboard: whether liveaboards are welcome or it's transients only, mail and packages, gated or locked docks, whether it feels safe, walkable, Uber or Lyft\n• Ashore: toilets, showers, laundry and what it costs, pharmacy and medical (with how far), liquor, fishing and marine stores, bars, restaurants and yacht clubs (with their names), pet friendly, courtesy car\n• Services: yard work, propane refill, propeller repair, mechanical, marine HVAC, electrical and batteries, canvas and sails, DIY work allowed\n\nEach is Yes, No or Not known; Not known is not the same as No. The \"As of\" date moves whenever any of it changes, so you can tell how fresh it is. Tap Edit to change them; Fill from Maps can fill the address and what's nearby.",
+    "category" : "7. Waypoints",
+    "imageName" : "list.bullet.clipboard",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "What can a waypoint record?"
+  },
+  {
+    "answer" : "In Waypoints, tap the filter button. Under Berth, Liveaboard, Ashore and Services, tick what you need — say Moorings, Pump-out and Liveaboards Welcome. Only places with all of them stay in the list. Clear Filter(s) shows everything again.\n\nEach waypoint also shows how many times you've logged there.",
+    "category" : "7. Waypoints",
+    "imageName" : "line.3.horizontal.decrease.circle",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "How do I find a place with what I need?"
+  },
+  {
+    "answer" : "They stay with it. Fill from Maps often suggests a better name; when you save the new one, every log that was at that waypoint stays in its Logbook, and View waypoint still works from those logs. Each log keeps the port as you wrote it on the day.\n\nLogs from before 1.6 find their waypoint by name until they are linked. Data Health lists \"Logs not linked to their waypoint\", one line per waypoint, and Fix links them.",
+    "category" : "7. Waypoints",
+    "imageName" : "arrow.triangle.2.circlepath",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "What happens to my logs if I rename a waypoint?"
+  },
+  {
+    "answer" : "The name the logs use. Set Niki Tattersfield's Display Name to Niki, and People on Board, Done By and the log PDFs say Niki. Float plans keep the full Crew Name, which is what a float plan needs. Leave it blank to use the Crew Name.\n\nChanging either name carries through: every log, task and float plan that named the person by the old name now uses the new one. Linking someone to a Contact sets their Crew Name to the Contact's name and keeps the name you used as their Display Name.",
+    "category" : "6. Crew",
+    "imageName" : "person.text.rectangle",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "What is a Display Name?"
+  },
+  {
+    "answer" : "A blue icon on a list row is a shortcut; a grey one is only a hint.\n\n• Log rows: fuel, water, pump-out and propane open the log at Tankage; the spanner at Maintenance; the weather at Weather; the berth at Location; the people at People on Board; the bolt at Engine Hours\n• Expenses: each cost's icon opens the log where that cost is entered, and the paperclip opens the attached invoice or receipt\n• Equipment, Spares and Tools: the paperclip opens Attachments, the box Spares, the spanner the Logbook, the link the website\n• Papers: the document's icon opens the file itself\n• Maintenance Log: the gear beside a task's equipment opens that equipment\n\nTapping anywhere else on the row opens it as usual.",
+    "category" : "3. Navigation",
+    "imageName" : "hand.tap",
+    "isSysImg" : true,
+    "order" : 14,
+    "question" : "What do the blue icons on a row do?"
   }
 ]
