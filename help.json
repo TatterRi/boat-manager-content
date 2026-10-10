@@ -698,8 +698,8 @@
   {
     "answer" : "Planning is a tool to enable you to create reminders for maintenance for the upcoming season.",
     "category" : "5.4 Upkeep",
-    "imageName" : "calendar.badge.plus",
-    "isSysImg" : false,
+    "imageName" : "list.clipboard",
+    "isSysImg" : true,
     "order" : 6,
     "question" : "What is Planning?"
   },
