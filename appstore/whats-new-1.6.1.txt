@@ -1,0 +1,31 @@
+Maintenance items that list just their own jobs, an icon for every job, and the spares each task used, a tap away.
+
+JOBS THAT FIT THE ITEM
+A library item lists only the jobs it tracks, each with its icon. Add Job finds the rest: the jobs for its equipment type, the ones you use most, or any job, so a watermaker can have an impeller check. Logging a task shows the item's own jobs, with Show All Jobs for the extra one you did while you were there. An item with no job listed is its own job, ticked off by name, and can be due by engine hours.
+
+AN ICON FOR EVERY JOB
+Library items, Upkeep and each piece of equipment show an icon for the job: a windlass, strainer, bilge pump, cleat, porthole, filter, paintbrush and more. The oil change has its own, and generators can have belt checks. Bridges, locks and oil disposal have their own icons on waypoints too.
+
+SPARES USED
+A maintenance task names the spares it used, and its box opens them. Each spare lists every task that used it, how many, and when last. Take a spare off a task and you're asked whether to return it to stock.
+
+PHOTOS AND THE CHART
+Photos fill the width, with a boat's others as thumbnails in the corner; crew and contacts are portraits. Add Photo sits in the corner, and the photo's ⋯ menu replaces or deletes it. A log or waypoint opens on a wide chart with its photo in the corner, and on iPad the position sits beside it.
+
+SET ASIDE
+Set an overdue job aside until it is next logged, and an expired document in Papers, so they stop counting against the boat. Record a boat's date and price of sale.
+
+PICKERS AND WAYPOINTS
+Port, crew and location pickers are steadier and quicker to search, and open as a card on iPad. Waypoints show friendly badges such as groceries, pharmacy and medical, sort by most visited, and their types have icons.
+
+FIXES
+• The boat's PFD count keeps its value
+• Editing one boat no longer changes another or leaves two default boats
+• The date, engine-hours and distance filters are easier to use
+• Maintenance items fit beside the iPad sidebar
+• Add Contact shows the whole form on Mac
+• Weather is not fetched for a log with no position
+• Data Health finds ports with no waypoint, waypoints never visited, and engine hours of zero after real readings
+• With larger text on a small iPhone, group summaries and list rows wrap instead of cutting off
+
+Fair winds. Questions and suggestions are always welcome — they shape each release.
