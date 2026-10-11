@@ -520,7 +520,7 @@
     "question" : "Can I copy Equipment between Boats?"
   },
   {
-    "answer" : "The Spares menu stores the Name, Manufacturer, Manufacturers Part Number, cost and quantity. \n\nThe Location is configurable (under Settings > List Categories)\n\nThe 'Shopping cart' icon automatically adds the Spares details to the Shopping list. The Shopping list is in the top right corner next to ToDo.\n\nSpares can also be linked to equipment, have an expiry date and attachments.\n\nYou can filter the Spares Inventory List for out of Stock items or Spares by Location.",
+    "answer" : "The Spares menu stores the Name, Manufacturer, Manufacturers Part Number, cost and quantity. \n\nThe Location is configurable (under Settings > List Categories)\n\nThe 'Shopping cart' icon automatically adds the Spares details to the Shopping list. The Shopping list is in the top right corner next to ToDo.\n\nSpares can also be linked to equipment, have an expiry date and attachments.\n\nYou can filter the Spares Inventory List for out of Stock items or Spares by Location.\n\nA spare's Used in Maintenance lists every task that used it, with the date, the equipment and how many, newest first; tap one to open the task.",
     "category" : "5.2 Gear & Spares",
     "imageName" : "shippingbox",
     "isSysImg" : true,
@@ -640,7 +640,7 @@
     "question" : "Log Notes"
   },
   {
-    "answer" : "Yes. Swipe to the right at the top of the Log form and a picture frame appears. You can add a photo or a picture from your photo library here.",
+    "answer" : "Yes. A log, and a waypoint, opens on its chart. Tap Edit, then Add Photo in the chart's corner to choose a photo or take one.\n\nThe photo then shows as a thumbnail in that corner: tap it to swap the photo and the chart, and the expand button to see it full screen. While editing, the ⋯ menu on the photo replaces or deletes it.",
     "category" : "5.3 Logs",
     "imageName" : "photo",
     "isSysImg" : true,
@@ -672,7 +672,7 @@
     "question" : "Where is the Maintenance Log?"
   },
   {
-    "answer" : "Actual work is recorded against Maintenance Tasks.\n\nThe task captures:\n• the nature of the work, \n• who did it, \n• when they did it,\n• what equipment they did it on, \n• what spares were consumed,\n• what it cost and \n• if the task was completed and if so when.\n\nCertain equipment Types have pre-populated maintenance checklists that show on the Task form.\n\nAny log can have any number of related maintenance tasks.\n\nThe tasks show on the Upkeep log under the main entry for the day.\n\nOn the Maintenance Log, tap a task to open it, or use its ⋯ button to change it without opening it: mark it complete, set who did it (yourself, a crew member or a maintenance contact) and the equipment it was done on, add a spare it used, or copy it to another log.",
+    "answer" : "Actual work is recorded against Maintenance Tasks.\n\nThe task captures:\n• the nature of the work, \n• who did it, \n• when they did it,\n• what equipment they did it on, \n• what spares were consumed,\n• what it cost and \n• if the task was completed and if so when.\n\nA task from a library Item shows that Item's jobs to tick. If you did something else while you were there, tap Show All Jobs for the rest.\n\nThe spares a task used are named under it on the Maintenance Log; tap the box to open the spare. To take a spare off a task, tap its ⊖: you are asked whether to return the quantity to that spare's stock, as for one added by mistake, or leave the stock as it is, as for one that was used.\n\nAny log can have any number of related maintenance tasks.\n\nThe tasks show on the Upkeep log under the main entry for the day.\n\nOn the Maintenance Log, tap a task to open it, or use its ⋯ button to change it without opening it: mark it complete, set who did it (yourself, a crew member or a maintenance contact) and the equipment it was done on, add a spare it used, or copy it to another log.",
     "category" : "5.4 Upkeep",
     "imageName" : "wrench.and.screwdriver",
     "isSysImg" : true,
@@ -688,7 +688,7 @@
     "question" : "How do I add a Maintenance Task?"
   },
   {
-    "answer" : "The Maintenance Dashboard shows the last maintenance task date for selected equipment. The elapsed time\/service hours since that service are also shown.\n\nTo show a piece of equipment on the dashboard go to Boat > Equipment > Maintenance > Maintenance Status > Show On Dashboard\n\nPre-populated checkboxes for that equipments type (if any) will show along with the number of Days or Service Hours since.\n",
+    "answer" : "The Maintenance Dashboard shows the last maintenance task date for selected equipment. The elapsed time\/service hours since that service are also shown.\n\nTo show a piece of equipment on the dashboard go to Boat > Equipment > Maintenance > Maintenance Status > Show On Dashboard\n\nPre-populated checkboxes for that equipments type (if any) will show along with the number of Days or Service Hours since.\n\nTap a count (overdue, due soon, never logged) to show only the jobs that need attention. A job you don't mean to do yet can be set aside: open it and choose Set Aside Until Next Logged, and it stays out of the counts until then. To see the jobs set aside, tap N set aside under the counts; open one and choose Bring Back to return it.",
     "category" : "5.4 Upkeep",
     "imageName" : "gauge.with.dots.needle.bottom.100percent",
     "isSysImg" : true,
@@ -728,7 +728,7 @@
     "question" : "Can I add Waypoints from Maps?"
   },
   {
-    "answer" : "The Library is pre-populated will a list of typical maintenance tasks, sorted by Equipment Type. \n\nEach Item has a recommended maintenance interval either:\n• Daily\n• Months: every 1, 3, 6, 12 or 24 months, or\n• Service Hours: every 50, 100, 250, 500 or 1000 hours.\n\nThe five boxes beside each item show which services it falls due at: 50 hours or 1 month, 100 hours or 3 months, 250 hours or 6 months, 500 hours or 12 months, and 1000 hours or 24 months. An item done every 3 months is also done at the 6, 12 and 24 month services, so it is ticked in all four.\n\nThe filter on the Library finds items by how often they recur: daily, monthly, quarterly, every six months, annually or every two years.\n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
+    "answer" : "The Library is pre-populated will a list of typical maintenance tasks, sorted by Equipment Type. \n\nEach Item has a recommended maintenance interval either:\n• Daily\n• Months: every 1, 3, 6, 12 or 24 months, or\n• Service Hours: every 50, 100, 250, 500 or 1000 hours.\n\nThe five boxes beside each item show which services it falls due at: 50 hours or 1 month, 100 hours or 3 months, 250 hours or 6 months, 500 hours or 12 months, and 1000 hours or 24 months. An item done every 3 months is also done at the 6, 12 and 24 month services, so it is ticked in all four.\n\nEach Item tracks one or more jobs, such as an oil change, an impeller check or a belt check, each shown with its icon. An Item's Jobs show only the jobs it tracks: tap Edit, then Add Job to choose another, or ⊖ to remove one. Add Job lists the jobs for the Item's equipment type, or tap All Jobs for every job, with the ones you use most first. An Item with no job listed is its own job: it is ticked off by its name when you log it, and it is due by engine hours when its interval is in Service Hours.\n\nThe filter on the Library finds items by how often they recur: daily, monthly, quarterly, every six months, annually or every two years.\n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
     "category" : "8. Maintenance",
     "imageName" : "book.and.wrench",
     "isSysImg" : true,
@@ -950,5 +950,13 @@
     "isSysImg" : true,
     "order" : 14,
     "question" : "What do the blue icons on a row do?"
+  },
+  {
+    "answer" : "Open the Item from the Maintenance Library and tap Edit. Its Jobs list the jobs it tracks.\n\n• Add Job opens a list of jobs to choose from: those for the Item's equipment type first, or tap All Jobs for every job, with the ones you use most at the top. Search to find one.\n• ⊖ beside a job removes it.\n\nThe Item's interval (in months or service hours) applies to its jobs, and Upkeep tracks each one. An Item with no job listed is a job itself: it is ticked off by its name when logged.",
+    "category" : "8. Maintenance",
+    "imageName" : "checklist",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "How do I choose an Item's jobs?"
   }
 ]
