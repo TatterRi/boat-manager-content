@@ -18,6 +18,9 @@ Set an overdue job aside until it is next logged, and an expired document in Pap
 PICKERS AND WAYPOINTS
 Port, crew and location pickers are steadier and quicker to search, and open as a card on iPad. Waypoints show friendly badges such as groceries, pharmacy and medical, sort by most visited, and their types have icons.
 
+LINKING DOCUMENTS
+Link a document to the equipment, spare, log, task, crew member or waypoint it belongs with from lists that are grouped, easy to read and quick to search. Each suggests what fits and says why, keeps the ones you linked last at the top, and its ⓘ opens a record to check before you link it. Tap a linked record again to unlink it.
+
 FIXES
 • The boat's PFD count keeps its value
 • Editing one boat no longer changes another or leaves two default boats
