@@ -1,0 +1,36 @@
+Tell Boat Manager what's aboard and it sets up your equipment with the maintenance jobs that fit, from a bigger library, with checklists to run step by step.
+
+WHAT'S ABOARD?
+Say what your boat has (power or sail, engines, fuel, generator, watermaker, A/C, thrusters, offshore gear, a tender) and Boat Manager adds the equipment, each piece with the maintenance jobs that fit it. Untick what isn't aboard. From onboarding, or an empty Gear list. A tender becomes a boat of its own.
+
+A BIGGER LIBRARY
+36 new jobs, from smoke alarms, EPIRB tests and the LPG leak test to impellers, rigging, A/C and the tender outboard on Yamaha's schedule, each saying whether its interval is common practice or the maker's. Jobs can be due on hours or months, whichever comes first, with intervals up to five years or 1,000 hours.
+
+CHECKLISTS TO RUN
+Lay-up, recommission, engine and generator oil changes, pre-departure, engine-room rounds, leaving the boat, named storm, fueling and winter aboard: run step by step, each step Done, Not done or N/A, and the library jobs among them logged as you go. Checklists can be filtered and sorted.
+
+START A HAUL-OUT
+A new project can start from Haul-out: bottom paint, anodes, props, shafts, rudder, through-hulls and transducers, planned on the day you haul.
+
+NOT STARTED YET
+A job you've never logged reads Not started yet, not overdue, until you log it once. New equipment no longer arrives as a wall of work.
+
+NEARBY
+From the Helm, the nearest marinas, fuel, anchorages and towing, with their distance, a call button and directions. Your Safe Harbor membership shows your nights, dockage and the fuel price you paid there against elsewhere.
+
+RECEIPTS READ FOR YOU
+Share an invoice or receipt to Expenses and its total, date and vendor are filled in, read on your device. Change anything that isn't right.
+
+APPEARANCE
+Light, Dark, or as your device is set. Onboarding has a Back button, and new users get well-known landmarks near their home port.
+
+FIXES
+• A displacement over 32,767 lb no longer crashes the app, and number fields say when a value is too large
+• The number of engines and net tonnage are saved
+• Editing a second boat while the Helm is open no longer affects the default boat
+• The starter library loads in every region, not only the US
+• Sheets are padded once, with Save clear of the corners
+• The USCG report lists bodies of water by days
+• The Mac sidebar no longer leaves a ring on the last item
+
+Fair winds. Questions and suggestions are always welcome — they shape each release.

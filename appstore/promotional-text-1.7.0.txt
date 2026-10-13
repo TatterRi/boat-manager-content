@@ -1,0 +1,1 @@
+New in 1.7: tell Boat Manager what's aboard and it adds your equipment with its maintenance jobs. Checklists to run, a haul-out planner, and Nearby.

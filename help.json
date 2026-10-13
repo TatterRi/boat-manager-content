@@ -958,5 +958,53 @@
     "isSysImg" : true,
     "order" : 4,
     "question" : "How do I choose an Item's jobs?"
+  },
+  {
+    "answer" : "Use What's Aboard. It's a page in onboarding, and the Start From What's Aboard button on an empty Gear list.\n\nSay what kind of boat it is and what's aboard: power or sail, single or twin engines, outboard or none, the fuel, and toggles for a generator, watermaker, air conditioning, LPG, thrusters, stabilizers, trim tabs, hydraulic steering, autopilot, offshore gear and a tender. It starts from what the boat's Specs already say.\n\nBelow is the equipment that will be added, every piece ticked, with how many maintenance jobs come with it. Untick what isn't aboard and tap Save. Each piece gets the library jobs that fit it: a diesel gets no spark plugs, twins get a port and a starboard set, and each engine's jobs count its own engine hours. A tender is added as a boat of its own, with its outboard.\n\nEquipment already on the boat by the same name isn't offered again. The jobs show as Not started yet until you first log them.",
+    "category" : "5.2 Gear & Spares",
+    "imageName" : "fanblades",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "How do I set up my boat's equipment quickly?"
+  },
+  {
+    "answer" : "It has never been logged, so there's no date or engine hours to count its interval from. Rather than call every new job overdue, Boat Manager leaves it out of the overdue and due-soon counts and the Planning outlook's Due now, and lists it under Not started yet.\n\nLog the job once, or log it with the date it was last done, and it starts counting from then.",
+    "category" : "5.4 Upkeep",
+    "imageName" : "circle.dashed",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "Why does a job say Not started yet?"
+  },
+  {
+    "answer" : "Go to Upkeep, Planning, Projects, then New Project, and set Start from to Haul-out. It fills in the name, notes and a week from the start date, and lists the jobs: haul out and pressure-wash, bottom paint, anodes, propellers, shafts and cutless bearings, rudder, through-hulls and seacocks, and transducers. Thruster and stabilizer jobs are ticked only if the boat has them.\n\nUntick anything that doesn't apply and set the date you haul. Save plans the jobs together on that date. Tick each one off as it's done, and a library job's next due date moves.",
+    "category" : "5.4 Upkeep",
+    "imageName" : "hammer",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "How do I plan a haul-out?"
+  },
+  {
+    "answer" : "Eleven to start from, each run step by step with every step Done, Not done or N\/A:\n• Lay-up (Winterization) and Recommission (Spring)\n• Engine oil change and Generator oil change\n• Pre-departure and Engine-room rounds (underway)\n• Leaving the boat, short and long absence\n• Named storm, Fueling, and Winter aboard\n\nA step that is also a library job logs that job when you mark it Done. Edit any of them for your boat. If you've used Boat Manager before 1.7, the Checklists list offers to add the ones you don't have; the ✕ hides the offer.",
+    "category" : "8. Maintenance",
+    "imageName" : "checklist",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "Which checklists come with the app?"
+  },
+  {
+    "answer" : "On the Helm, under Current Location, Nearby lists the nearest marinas, fuel, anchorages and towing services within 25 nautical miles, from Apple Maps, each with its distance, a call button where Apple has a number, and Open in Maps.\n\nIt also shows your BoatUS membership from your Profile, with BoatUS's 24-hour towing dispatch. In an emergency, call on VHF channel 16.",
+    "category" : "2. First Use",
+    "imageName" : "location.magnifyingglass",
+    "isSysImg" : true,
+    "order" : 22,
+    "question" : "What does Nearby show?"
+  },
+  {
+    "answer" : "Yes. Share a PDF invoice or a photo of a receipt to Boat Manager and file it as an Expense. Its total, date and vendor are read on your device and filled in. Nothing is sent anywhere. Check them and change anything that isn't right before you save.\n\nIt looks for a line saying total or amount due; with none, it takes the largest amount on the page.",
+    "category" : "5.1 Expenses",
+    "imageName" : "doc.text.viewfinder",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "Can Boat Manager read a receipt?"
   }
 ]
