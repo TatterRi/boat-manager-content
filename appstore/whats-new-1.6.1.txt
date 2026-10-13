@@ -28,6 +28,9 @@ FIXES
 • Maintenance items fit beside the iPad sidebar
 • Add Contact shows the whole form on Mac
 • Weather is not fetched for a log with no position
+• A float plan's PDF lists its stops in trip order
+• Analysis is recalculated: a day on two boats counts once, Last Month and Last Year include their last day, burn rate and economy run fill to fill for each boat, months with no fuel are left off the charts, and a task's budget no longer counts as money spent
+• USCG sea time lists days with no body of water recorded on their own row
 • Data Health finds ports with no waypoint, waypoints never visited, and engine hours of zero after real readings
 • With larger text on a small iPhone, group summaries and list rows wrap instead of cutting off
 
