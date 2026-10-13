@@ -1,0 +1,6 @@
+A fix for new users outside the US.
+
+FIXES
+• New users outside the US get the starter maintenance library. It depended on the device's date format, so in regions that write the day first it was left empty.
+
+Fair winds. Questions and suggestions are always welcome — they shape each release.
