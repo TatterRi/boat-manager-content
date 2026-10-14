@@ -144,7 +144,7 @@
     "question" : "How can I update the engine hours\/odometer values?"
   },
   {
-    "answer" : "This icon shows the iCloud Sync status. If your data is syncing to iCloud the cloud is green; if not, it is red. Tap it for the details.\n\nIt is the iCloud Sync row at the foot of the main menu, above Settings.",
+    "answer" : "This icon shows the iCloud Sync status. Green is up to date; red is a problem; a blue circling cloud is a download under way. Tap it for the details.\n\nThe details show your iCloud account and network, setup, download and upload with their times, and from this device's own record the last download, upload and any problem this week, in words.\n\nA device that has been away for a while can take some time to catch up. Keep Boat Manager open and in front, on Wi-Fi and ideally on power, until it turns green. A download that's cut off (the app closed, the device locked) carries on next time.\n\nIt is the iCloud Sync row at the foot of the main menu, above Settings.",
     "category" : "2. First Use",
     "imageName" : "icloud",
     "isSysImg" : true,
@@ -224,7 +224,7 @@
     "question" : "How do I cancel any changes?"
   },
   {
-    "answer" : "Tap the “Trash” icon at the top left of any List.\n\nThis will offer you the option to delete all the boats or show a red ⛔️ icon to the left of the list item you want to delete. \n\nTap on this button to confirm the deletion and then select “Done” at the top left.\n\n⚠️Important Note: If a boat is deleted, it will also delete all related data, such as log books, equipment lists, documents etc.\n\n💡Note: this deletion method applies to all list data in the application (crew, waypoints, logs, documents etc.). It can often be found under the Quick Actions (Context Menu) opened by a 'long press' on a list item. Deleting from that menu asks you to confirm first.\n\n💡Note: Remove from Log on a maintenance task takes the task off that log; the task itself is kept.",
+    "answer" : "Tap the “Trash” icon at the top left of a list. Delete Row shows a red ⛔️ beside each entry; tap one to delete it. Delete All deletes everything the list is showing, after its search and filters, and says how many first. A long press on an entry also has Delete.\n\nEvery delete asks you to confirm, and says what goes with it.\n\n⚠️ What goes with what:\n• A log takes its maintenance tasks, their costs and its track with it, and the spares the tasks used go back in stock. Documents and receipts entered on their own stay.\n• A boat takes everything that is its: logs, equipment, spares, tools, papers, expenses, recurring costs, projects and planned jobs. Crew, waypoints, vendors and the maintenance library are shared between boats and stay. Your last boat can't be deleted.\n• A project takes its planned jobs that aren't done. Work already done stays on its logs.\n\n💡 Delete Task on a maintenance task deletes it from the log, puts its spares back in stock and removes its costs. Unlink, where you see it, only takes a link off; nothing is deleted.",
     "category" : "3. Navigation",
     "imageName" : "trash",
     "isSysImg" : true,
@@ -472,7 +472,7 @@
     "question" : "The Ships Papers Tab"
   },
   {
-    "answer" : "Expenses are under Boat > Expenses ....\n\nCosts show in various places on the log. Mooring fees, tankage fees, maintenance costs, other costs etc. An Expenses form extracts just those fields on a single sheet.\n\nIcons summarizing the costs on that log show on the list. tapping one of the icons will bring up an expenses form.\n\nThe + button will open the same form to edit an existing logs expense entries for a given date. \nIt defaults to opening the last log entry. You can select another date.\nIf a date is selected with no log entry it will add a new log entry for that date.\n",
+    "answer" : "Under the boat's Expenses tab, which has three parts:\n• Overview: what the boat costs, over the last 12 months and what's coming. Every figure opens the expenses behind it.\n• Expenses: every expense, newest first. The filter narrows it by category, class, vendor, place, date, or what's still to review. A paperclip marks one with a receipt.\n• Analysis: spending over time, with your fuel.\n\nEach expense has an amount, a date, a category, who you paid (a vendor or the place), what it was for (a log, a maintenance task, a piece of equipment), a note and its receipts. Mark it reimbursable if someone else will pay you back.\n\nThe + is a menu: Add Expense, or Add Recurring Cost for a bill that comes round.\n\nFuel, berth and other costs typed on a log, and labour, parts and yard on a maintenance task, are expenses too, and show here. Change one in either place and the other follows.",
     "category" : "5.1 Expenses",
     "imageName" : "banknote",
     "isSysImg" : true,
@@ -480,7 +480,7 @@
     "question" : "Where are Expenses recorded?"
   },
   {
-    "answer" : "Each Maintenance Task can have the following costs recorded:\n• Labor\n• Material\n• Yard\nA total is calculated. The summary shows on the Upkeep log.",
+    "answer" : "Any cost is an expense: fuel, berths and moorings, pumpouts, water, propane, labour, parts, yard bills, insurance, registration, subscriptions and more.\n\nOn a maintenance task, labour, material and yard each make an expense in the Maintenance category, linked to the task. The task shows its total, and so does the Upkeep log.\n\nCosts entered before 1.8, on logs and tasks, were moved over to expenses for you, once.",
     "category" : "5.1 Expenses",
     "imageName" : "banknote",
     "isSysImg" : true,
@@ -488,7 +488,7 @@
     "question" : "What costs are recorded?"
   },
   {
-    "answer" : "Two ways in.\n\nFrom another app: share the PDF or photo to Boat Manager and choose Expense. Four questions follow, each with a sensible default:\n• Which boat — skipped if you have only one.\n• Which day — today unless you change it. The form says which log it will go on; if that day has no log, one is started with yesterday's hours and position.\n• What kind of cost — Mooring, Fuel, Pumpout, Water, Propane or Other.\n• How much.\nThe receipt is filed as an Invoice on that day's log, and the amount is added to that cost.\n\nYard, labour and parts: choose Maintenance instead. Pick the maintenance task and whether it is Labour, Parts or Yard. The invoice goes on the task and the amount onto that task's costs, which is where maintenance money is totalled.\n\nFrom inside the app: the expense form ends with Receipts & Invoices. Add one there and it is attached to that day's log.",
+    "answer" : "Two ways in.\n\nFrom another app: share the PDF or photo to Boat Manager and choose Expense. The app opens and asks four questions, each with a sensible default:\n• Which boat — skipped if you have only one.\n• Which day — today unless you change it. The form says which log it will go on; if that day has no log, one is started with yesterday's hours and position.\n• What kind of cost — Mooring, Fuel, Pumpout, Water, Propane or Other.\n• How much — typed as it is on the receipt, and needed.\nThe receipt is filed as an Invoice on that day's log and an expense is made for it, with the receipt attached.\n\nYard, labour and parts: choose Maintenance instead. Pick the maintenance task and whether it is Labour, Parts or Yard. The expense goes on the task, with the invoice.\n\nFrom inside the app: open an expense and add a receipt under Receipts. The picker opens on your Invoices and shows each document's details. A document also lists the expenses it backs up, and can start one.",
     "category" : "5.1 Expenses",
     "imageName" : "dollarsign.circle",
     "isSysImg" : true,
@@ -696,7 +696,7 @@
     "question" : "What is the Maintenance Dashboard?"
   },
   {
-    "answer" : "Planning is a tool to enable you to create reminders for maintenance for the upcoming season.",
+    "answer" : "Planning is where you plan the season's maintenance.\n\n• The Season Outlook projects when each tracked job falls due over the coming months, from its interval and, for jobs due on engine hours, your usual hours a month. Select jobs and Schedule them to make them planned jobs, on a date or in a project.\n• The + is Plan a Job: one job by hand, on a piece of equipment, on a date or at an engine-hours reading.\n• Projects group jobs: a refit, a lay-up, a haul-out.\n\nA planned job shows on the Upkeep dashboard, the Upkeep calendar and its project, and becomes a task on a real log when you do it.",
     "category" : "5.4 Upkeep",
     "imageName" : "list.clipboard",
     "isSysImg" : true,
@@ -736,7 +736,7 @@
     "question" : "Whats in the Maintenance Library?"
   },
   {
-    "answer" : "Select a Maintenance Item. At the top left of the form the 'Reminder' button will open a list of Boats. Tapping the '+' button will open the 'Add Reminder' form. Fill in and save the reminder.\n\nIt will now show in both the Reminders Main Menu, or under the Boat Upkeep Tab ->Reminders list.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. \n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
+    "answer" : "Select a Maintenance Item. At the top left of the form the 'Reminder' button will open a list of Boats. Tapping the '+' button will open the 'Add Reminder' form. Fill in and save the reminder.\n\nIt will now show in both the Reminders Main Menu, or under the Boat Upkeep Tab ->Reminders list.\n\nTo plan the job itself for a day, rather than only be reminded, use Plan a Job under Upkeep, Planning: a planned job can add its own reminder, which moves when you reschedule it and is ticked off when you log it.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. \n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
     "category" : "8. Maintenance",
     "imageName" : "list.bullet",
     "isSysImg" : true,
@@ -760,7 +760,7 @@
     "question" : "How to I create a Maintenance Checklist?"
   },
   {
-    "answer" : "These are a filtered list of contacts, intended for service specialists. They can be added and synched with your phones contact list in the same way the Ships Crew functions.",
+    "answer" : "They are now Vendors: the yards, mechanics, marinas and suppliers you deal with, under Maintenance. The list is by business, with its people beneath, and each has a phone, email, website, address, role and notes.\n\nAdd one with +, or from any vendor picker with Add a new vendor. Paid To on an expense picks from them; a berth or fuel paid to a marina can name the place instead.\n\nTo bring someone in from your phone's Contacts, share their contact card to Boat Manager and choose crew or vendor. Vendors can be synced with your phone's Contacts, as Crew can.",
     "category" : "8. Maintenance",
     "imageName" : "person.2",
     "isSysImg" : true,
@@ -904,7 +904,7 @@
     "question" : "How do I import my data?"
   },
   {
-    "answer" : "Data Health, in Settings, reads your records for things that cannot be right, or probably are not, says why each matters, and proposes a fix. Nothing changes until you tap Fix. If something it raises is actually correct, Set aside and it will not be raised again unless the figures change.\n\nIt looks for:\n• Hours that are negative, or a meter reading that went backwards.\n• The same log twice.\n• The same boat, waypoint, contact, crew member, piece of equipment, spare, tool, maintenance item, checklist, document, project, body of water or list option twice. Fix keeps the copy with the most links and moves the other's links onto it.\n• A task naming equipment the boat does not have.\n• Distance run with no hours underway; engine hours well past hours underway (logs with maintenance on them are left alone — the engines were run to test the work).\n• A refuel with no quantity, more than 24 hours in one log, 1,000 NM or more in one log, distance run with no position, a log dated in the future.\n• Fuel figures missing from the boat's Specs.\n\nOpen log takes you to the record so you can read it before deciding.",
+    "answer" : "Data Health, in Settings, reads your records for things that cannot be right, or probably are not, says why each matters, and proposes a fix. Nothing changes until you tap Fix and confirm, and each finding is checked again first: one that has changed since is skipped. If something it raises is actually correct, Set aside and it will not be raised again unless the figures change.\n\nIt looks for:\n• Hours that are negative, or a meter reading that went backwards.\n• The same log twice.\n• The same boat, waypoint, contact, crew member, piece of equipment, spare, tool, maintenance item, checklist, document, project, body of water or list option twice. Fix keeps the copy with the most links and moves the other's links onto it.\n• A task naming equipment the boat does not have.\n• Distance run with no hours underway; engine hours well past hours underway (logs with maintenance on them are left alone — the engines were run to test the work).\n• A refuel with no quantity, more than 24 hours in one log, 1,000 NM or more in one log, distance run with no position, a log dated in the future.\n• Fuel figures missing from the boat's Specs.\n• Vendors with nothing in them, and the same maintenance task stored twice.\n• Scheduled logs from before 1.8 that could be planned jobs. Fix makes a planned job for each task on the log and removes the placeholder log, one at a time.\n\nOpen log takes you to the record so you can read it before deciding.",
     "category" : "9. Settings",
     "imageName" : "stethoscope",
     "isSysImg" : true,
@@ -976,7 +976,7 @@
     "question" : "Why does a job say Not started yet?"
   },
   {
-    "answer" : "Go to Upkeep, Planning, Projects, then New Project, and set Start from to Haul-out. It fills in the name, notes and a week from the start date, and lists the jobs: haul out and pressure-wash, bottom paint, anodes, propellers, shafts and cutless bearings, rudder, through-hulls and seacocks, and transducers. Thruster and stabilizer jobs are ticked only if the boat has them.\n\nUntick anything that doesn't apply and set the date you haul. Save plans the jobs together on that date. Tick each one off as it's done, and a library job's next due date moves.",
+    "answer" : "Go to Upkeep, Planning, Projects, then New Project, and set Start from to Haul-out. It fills in the name, notes and a week from the start date, and lists the jobs: haul out and pressure-wash, bottom paint, anodes, propellers, shafts and cutless bearings, rudder, through-hulls and seacocks, and transducers. Thruster and stabilizer jobs are ticked only if the boat has them.\n\nUntick anything that doesn't apply and set the date you haul. Save makes each one a planned job on that date, in the project. Log each one as it's done, and a library job's next due date moves; the project shows its jobs done and still planned, and its spend against the budget.",
     "category" : "5.4 Upkeep",
     "imageName" : "hammer",
     "isSysImg" : true,
@@ -1006,5 +1006,69 @@
     "isSysImg" : true,
     "order" : 5,
     "question" : "Can Boat Manager read a receipt?"
+  },
+  {
+    "answer" : "The Overview, at the top of the Expenses tab, adds up the last 12 months by how the money behaves:\n• Fixed: comes round whatever you do, like insurance, a slip contract, registration.\n• Semi-fixed: has to be spent, but how much depends on use, like fuel and routine maintenance.\n• Discretionary: your choice, like eating out ashore or upgrades.\n• Capital (kept apart): buying or replacing something that lasts, like a new inverter bank. It isn't a running cost, so it's shown separately.\n\nEach expense's category gives its class, and an expense can be set differently. The ⓘ explains the terms. Tap any figure to see the expenses behind it.",
+    "category" : "5.1 Expenses",
+    "imageName" : "chart.pie",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "What does the boat cost?"
+  },
+  {
+    "answer" : "In Expenses, tap + and choose Add Recurring Cost. Give it a name, the amount, how often (monthly, quarterly, yearly) and who you pay.\n\nWhen it comes round it's listed as due: Record makes the expense with one tap (open it afterwards if this time's amount was different), or Skip it. Deleting a recurring cost keeps the expenses it already recorded.",
+    "category" : "5.1 Expenses",
+    "imageName" : "arrow.triangle.2.circlepath",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "How do I set up a recurring cost?"
+  },
+  {
+    "answer" : "A waypoint's Spend Here totals what you've paid there: berths, fuel and anything else whose expense names the place. Per night is the berth total over the nights you stayed, from your logs.\n\nA berth paid by the week or month counts as that many nights, so a month's invoice doesn't read as one very expensive night. Mark a night you didn't pay for as a Complimentary night on the log (under Location); Safe Harbor's nights count it.",
+    "category" : "5.1 Expenses",
+    "imageName" : "mappin.and.ellipse",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "What does Spend Here on a waypoint show?"
+  },
+  {
+    "answer" : "A job planned for a day: a maintenance task to do, on a piece of equipment, with a budget and notes, in a project if you like. Make one with Plan a Job (the + under Planning), by scheduling from the Season Outlook, or with Schedule It Now on a job on the dashboard.\n\nA job due on engine hours is planned at a reading, say 4,600 h, and its date is estimated from your usual hours a month. If the hours get there first, the dashboard warns you.\n\nA planned job shows on the dashboard under its job, on the Upkeep calendar marked ⏱, and in its project. If its day passes and it isn't logged, it shows as Overdue (planned 3 Oct) rather than disappearing.",
+    "category" : "5.4 Upkeep",
+    "imageName" : "calendar.badge.clock",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "What is a planned job?"
+  },
+  {
+    "answer" : "Tap the job on the dashboard and View Planned Job, or tap it on the calendar or in its project.\n\n• Log It Today puts it on today's log as a task, starting the log with yesterday's hours and position if there isn't one yet. The task opens filled in from the job, for you to add labour, parts and the invoice. The job is then done, and the library job's next due date moves.\n• Reschedule changes the date, and for an hours job the reading.\n• Skip It marks it skipped and takes it off the dashboard and calendar.\n\nIf the job has a reminder in the Reminders app, it moves when you reschedule and is ticked off when you log or skip.",
+    "category" : "5.4 Upkeep",
+    "imageName" : "checkmark.circle",
+    "isSysImg" : true,
+    "order" : 11,
+    "question" : "How do I log, move or skip a planned job?"
+  },
+  {
+    "answer" : "In the Contacts app, open the person and share their contact card to Boat Manager. Choose whether they're crew or a vendor, check what's filled in, and save.\n\nA vendor can be a business with no person's name; add the people who work there under it.",
+    "category" : "8. Maintenance",
+    "imageName" : "person.crop.circle.badge.plus",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "How do I add someone from my Contacts?"
+  },
+  {
+    "answer" : "Off by default: most boats stay in one time zone.\n\nTurned on, the log shows the ship's zone the way a logbook records it: ZD +4 beside the date (the zone description, what you add to ship's time to get UTC, so US Eastern Daylight Time is ZD +4, shown as UTC−4 in the list). The first log in a new zone is marked ZD +4 → +5, in the Ships Log and its PDF. Changing a log's zone keeps its departure and arrival times as typed.\n\nEither way, each log records the zone it was written in, and keeps its day when you change time zone: a log written in Europe isn't a day early back home.",
+    "category" : "9. Settings",
+    "imageName" : "globe",
+    "isSysImg" : true,
+    "order" : 17,
+    "question" : "Show Time Zones (ZD)?"
+  },
+  {
+    "answer" : "Everything: every boat and everything on it, crew, waypoints, vendors, the maintenance library, checklists, expenses, documents and the files kept on this device, from this device and from iCloud, so from your other devices too. It can't be undone.\n\nThe app then starts as a new install would, with a default boat, the starter library and checklists, and the standard lists. Export your data first if you might want it back.",
+    "category" : "9. Settings",
+    "imageName" : "person.crop.circle.badge.xmark",
+    "isSysImg" : true,
+    "order" : 18,
+    "question" : "What does Delete My Account delete?"
   }
 ]
