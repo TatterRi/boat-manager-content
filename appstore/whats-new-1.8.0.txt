@@ -1,25 +1,31 @@
 Every cost is now an expense: see what the boat really costs, plan maintenance as jobs of their own, and delete with confidence.
 
 EXPENSES
-Every cost is now an expense of its own: fuel, berths, labour, parts, insurance, subscriptions. Each has a category, who you paid, where, a note and its receipts, and can be marked reimbursable. The costs you entered on logs and tasks were moved over for you, once. Filter the list by category, class, vendor, place, date or what's still to review.
+Every cost is now an expense of its own: fuel, berths, labour, parts, insurance, subscriptions. Each has a category, who you paid, where, a note and its receipts, and can be marked reimbursable. The costs you entered on logs and tasks were moved over for you, once. A refund or insurance payout nets against the cost it repays. Sort the list by date, amount, place or class, and filter it by category, class, vendor, place, date or what's still to review. On a log, each cost opens its expense. Edit the categories in Settings, List Categories.
 
 WHAT THE BOAT COSTS
-The Expenses tab opens on cost of ownership: fixed, semi-fixed and discretionary, with capital kept apart, over the last 12 months and what's coming. Every figure opens the expenses behind it, and an ⓘ explains the terms. Analysis includes your fuel.
+The Expenses tab opens on cost of ownership: fixed, semi-fixed and discretionary, with capital kept apart, over the last 12 months and what's coming. Every figure opens the expenses behind it, and an ⓘ explains the terms. Tap a year for its expenses by category. Analysis includes your fuel.
 
 RECURRING COSTS
 A monthly slip, insurance, a subscription: set it up once and it comes round when due, to record or skip.
 
 RECEIPTS
-Share a receipt or invoice to Boat Manager and it opens the app, files the document and makes the expense. A paperclip marks every expense with a receipt, a document lists the expenses it backs up, and attaching a receipt opens on Invoices.
+Share a receipt or invoice to Boat Manager and it opens the app, files the document and makes the expense. A paperclip marks every expense with a receipt, a document lists the expenses it backs up, and attaching a receipt opens on Invoices. A new expense can start from a receipt in Documents, shown beside the form as you type.
 
 VENDORS
-Maintenance Contacts are now Vendors, listed by business with their people beneath, with a website and an easier Details page. Add a new vendor from any picker. Share a contact card from Contacts into Boat Manager as crew or a vendor.
+Maintenance Contacts are now Vendors, listed by business with their people beneath, with a website and an easier Details page. Add a new vendor from any picker. Share a contact card from Contacts into Boat Manager as crew or a vendor. A vendor opens its expenses, and the list counts them.
 
 SPEND HERE
 A waypoint shows what you've spent there, per night over the nights you stayed, with a berth paid by the night, week or month counted as such. Berths and fuel are paid to the place. Mark a complimentary night on the log; Safe Harbor counts it, and the log list has a Safe Harbor filter.
 
 PLANNED JOBS
 Scheduled maintenance is a planned job of its own, not a placeholder log. Plan a Job from Planning; a job due on engine hours is planned at a reading, its date estimated from your usual hours. Log It Today puts it on today's log, or Reschedule or Skip it, and its reminder follows. A missed day shows as overdue. Data Health turns your old scheduled logs into planned jobs, one at a time.
+
+SEARCH, SORT AND FILTER
+Every main list now has all three, side by side.
+
+SPREADSHEETS
+CSV Import has a blank template for each table, for records kept in spreadsheets, and expenses now export and import.
 
 NEARBY
 Your own waypoints come first, with a slider for how far to look. Yacht clubs are found, and fuel searches skip what isn't a fuel dock.
@@ -41,5 +47,6 @@ FIXES
 • The insured value is on the boat's Insurance
 • Helm's location boxes are the same size
 • A job's detail sheet is only as tall as it needs to be
+• On Mac, CSV Export has a Save dialog and CSV Import's choices show when picked
 
 Fair winds. Questions and suggestions are always welcome — they shape each release.

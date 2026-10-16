@@ -472,7 +472,7 @@
     "question" : "The Ships Papers Tab"
   },
   {
-    "answer" : "Under the boat's Expenses tab, which has three parts:\n• Overview: what the boat costs, over the last 12 months and what's coming. Every figure opens the expenses behind it.\n• Expenses: every expense, newest first. The filter narrows it by category, class, vendor, place, date, or what's still to review. A paperclip marks one with a receipt.\n• Analysis: spending over time, with your fuel.\n\nEach expense has an amount, a date, a category, who you paid (a vendor or the place), what it was for (a log, a maintenance task, a piece of equipment), a note and its receipts. Mark it reimbursable if someone else will pay you back.\n\nThe + is a menu: Add Expense, or Add Recurring Cost for a bill that comes round.\n\nFuel, berth and other costs typed on a log, and labour, parts and yard on a maintenance task, are expenses too, and show here. Change one in either place and the other follows.",
+    "answer" : "Under the boat's Expenses tab, which has three parts:\n• Overview: what the boat costs, over the last 12 months and what's coming. Every figure opens the expenses behind it; tap a year to see its expenses by category.\n• Expenses: every expense, newest first. Sort it by date, amount, place or class; the filter narrows it by category, class, vendor, place, date, or what's still to review. A paperclip marks one with a receipt.\n• Analysis: spending over time, with your fuel.\n\nEach expense has an amount, a date, a category, who you paid (a vendor or the place), what it was for (a log, a maintenance task, a piece of equipment), a note and its receipts. Mark it reimbursable if someone else will pay you back.\n\nMoney coming back, a refund, a returned deposit or an insurance payout, is an expense too: choose Money back at the top of the form. File it under the cost it pays back, such as the repair an insurance claim covered, and that category's total is what the boat cost after it. It shows in green.\n\nThe + is a menu: Add Expense, or Add Recurring Cost for a bill that comes round.\n\nFuel, berth and other costs typed on a log, and labour, parts and yard on a maintenance task, are expenses too, and show here. Change one in either place and the other follows. On a log, open its Expenses group: a cost with an expense behind it has a › that opens it, and Maintenance lists the day's task expenses.\n\nThe categories can be added to, renamed and deleted under Settings > List Categories.",
     "category" : "5.1 Expenses",
     "imageName" : "banknote",
     "isSysImg" : true,
@@ -760,7 +760,7 @@
     "question" : "How to I create a Maintenance Checklist?"
   },
   {
-    "answer" : "They are now Vendors: the yards, mechanics, marinas and suppliers you deal with, under Maintenance. The list is by business, with its people beneath, and each has a phone, email, website, address, role and notes.\n\nAdd one with +, or from any vendor picker with Add a new vendor. Paid To on an expense picks from them; a berth or fuel paid to a marina can name the place instead.\n\nTo bring someone in from your phone's Contacts, share their contact card to Boat Manager and choose crew or vendor. Vendors can be synced with your phone's Contacts, as Crew can.",
+    "answer" : "They are now Vendors: the yards, mechanics, marinas and suppliers you deal with, under Maintenance. The list is by business, with its people beneath, and each has a phone, email, website, address, role and notes.\n\nAdd one with +, or from any vendor picker with Add a new vendor. Paid To on an expense picks from them; a berth or fuel paid to a marina can name the place instead. A vendor's page totals what you've paid them, by year; tap a total to see the expenses. The list shows how many expenses each business has, and sorts by name, nearest, most expenses or most spent.\n\nTo bring someone in from your phone's Contacts, share their contact card to Boat Manager and choose crew or vendor. Vendors can be synced with your phone's Contacts, as Crew can.",
     "category" : "8. Maintenance",
     "imageName" : "person.2",
     "isSysImg" : true,
@@ -832,7 +832,7 @@
     "question" : "Unit Settings"
   },
   {
-    "answer" : "Allow adding and deleting the List Categories for:\n• Equipment Types\n• Spares Inventory Types\n• Document Types\n• Boat Locations\n",
+    "answer" : "Allow adding and deleting the List Categories for:\n• Equipment Types\n• Spares Inventory Types\n• Tool Types\n• Document Types\n• Boat Locations\n• Expense Categories: add one at the top level or under another, and tap a name to rename it. You can delete a category you added; its expenses move to the one above it. The built-in ones stay.\n",
     "category" : "9. Settings",
     "imageName" : "list.dash",
     "isSysImg" : true,
@@ -896,7 +896,7 @@
     "question" : "How do I export my data?"
   },
   {
-    "answer" : "Go to Settings > Data Import And Export > CSV Import.\n\nEach data set must imported individually. Its best done in the sequence shown on the view, as that minimizes the risk that the Parent->Child relationships become confused.\n\nIf a row in a file can't be read, the import stops at that row and says which one; the rows before it are imported.",
+    "answer" : "Go to Settings > Data Import And Export > CSV Import.\n\nEach data set must imported individually. Its best done in the sequence shown on the view, as that minimizes the risk that the Parent->Child relationships become confused.\n\nBringing records in from your own spreadsheets? Pick a table and save its Blank Template: a header row and one example row. Copy the example row for each record, fill in what you know, delete the example, and import it. Expenses have their own Blank Template: one row per cost, with the category as the Expenses screen names it.\n\nIf a row in a file can't be read, the import stops at that row and says which one; the rows before it are imported.",
     "category" : "9. Settings",
     "imageName" : "tray.and.arrow.down",
     "isSysImg" : true,
@@ -950,6 +950,14 @@
     "isSysImg" : true,
     "order" : 14,
     "question" : "What do the blue icons on a row do?"
+  },
+  {
+    "answer" : "Every main list has the same row at the top: Search, then Sort (the up-and-down arrows), then Filter (the lines). Sort picks the order, such as name, date, value or nearest; the list remembers it. Filter narrows what's shown, and its icon fills in while a filter is on; Clear or Show All puts everything back.\n\nLists you pick from, such as choosing a document or a port, have Search alone.",
+    "category" : "3. Navigation",
+    "imageName" : "arrow.up.arrow.down.circle",
+    "isSysImg" : true,
+    "order" : 15,
+    "question" : "How do I sort or filter a list?"
   },
   {
     "answer" : "Open the Item from the Maintenance Library and tap Edit. Its Jobs list the jobs it tracks.\n\n• Add Job opens a list of jobs to choose from: those for the Item's equipment type first, or tap All Jobs for every job, with the ones you use most at the top. Search to find one.\n• ⊖ beside a job removes it.\n\nThe Item's interval (in months or service hours) applies to its jobs, and Upkeep tracks each one. An Item with no job listed is a job itself: it is ticked off by its name when logged.",
