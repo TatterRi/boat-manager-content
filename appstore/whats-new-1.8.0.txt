@@ -1,10 +1,10 @@
 Every cost is now an expense: see what the boat really costs, plan maintenance as jobs of their own, and delete with confidence.
 
 EXPENSES
-Every cost is now an expense of its own: fuel, berths, labour, parts, insurance, subscriptions. Each has a category, who you paid, where, a note and its receipts, and can be marked reimbursable. The costs you entered on logs and tasks were moved over for you, once. A refund or insurance payout nets against the cost it repays. Sort the list by date, amount, place or class, and filter it by category, class, vendor, place, date or what's still to review. On a log, each cost opens its expense. Edit the categories in Settings, List Categories.
+Every cost is now an expense of its own: fuel, berths, labour, parts, insurance, subscriptions. Each has a category, who you paid, where, a note and its receipts, and can be marked reimbursable. The costs on your logs and tasks are moved over once. Update every device to 1.8 so they agree. A refund or insurance payout nets against the cost it repays. Sort the list by date, amount, place or class, and filter it by category, class, vendor, place, date or what's still to review. On a log, each cost opens its expense. Edit the categories in Settings, List Categories.
 
 WHAT THE BOAT COSTS
-The Expenses tab opens on cost of ownership: fixed, semi-fixed and discretionary, with capital kept apart, over the last 12 months and what's coming. Every figure opens the expenses behind it, and an ⓘ explains the terms. Tap a year for its expenses by category. Analysis includes your fuel.
+The Expenses tab opens on cost of ownership: fixed, semi-fixed and discretionary, with capital kept apart, over the last 12 months and what's coming. Every figure opens its expenses; tap a year for them by category, and ⓘ for the terms. Analysis includes your fuel.
 
 RECURRING COSTS
 A monthly slip, insurance, a subscription: set it up once and it comes round when due, to record or skip.
