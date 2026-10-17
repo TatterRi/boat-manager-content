@@ -1,79 +1,71 @@
-Every detail of every boat you run — logbook, maintenance, safety, documents and crew — in one place, on iPhone, iPad and Mac.
+Know what your boat really costs, and keep every detail of every boat you run — logbook, maintenance, safety, documents and crew — in one place, on iPhone, iPad and Mac.
 
 Built by a USCG-credentialed Master Mariner and ex-Royal Navy officer, over several thousand miles underway.
+
+EXPENSES & WHAT THE BOAT COSTS
+• Every cost an expense of its own: fuel, berths, labour, parts, insurance, subscriptions
+• What the boat costs over the last 12 months and what's coming: fixed, semi-fixed and discretionary, with capital kept apart
+• Every figure opens the expenses behind it; tap a year for its spending by category
+• Recurring bills set up once, then recorded or skipped when due
+• Refunds and insurance payouts netted against the cost they repay
+• What you've spent at each marina and with each vendor
+• Export to PDF or CSV for your taxes or your bookkeeper
 
 COMPREHENSIVE LOGBOOK
 • Captain's daily log, fuel log, pump-out log and optional generator log
 • Apple Weather conditions and NOAA tides recorded with each entry
 • GPS position and waypoints on an embedded map
 • Sea service summaries for USCG CG-719S
-• Optionally synced to a shared Apple Calendar
 
 SAFETY
 • The USCG Vessel Safety Check and a federal Required Equipment list, ready to run
 • Each run files a report, a task for every failure, and a PDF on the boat's papers
 • Tag gear with the requirement it satisfies and see when it was last checked
-• Build your own safety checklists
 
-MAINTENANCE, PLANNING & EXPENSES
-• Planning: an Outlook of what falls due month by month, repeats and budgets included
+MAINTENANCE & PLANNING
+• Planned jobs by date or engine hours: log, reschedule or skip, with a reminder that follows
+• An Outlook of what falls due month by month, budgets included
 • Projects: gather a refit or yard visit into one job with dates, budget and progress
-• Schedule several jobs in one pass, as tasks, Reminders, or both
-• Service intervals dated from your logged engine hours
-• A library of planned-maintenance tasks and intervals
-• Build your own checklists, by date or by service hours
+• A library of planned-maintenance tasks and intervals, and checklists you build
 • Maintenance Dashboard for the equipment you care about
-• Expenses log with CSV export and PDF report
 
 EQUIPMENT, TOOLS & SPARES
-• Every piece of equipment on every boat
-• Full service history from the Maintenance Log
+• Every piece of equipment on every boat, with its full service history
 • Manufacturer, part number, serial number and cost
 • Link spares to the equipment they fit
 • Warranty and calibration dates, with reminders
+• Paint, glue and epoxy tracked from when they're opened
 
 DOCUMENTS & EXPIRY DATES
 • Registration, insurance, certificates, manuals, receipts, photos and videos
 • Attach files to boats, logs, equipment, spares, tools, crew, waypoints or notes
-• Share a photo straight in as a new ToDo, picture attached
-• Expiry dates for documents, equipment and spares, with Calendar reminders
-
-BOAT DETAILS
-• Details, specifications and capacities for any or all of your boats
-• Fuel consumption curve fitted to your own data, to estimate what is left
+• Expiry dates for documents, equipment and spares, with a reminder ahead and one-tap renewal
 
 FLOAT PLANS
-• USCG-inspired float plans created from within the daily log
-• Export to PDF or send by Messages or Mail in one tap
+• USCG-inspired float plans, sent by Messages or Mail in one tap
 • One-tap arrival message with your position, which drafts the log entry
 • Emergency message with your position
 
-CREW & CONTACTS
-• Crew lists with contact details and default-crew flags
-• Created from, or kept in step with, Apple Contacts
+CREW & VENDORS
+• Crew lists created from, or kept in step with, Apple Contacts
 • See every log entry each crew member was aboard for
+• Yards, mechanics and marinas listed by business, with what you've paid them
 
-NAVIGATION & VISUALIZATION
-• Import waypoints by GPX or CSV
-• Calendar and Map views of where you have been, linking back to each log entry
-• NOAA tide predictions, and your own nautical-weather link
-
-THE HELM
-• A pop-over dashboard: position, tides, weather, engine hours, fuel and what is due
-• To-do list, shopping list and notes, with categories you name yourself
+NAVIGATION & THE HELM
+• Import waypoints by GPX or CSV; see where you've been on a calendar and a map
+• The Helm: position, tides, weather, engine hours, fuel and what is due
+• To-do list, shopping list and notes
 
 ANALYSIS & REPORTS
-• Statistics and charts: days underway, speeds, distances, costs, fuel and tankage
+• Days underway, speeds, distances, fuel and tankage, charted
 • Data Health reads your logs for what cannot be right and proposes the fix
-• Carbon-footprint estimate from your fuel use
 • PDF reports for boats, logs, maintenance, equipment, spares and tools
 
 APPLE ECOSYSTEM
 • iCloud sync across iPhone, iPad and Mac, with full offline use
-• Apple Reminders for maintenance and admin dates
-• Apple Calendar, Apple Contacts and Apple Weather throughout
+• Apple Reminders, Calendar, Contacts and Weather throughout
 • Dark Mode for night watches
-• CSV import and export of everything
+• CSV import and export of everything, with blank templates for your own spreadsheets
 
 Everything is free for the first 30 days. After that it is $0.99 per month or $9.99 per year, billed through your Apple Account and cancellable at any time.
 
@@ -81,4 +73,4 @@ Note: the emergency and float-plan features are aids, not a substitute for a VHF
 
 Terms of Use: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 Privacy Policy: https://boatmanager.app/privacy
-Support & Feedback: support@boatmanager.app | https://boatmanager.app/support
+Support & Feedback: support@boatmanager.app | https://boatmanager.app/help
