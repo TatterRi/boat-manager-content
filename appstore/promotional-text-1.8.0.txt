@@ -1,1 +1,1 @@
-New in 1.8: every cost is an expense, with what the boat really costs, recurring bills and receipts. Planned maintenance jobs, vendors, and safer deleting.
+New in 1.8: every cost is an expense, with what the boat really costs, recurring bills and receipts. Planned jobs, reminders kept with what they're for, vendors.

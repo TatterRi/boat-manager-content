@@ -1,7 +1,7 @@
-Every cost is now an expense: see what the boat really costs, plan maintenance as jobs of their own, and delete with confidence.
+Every cost is now an expense: see what the boat really costs, plan maintenance as jobs with their reminders, and delete with confidence.
 
 EXPENSES
-Every cost is now an expense of its own: fuel, berths, labour, parts, insurance, subscriptions. Each has a category, who you paid, where, a note and its receipts, and can be marked reimbursable. The costs on your logs and tasks are moved over once. Update every device to 1.8 so they agree. A refund or insurance payout nets against the cost it repays. Sort the list by date, amount, place or class, and filter it by category, class, vendor, place, date or what's still to review. On a log, each cost opens its expense. Edit the categories in Settings, List Categories.
+Every cost is now an expense of its own: fuel, berths, labour, parts, insurance, subscriptions. Each has a category, who you paid, where, a note and its receipts, and can be marked reimbursable. The costs on your logs and tasks are moved over once. Update every device to 1.8 so they agree. A refund or insurance payout nets against the cost it repays. Sort and filter the list by category, vendor, place, date or what's still to review.
 
 WHAT THE BOAT COSTS
 The Expenses tab opens on cost of ownership: fixed, semi-fixed and discretionary, with capital kept apart, over the last 12 months and what's coming. Every figure opens its expenses; tap a year for them by category, and ⓘ for the terms. Analysis includes your fuel.
@@ -10,16 +10,22 @@ RECURRING COSTS
 A monthly slip, insurance, a subscription: set it up once and it comes round when due, to record or skip.
 
 RECEIPTS
-Share a receipt or invoice to Boat Manager and it opens the app, files the document and makes the expense. A paperclip marks every expense with a receipt, a document lists the expenses it backs up, and attaching a receipt opens on Invoices. A new expense can start from a receipt in Documents, shown beside the form as you type.
+Share a receipt or invoice to Boat Manager and it opens the app, files the document and makes the expense. A paperclip marks every expense with a receipt, and a document lists the expenses it backs up.
 
 VENDORS
-Maintenance Contacts are now Vendors, listed by business with their people beneath, with a website and an easier Details page. Add a new vendor from any picker. Share a contact card from Contacts into Boat Manager as crew or a vendor. A vendor opens its expenses, and the list counts them.
+Maintenance Contacts are now Vendors, listed by business with their people beneath. Add one from any picker. Share a contact card from Contacts into Boat Manager as crew or a vendor. A vendor opens its expenses, and the list counts them.
 
 SPEND HERE
-A waypoint shows what you've spent there, per night over the nights you stayed, with a berth paid by the night, week or month counted as such. Berths and fuel are paid to the place. Mark a complimentary night on the log; Safe Harbor counts it, and the log list has a Safe Harbor filter.
+A waypoint shows what you've spent there, per night stayed, with berths and fuel paid to the place. Mark a complimentary night on the log; Safe Harbor counts it.
 
 PLANNED JOBS
-Scheduled maintenance is a planned job of its own, not a placeholder log. Plan a Job from Planning; a job due on engine hours is planned at a reading, its date estimated from your usual hours. Log It Today puts it on today's log, or Reschedule or Skip it, and its reminder follows. A missed day shows as overdue. Data Health turns your old scheduled logs into planned jobs, one at a time.
+Scheduled maintenance is a planned job of its own, not a placeholder log. Plan a Job from Planning, a library job or a checklist; a job due on engine hours is planned at a reading and shows the hours left. Log It Today, run its checklist, Reschedule or Skip it, and its reminder follows. A missed day shows as overdue. Data Health turns old scheduled logs and maintenance reminders into planned jobs.
+
+REMINDERS
+Everything Boat Manager reminds you of is kept here and synced to Apple Reminders: an expiry with its record, a job as a planned job, anything else as a to-do. An orange mark shows what's in Apple Reminders. Remind Me on an expiry alerts a month, two weeks or a week ahead and follows the date; Renewed moves it on. A reminder deleted in Reminders can be made again.
+
+ONCE OPENED
+Paint, glue, epoxy: say how long a spare lasts once opened. Its use-by counts as its expiry, in the list and its reminder.
 
 SEARCH, SORT AND FILTER
 Every main list now has all three, side by side.
@@ -34,7 +40,7 @@ SAFER DELETING
 Every delete asks first and says what goes with it. Delete All deletes only what the list shows, and says how many. Deleting a log takes its tasks with it and puts the spares they used back in stock. Deleting a boat takes everything that is its, never your last boat.
 
 TIME ZONES
-A log keeps its day when you change time zone, so a log written in Europe isn't a day early back home. Each log records the ship's zone, and Settings can show it: ZD +4 beside the date, and the crossing marked in the log.
+A log keeps its day when you change time zone. Each log records the ship's zone, and Settings can show it beside the date.
 
 iCLOUD SYNC
 The sync status shows a download under way and how far it has got, and the last download, upload and any problem, in words.
@@ -45,8 +51,8 @@ FIXES
 • Delete My Account removes everything
 • A shared receipt's log no longer shows in the Maintenance Log
 • The insured value is on the boat's Insurance
-• Helm's location boxes are the same size
-• A job's detail sheet is only as tall as it needs to be
+• The calculator icon shows in dark mode
+• Show Helm on start matches the first-launch options around it
 • On Mac, CSV Export has a Save dialog and CSV Import's choices show when picked
 
 Fair winds. Questions and suggestions are always welcome — they shape each release.

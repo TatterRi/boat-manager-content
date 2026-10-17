@@ -112,7 +112,7 @@
     "question" : "Whats under Maintenance?"
   },
   {
-    "answer" : "The App can create Apple Reminders and Sync them with the Apple Reminders App, so that standard Apple functionality can work. It creates a list in Reminders called \"Boat Manager\". \n\nAny reminders you create in the App show there. They can then be shared, shown on Apple Calendars etc.\n\nReminders created on the main menu can apply to any boat.\n\nA filtered selection of these Reminders shows under a boats >Upkeep> Reminders. Reminders created under a boat apply only to that boat.",
+    "answer" : "Boat Manager keeps everything it reminds you of, and puts each reminder in Apple Reminders, in a list called \"Boat Manager\", so the usual Apple features work: notifications, Siri, your Watch, sharing.\n\nEach reminder belongs to something here:\n• An expiry: insurance, documentation, a document, a piece of equipment, a spare or a tool. Use Remind Me under its date.\n• A planned job: maintenance, or a checklist to run.\n• A to-do, for anything else.\n\nThe Reminders list shows them all by date, planned jobs too, with what each belongs to. An orange mark shows what's in Apple Reminders. Tap a reminder, then its first line, to open what it belongs to.\n\nReminders from the main menu can be for any boat; a boat's Upkeep, Reminders shows only that boat's. The + there offers Plan a Job or a To-Do with a Reminder.",
     "category" : "2. First Use",
     "imageName" : "list.bullet",
     "isSysImg" : true,
@@ -464,7 +464,7 @@
     "question" : "The Upkeep Tab"
   },
   {
-    "answer" : "This tab allows you to upload any electronic document and attach it to a log entry, equipment entry or maintenance item.\n\n• You can upload any document from your phone or computer.The document will be uploaded to the cloud and linked to the log entry.\n\nYou can also download any document from the cloud and view it in a preview.\n• Documents can have expiry dates (for things like insurance policies)\n• You can set Apple reminders for those expiry dates.",
+    "answer" : "This tab allows you to upload any electronic document and attach it to a log entry, equipment entry or maintenance item.\n\n• You can upload any document from your phone or computer.The document will be uploaded to the cloud and linked to the log entry.\n\nYou can also download any document from the cloud and view it in a preview.\n• Documents can have expiry dates (for things like insurance policies)\n• Remind Me under an expiry date makes an Apple reminder, alerting a month, two weeks or a week ahead, or on the day. It follows the date if you change it, and Renewed moves it on to the next expiry. A document with one shows the orange mark in the list.",
     "category" : "5. Boats",
     "imageName" : "rectangle.and.paperclip",
     "isSysImg" : true,
@@ -520,7 +520,7 @@
     "question" : "Can I copy Equipment between Boats?"
   },
   {
-    "answer" : "The Spares menu stores the Name, Manufacturer, Manufacturers Part Number, cost and quantity. \n\nThe Location is configurable (under Settings > List Categories)\n\nThe 'Shopping cart' icon automatically adds the Spares details to the Shopping list. The Shopping list is in the top right corner next to ToDo.\n\nSpares can also be linked to equipment, have an expiry date and attachments.\n\nYou can filter the Spares Inventory List for out of Stock items or Spares by Location.\n\nA spare's Used in Maintenance lists every task that used it, with the date, the equipment and how many, newest first; tap one to open the task.",
+    "answer" : "The Spares menu stores the Name, Manufacturer, Manufacturers Part Number, cost and quantity. \n\nThe Location is configurable (under Settings > List Categories)\n\nThe 'Shopping cart' icon automatically adds the Spares details to the Shopping list. The Shopping list is in the top right corner next to ToDo.\n\nSpares can also be linked to equipment, have an expiry date and attachments.\n\nYou can filter the Spares Inventory List for out of Stock items or Spares by Location.\n\nA spare's Used in Maintenance lists every task that used it, with the date, the equipment and how many, newest first; tap one to open the task.\n\nSome spares go off once opened: paint, glue, epoxy, sealant. Check 'Goes off once opened?', choose how long it lasts, and tap Opened Today (change the date if it was opened earlier). Its use-by date, or its printed expiry if that comes first, is the date the Spares list shows and its reminder follows. Opened a New One starts the next tin. You can also long-press a spare in the list and choose Opened Today.",
     "category" : "5.2 Gear & Spares",
     "imageName" : "shippingbox",
     "isSysImg" : true,
@@ -736,7 +736,7 @@
     "question" : "Whats in the Maintenance Library?"
   },
   {
-    "answer" : "Select a Maintenance Item. At the top left of the form the 'Reminder' button will open a list of Boats. Tapping the '+' button will open the 'Add Reminder' form. Fill in and save the reminder.\n\nIt will now show in both the Reminders Main Menu, or under the Boat Upkeep Tab ->Reminders list.\n\nTo plan the job itself for a day, rather than only be reminded, use Plan a Job under Upkeep, Planning: a planned job can add its own reminder, which moves when you reschedule it and is ticked off when you log it.\n\nTo skip the boat selection step, check the 'Add to Default Boat' box. That checkbox can also be setting under Settings. \n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
+    "answer" : "A maintenance job is planned, and the plan keeps its reminder. Select a Maintenance Item or a Checklist and tap Plan Job. Pick the boat (or check 'Add to Default Boat' to skip that), then the date; a job due on engine hours is planned at a reading. Add to Reminders puts it in Apple Reminders; Settings says whether that starts on.\n\nThe reminder moves when you reschedule the job and is ticked off when you log it, run its checklist or skip it.\n\nReminders made before 1.8 for an item, equipment or checklist: Data Health offers to make each one a planned job, keeping the same reminder.\n\n⚠️ Important Note: Boat Manager makes no recommendations or representations to the suitability of these tasks to you or your boat. We take no responsibility for any consequences of using or omitting to use these tasks and for the consequences of missing any reminders you may have set. They are intended as a teaching aid to facilitate the use of this product.\n\n🛑 You should edit each task and its frequency to suit your boat and its situation.\n",
     "category" : "8. Maintenance",
     "imageName" : "list.bullet",
     "isSysImg" : true,
@@ -904,7 +904,7 @@
     "question" : "How do I import my data?"
   },
   {
-    "answer" : "Data Health, in Settings, reads your records for things that cannot be right, or probably are not, says why each matters, and proposes a fix. Nothing changes until you tap Fix and confirm, and each finding is checked again first: one that has changed since is skipped. If something it raises is actually correct, Set aside and it will not be raised again unless the figures change.\n\nIt looks for:\n• Hours that are negative, or a meter reading that went backwards.\n• The same log twice.\n• The same boat, waypoint, contact, crew member, piece of equipment, spare, tool, maintenance item, checklist, document, project, body of water or list option twice. Fix keeps the copy with the most links and moves the other's links onto it.\n• A task naming equipment the boat does not have.\n• Distance run with no hours underway; engine hours well past hours underway (logs with maintenance on them are left alone — the engines were run to test the work).\n• A refuel with no quantity, more than 24 hours in one log, 1,000 NM or more in one log, distance run with no position, a log dated in the future.\n• Fuel figures missing from the boat's Specs.\n• Vendors with nothing in them, and the same maintenance task stored twice.\n• Scheduled logs from before 1.8 that could be planned jobs. Fix makes a planned job for each task on the log and removes the placeholder log, one at a time.\n\nOpen log takes you to the record so you can read it before deciding.",
+    "answer" : "Data Health, in Settings, reads your records for things that cannot be right, or probably are not, says why each matters, and proposes a fix. Nothing changes until you tap Fix and confirm, and each finding is checked again first: one that has changed since is skipped. If something it raises is actually correct, Set aside and it will not be raised again unless the figures change.\n\nIt looks for:\n• Hours that are negative, or a meter reading that went backwards.\n• The same log twice.\n• The same boat, waypoint, contact, crew member, piece of equipment, spare, tool, maintenance item, checklist, document, project, body of water or list option twice. Fix keeps the copy with the most links and moves the other's links onto it.\n• A task naming equipment the boat does not have.\n• Distance run with no hours underway; engine hours well past hours underway (logs with maintenance on them are left alone — the engines were run to test the work).\n• A refuel with no quantity, more than 24 hours in one log, 1,000 NM or more in one log, distance run with no position, a log dated in the future.\n• Fuel figures missing from the boat's Specs.\n• Vendors with nothing in them, and the same maintenance task stored twice.\n• Scheduled logs from before 1.8 that could be planned jobs. Fix makes a planned job for each task on the log and removes the placeholder log, one at a time.\n• Maintenance and checklist reminders that could be planned jobs. Fix makes the planned job and keeps the same reminder; an hours job is planned at the reading the dashboard has. A reminder for a job already planned is given to that job, or ticked off if it has its own.\n• Reminders only in Apple Reminders. Fix links one to the record whose expiry it is for, or makes it a to-do, keeping the reminder.\n• Planned jobs that could be linked to their library job, so the dashboard counts them and an hours job has its reading.\n\nOpen log takes you to the record so you can read it before deciding.",
     "category" : "9. Settings",
     "imageName" : "stethoscope",
     "isSysImg" : true,
@@ -1040,7 +1040,7 @@
     "question" : "What does Spend Here on a waypoint show?"
   },
   {
-    "answer" : "A job planned for a day: a maintenance task to do, on a piece of equipment, with a budget and notes, in a project if you like. Make one with Plan a Job (the + under Planning), by scheduling from the Season Outlook, or with Schedule It Now on a job on the dashboard.\n\nA job due on engine hours is planned at a reading, say 4,600 h, and its date is estimated from your usual hours a month. If the hours get there first, the dashboard warns you.\n\nA planned job shows on the dashboard under its job, on the Upkeep calendar marked ⏱, and in its project. If its day passes and it isn't logged, it shows as Overdue (planned 3 Oct) rather than disappearing.",
+    "answer" : "A job planned for a day: a maintenance task to do, on a piece of equipment, with a budget and notes, in a project if you like. Make one with Plan a Job (the + under Planning), by scheduling from the Season Outlook, or with Schedule It Now on a job on the dashboard.\n\nA job due on engine hours is planned at a reading, say 4,600 h, and its date is estimated from your usual hours a month. If the hours get there first, the dashboard warns you.\n\nA planned job shows on the dashboard under its job, on the Upkeep calendar marked ⏱, and in its project. If its day passes and it isn't logged, it shows as Overdue (planned 3 Oct) rather than disappearing.\n\nA job can also be a checklist to run, planned from the checklist's Plan Job. An hours job shows how many hours are left.\n\nA planned job can have a reminder in Apple Reminders, marked with the orange mark. Settings, Add Planned Jobs to Apple Reminders, says whether a new job starts with one.",
     "category" : "5.4 Upkeep",
     "imageName" : "calendar.badge.clock",
     "isSysImg" : true,
@@ -1048,7 +1048,7 @@
     "question" : "What is a planned job?"
   },
   {
-    "answer" : "Tap the job on the dashboard and View Planned Job, or tap it on the calendar or in its project.\n\n• Log It Today puts it on today's log as a task, starting the log with yesterday's hours and position if there isn't one yet. The task opens filled in from the job, for you to add labour, parts and the invoice. The job is then done, and the library job's next due date moves.\n• Reschedule changes the date, and for an hours job the reading.\n• Skip It marks it skipped and takes it off the dashboard and calendar.\n\nIf the job has a reminder in the Reminders app, it moves when you reschedule and is ticked off when you log or skip.",
+    "answer" : "Tap the job on the dashboard and View Planned Job, or tap it on the calendar or in its project.\n\n• Log It Today puts it on today's log as a task, starting the log with yesterday's hours and position if there isn't one yet. The task opens filled in from the job, for you to add labour, parts and the invoice. The job is then done, and the library job's next due date moves.\n• Run Checklist, for a checklist's job, opens the checklist; finishing the run marks the job done.\n• Reschedule changes the date, and for an hours job the reading.\n• Skip It marks it skipped and takes it off the dashboard and calendar.\n\nIf the job has a reminder in the Reminders app, it moves when you reschedule and is ticked off when you log or skip. If the reminder was deleted in Reminders, Make It Again puts it back; a job without one has Add to Apple Reminders.",
     "category" : "5.4 Upkeep",
     "imageName" : "checkmark.circle",
     "isSysImg" : true,
@@ -1078,5 +1078,29 @@
     "isSysImg" : true,
     "order" : 18,
     "question" : "What does Delete My Account delete?"
+  },
+  {
+    "answer" : "The orange mark, like the list icon in Apple's Reminders app, shows that something is in Apple Reminders and syncs with it: a reminder, a planned job, a to-do, or a document, piece of equipment, spare or tool whose expiry has a reminder.\n\nRed, with \"Reminder missing\", means Boat Manager keeps one but Reminders no longer has it: deleted there, or Reminders reset after an update or a new Apple ID. Make It Again puts it back as it was; Forget It drops it.\n\n\"Only in Apple Reminders\" under a reminder means nothing here keeps it yet. Data Health, in Settings, gives it a home.",
+    "category" : "2. First Use",
+    "imageName" : "list.bullet.circle.fill",
+    "isSysImg" : true,
+    "order" : 14,
+    "question" : "What does the orange mark mean?"
+  },
+  {
+    "answer" : "When insurance, documentation, a document or a spare is renewed, open its reminder (tap the date line under its expiry) and choose Renewed. Enter the new expiry; it's a year on to start with.\n\nThe record takes the new date, and the same reminder moves forward with its alert as far ahead as before, opened again if it was ticked off. You can also just change the expiry date on the record: its reminder follows when you save.",
+    "category" : "5. Boats",
+    "imageName" : "arrow.clockwise",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "How do I renew an expiry?"
+  },
+  {
+    "answer" : "Whether Add to Reminders starts on when you plan a job, from Plan a Job, a library job or checklist's Plan Job, or scheduling from the Season Outlook. On unless you turn it off; you can still change it for each job.",
+    "category" : "9. Settings",
+    "imageName" : "list.bullet.circle",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "Add Planned Jobs to Apple Reminders"
   }
 ]
