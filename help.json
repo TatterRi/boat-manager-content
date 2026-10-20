@@ -64,7 +64,7 @@
     "question" : "The “Helm” dashboard"
   },
   {
-    "answer" : "At the top right of the screen is a button that allows you to create a ToDo List, a Shopping List or a Note.\n\n• Any of the many things that need to be done can be quickly jotted down on the popover ToDo list. They can be tagged by boat, crew, waypoint etc. \n• When they are done you can mark it complete.\n• ToDos can be added directly to the default Ships Maintenance Log\n• A ‘Note’ is a ‘ToDo’ without a completion flag.\n• Shopping List items can be added directly from the Spare Parts Form",
+    "answer" : "At the top right of the screen is a button that opens the To-Do list, the Shopping List and Notes.\n\nThe To-Do and Shopping lists work like Apple Reminders:\n• Tap the round checkbox to tick an item off. Show Completed and Hide Completed are in the ••• menu.\n• Type in the New To-Do (or New Item) row at the foot of the list to add one quickly. Tap an item to open it in full: notes, a tag for a boat, crew member or waypoint, a reminder, photos and files.\n• Drag the grip on a row to put the list in your own order.\n• New Section, in the ••• menu, groups items under a heading. Move to Section, in an item's menu, files it. A section's own menu renames or deletes it; deleting a section keeps its items.\n• Add to Shopping List, in a to-do's menu, puts a copy on the Shopping List. The to-do stays open: buying the part doesn't finish the job.\n• Log as maintenance task, in an open to-do, records the work on today's log and ticks the to-do off.\n• Shopping List items can also be added from the Spare Parts form.\n• A Note is a to-do without a checkbox.\n\nTo-dos and shopping items are in Apple Reminders too: see \"Do my to-dos show in Apple Reminders?\"",
     "category" : "2. First Use",
     "imageName" : "Notes.SFSymbol",
     "isSysImg" : false,
@@ -88,7 +88,7 @@
     "question" : "Whats under Crew?"
   },
   {
-    "answer" : "Waypoints are the ports of call for your logbooks. \n\n• They can be imported from your chart plotter using the industry standard GPX format or CSV files. \n\n• Favorite waypoints can be selected. They then show at the top of the list, as does the waypoint selected as the Homeport in the Settings form.\n\nYou can populate the Waypoint Latitude and Longitude from Apple Maps. Press the 'Open Maps' button. Select a location on the map or create a pin. On the left of the screen is a section titled \"Coordinates\". Long press on that and select Copy.\n\nWhen you go back to the Boat Manager App you will be asked to allow Paste. Allow Paste. A button above the map will be enabled to Paste the coordinates into the Waypoints fields. Save the waypoint.",
+    "answer" : "Waypoints has two tabs: Waypoints, the places you log, and Voyages, the trips you plan (see \"What are Voyages?\").\n\nWaypoints are the ports of call for your logbooks. \n\n• They can be imported from your chart plotter using the industry standard GPX format or CSV files. \n\n• Favorite waypoints can be selected. They then show at the top of the list, as does the waypoint selected as the Homeport in the Settings form.\n\nYou can populate the Waypoint Latitude and Longitude from Apple Maps. Press the 'Open Maps' button. Select a location on the map or create a pin. On the left of the screen is a section titled \"Coordinates\". Long press on that and select Copy.\n\nWhen you go back to the Boat Manager App you will be asked to allow Paste. Allow Paste. A button above the map will be enabled to Paste the coordinates into the Waypoints fields. Save the waypoint.",
     "category" : "2. First Use",
     "imageName" : "mappin.and.ellipse",
     "isSysImg" : true,
@@ -112,7 +112,7 @@
     "question" : "Whats under Maintenance?"
   },
   {
-    "answer" : "Boat Manager keeps everything it reminds you of, and puts each reminder in Apple Reminders, in a list called \"Boat Manager\", so the usual Apple features work: notifications, Siri, your Watch, sharing.\n\nEach reminder belongs to something here:\n• An expiry: insurance, documentation, a document, a piece of equipment, a spare or a tool. Use Remind Me under its date.\n• A planned job: maintenance, or a checklist to run.\n• A to-do, for anything else.\n\nThe Reminders list shows them all by date, planned jobs too, with what each belongs to. An orange mark shows what's in Apple Reminders. Tap a reminder, then its first line, to open what it belongs to.\n\nReminders from the main menu can be for any boat; a boat's Upkeep, Reminders shows only that boat's. The + there offers Plan a Job or a To-Do with a Reminder.",
+    "answer" : "Boat Manager keeps everything it reminds you of, and puts each reminder in Apple Reminders, in a list called \"Boat Manager 2\", so the usual Apple features work: notifications, Siri, your Watch, sharing.\n\nEach reminder belongs to something here:\n• An expiry: insurance, documentation, a document, a piece of equipment, a spare or a tool. Use Remind Me under its date.\n• A planned job: maintenance, or a checklist to run.\n• A to-do, for anything else.\n\nThe Reminders list shows them all by date, planned jobs too, with what each belongs to. An orange mark shows what's in Apple Reminders. Tap a reminder, then its first line, to open what it belongs to.\n\nReminders from the main menu can be for any boat; a boat's Upkeep, Reminders shows only that boat's. The + there offers Plan a Job or a To-Do with a Reminder.",
     "category" : "2. First Use",
     "imageName" : "list.bullet",
     "isSysImg" : true,
@@ -1102,5 +1102,29 @@
     "isSysImg" : true,
     "order" : 9,
     "question" : "Add Planned Jobs to Apple Reminders"
+  },
+  {
+    "answer" : "Yes. Every to-do and shopping item has a matching reminder in Apple Reminders, kept in step both ways with nothing to press:\n• To-dos are in the \"Boat Manager 2\" list, shopping items in \"Boat Manager Shopping List\".\n• Add, rename, date or tick off an item in either app and the other follows. A reminder you add to either list in Reminders becomes a to-do here.\n• Deleting a reminder in Reminders deletes its to-do.\n• Sections, the order you set and tags stay in Boat Manager: Reminders has no place for them.\n• Notes are not sent to Reminders.\n\nSo Siri, your Watch and Reminders' own notifications and sharing work on your to-dos.\n\nBoat Manager asks for access to Reminders the first time you save a to-do.",
+    "category" : "2. First Use",
+    "imageName" : "checklist",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "Do my to-dos show in Apple Reminders?"
+  },
+  {
+    "answer" : "Voyages, the second tab under Waypoints, plans where the boat goes over the coming weeks and months: the stops, the days between them, and what the trip will cost and burn.\n\n• New Voyage starts one. Add Stop adds a port, from your saved waypoints or anywhere on the map. Hold a Day and Leave a Day Early move the dates.\n• Each stop can carry its dockage and contact, a note, a fuel stop and whether it's booked. Totals, cost by month and the longest day are worked out from your boat's figures as you go.\n• Duplicate as Alternative copies a voyage to try another route; Compare sets them side by side.\n• Send to Calendar adds the stops to a calendar, and Show My Calendar Beside the Voyage shows what else is on.\n• Share as Text, View as PDF and Export Spreadsheet (CSV) send it on. Paste Rows from a Spreadsheet brings in a plan you already have.\n\nVoyages are for planning only, not for navigation.\n\nThe same voyages are in VoyagePlan, our free voyage-planning app, for crew or family who don't use Boat Manager.",
+    "category" : "7. Waypoints",
+    "imageName" : "point.bottomleft.forward.to.point.topright.scurvepath",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "What are Voyages?"
+  },
+  {
+    "answer" : "Yes. Share Voyage invites people through Apple's sharing. They can see and change the voyage and send messages about it, stop by stop. They need Boat Manager or VoyagePlan; accepting the invitation in Boat Manager opens Waypoints › Voyages on it.\n\nA shared voyage carries the boats, saved waypoints and past costs it uses, so someone without Boat Manager sees the same figures.\n\nShare Voyage on a voyage already shared shows who has it, changes their access or stops sharing. A voyage someone shared with you is marked Shared with you; leave it from the sharing sheet. It can't be deleted from the list, as that would delete it for its owner.",
+    "category" : "7. Waypoints",
+    "imageName" : "person.crop.circle.badge.plus",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "Can I share a voyage?"
   }
 ]
