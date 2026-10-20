@@ -6,7 +6,7 @@ Reasoning behind the edits is in `appstore/description-notes.md`.
 ```
 Every detail of every boat you run — logbook, maintenance, documents and crew — in one place, on iPhone, iPad and Mac.
 
-Built by a USCG-credentialed Master Mariner and ex-Royal Navy officer, over several thousand miles underway.
+Built by a former USCG-credentialed Master Mariner and ex-Royal Navy officer, over several thousand miles underway.
 
 COMPREHENSIVE LOGBOOK
 • Captain's daily log, fuel log, pump-out log and optional generator log
