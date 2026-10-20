@@ -1,0 +1,40 @@
+Plan voyages week by week, keep your to-dos in step with Apple Reminders, and see gale warnings and small craft advisories for the water around the boat.
+
+VOYAGES
+A second tab under Waypoints plans where the boat goes over the coming weeks and months: the stops, the days between them, fuel, the weather on arrival and what the trip will cost, from your boat's figures and what you've paid before. Try an alternative and compare them side by side, send the stops to your calendar, or share a voyage to plan it together, with messages. Crew without Boat Manager can use the free VoyagePlan app.
+
+TO-DOS, LIKE REMINDERS
+Tick the round checkbox, add in the row at the foot of the list, drag into your own order, group into sections, and show or hide what's done. Add to Shopping List copies a to-do over. Every to-do and shopping item is in Apple Reminders too, kept in step both ways. Logging a to-do as a maintenance task ticks it off.
+
+RECORD THE JOB FIRST
+Upkeep's + opens the job list straight away, on today's log or another day's, with no log to write first. Move a task to another log or day from its menu; its expenses go with it.
+
+WEATHER AND TIDES
+The Helm shows NWS alerts near the boat, including gale warnings and small craft advisories for the water within 15 NM, not only the zone you're in. Fill weather logs the day's average wind with its peak gust: "14 kts gusting 27, NE". The tide tile says springs or neaps, from the station's own range.
+
+WHERE YOU LOGGED
+A log's tide comes from the station nearest the log, or one you pick for it, and the station picker has a map. Choose on Map, under a log's chart, logs a saved waypoint or any spot you long-press. Open in Maps is on every chart.
+
+FLOAT PLANS
+A plan belongs to a boat, with Boat and Skipper rows that fill the PDF. Departure and arrival take their waypoint's position, so Show on Map works straight away.
+
+ANODES
+Record the % remaining at each inspection and see the wear a month and the months left. Wear faster than before is flagged: often stray current at a new berth.
+
+SAFETY
+Hurricane Plan and Storm Prep checklists. A failed step stays marked until its job is done, and the job starts on the gear it's about. Gear, spares and tools can be marked with their hazard class, from the nine classes, and show its symbol in the lists. Spares have a Solvents & Flammables category.
+
+EXPENSES
+Make Recurring from an expense already paid. Spend Here's figures open their expenses, the cost per night counts only nights at a berth, and a warning says when a charge or a night is missing.
+
+DOCUMENTS ON EVERY BOAT
+Show on all boats lists one copy, such as the insurance, a cruising guide or the rules of the road, on every boat's Papers.
+
+TOWING
+Sea Tow or another service beside BoatUS, each with its dispatch number in Nearby, and a Towing & assistance expense category.
+
+FUEL
+The fuel chart and its sweet spot are gone: three figures can't make a real curve. The Helm's fuel estimate reads straight lines between your trolling, cruise and full-throttle figures.
+
+FIXES
+Send Some Feedback works without Apple Mail. Picking equipment for a to-do's maintenance task no longer closes it. A log task's Copy and Add Spare, and a chart's full screen, open again. Bigger touch areas on + and the sheet buttons. A day with only an invoice no longer shows the maintenance wrench. iCloud Sync's status is in words. Cost of ownership keeps its colours. Tools and boatyards have a wrench, not a hammer.

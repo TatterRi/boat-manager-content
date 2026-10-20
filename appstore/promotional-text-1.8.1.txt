@@ -1,0 +1,1 @@
+New in 1.8.1: plan voyages week by week, to-dos that sync with Apple Reminders, and NWS gale and small craft warnings for the water near your boat.
