@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "RevenueCat": {
+      "source": {
+        "source": "github",
+        "repo": "RevenueCat/ai-toolkit"
+      }
+    }
+  },
+  "enabledPlugins": {
+    "revenuecat@RevenueCat": true
+  }
+}
