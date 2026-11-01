@@ -888,7 +888,7 @@
     "question" : "Track USCG Days?"
   },
   {
-    "answer" : "Go to Settings > Data Import And Export > CSV Export.\nEach data set can be exported individually or select \"All\" for all to be done in a batch.\n\nFloat Plans are included, each with its itinerary and passengers.",
+    "answer" : "Go to Settings > Data Import And Export > CSV Export.\nEach data set can be exported individually or select \"All\" for all to be done in a batch.\n\nAll includes every field, in each table's own columns or its Other Fields column, and a file of Other Records for what has no table of its own: Voyages and their messages, to-do sections and set-aside upkeep jobs.\n\nFloat Plans are included, each with its itinerary and passengers.",
     "category" : "9. Settings",
     "imageName" : "tray.and.arrow.up",
     "isSysImg" : true,
@@ -896,7 +896,7 @@
     "question" : "How do I export my data?"
   },
   {
-    "answer" : "Go to Settings > Data Import And Export > CSV Import.\n\nEach data set must imported individually. Its best done in the sequence shown on the view, as that minimizes the risk that the Parent->Child relationships become confused.\n\nBringing records in from your own spreadsheets? Pick a table and save its Blank Template: a header row and one example row. Copy the example row for each record, fill in what you know, delete the example, and import it. Expenses have their own Blank Template: one row per cost, with the category as the Expenses screen names it.\n\nIf a row in a file can't be read, the import stops at that row and says which one; the rows before it are imported.",
+    "answer" : "Go to Settings > Data Import And Export > CSV Import.\n\nTo bring back a whole export, choose All and pick every file from one Export All at once. They are imported in the order their links need, so the vendor, place or library job a record names is found, not made a second time.\n\nOne table at a time? Import them in the order shown on the screen: a record's boat, papers, places and vendors before the record itself.\n\nBringing records in from your own spreadsheets? Pick a table and save its Blank Template: a header row and one example row. Copy the example row for each record, fill in what you know, delete the example, and import it. Expenses have their own Blank Template: one row per cost, with the category as the Expenses screen names it.\n\nIf a row in a file can't be read, the import stops at that row and says which one; the rows before it are imported.",
     "category" : "9. Settings",
     "imageName" : "tray.and.arrow.down",
     "isSysImg" : true,
