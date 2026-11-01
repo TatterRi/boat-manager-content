@@ -1,0 +1,43 @@
+A new look you can arrange, your boat shared with your crew, one search across the boat, and voyages planned week by week.
+
+A NEW LOOK
+Your boat on its own screen, with a bar for the Helm, Find, a + for anything new, Show and More. On iPad and Mac each place is a tile showing what's going on. Arrange it your way: the places, the Helm's tiles, the sections of a log entry and Specs, and the order of your boats. Your data is as it was. If you've used Boat Manager before you'll start on the screens you know: switch in Settings › Boat Manager 2.0.
+
+CREW
+Share a boat with the people who sail on her. Invite them from their Crew record, as Writes the Log, Crew or View Only, and the boat comes aboard their Boat Manager, kept in step through iCloud. Crew don't pay: your subscription covers your boats. Each log entry, to-do and expense says who wrote it, and anyone aboard can keep their time aboard and USCG days, with the CG-719S form.
+
+ONE + FOR EVERYTHING
+The + in the bar adds a log entry, a quick log note, a photo, maintenance, an expense, a to-do or a float plan, from wherever you are. Guided Log Entry takes a day's log one step at a time. On the Mac, the File menu has New Log Entry, Maintenance, Expense and To-Do, and you can drop a receipt or a file on a row.
+
+FIND
+One search across the whole boat: the log, gear, spares, papers, jobs, people and places.
+
+NEXT ON THE HELM
+Up to three cards at the top of the Helm when there's something to do: a gale warning near the boat, a float plan for today, what happened since your last visit, jobs coming due. Hold one to change or switch it off, or set them in Settings › Helm.
+
+SHOW
+The boat's photos and the log's, full screen, and her track on a map, for showing someone what you've been doing.
+
+UPKEEP
+A job's labour, materials and yard bill go in as expenses as you log it. The form guesses the equipment, notes oil added and asks what's next, records anode readings and replacements, and corrects engine hours that were never logged. Set Aside keeps gear you've taken off, with its history, out of the lists and reminders. 38 more jobs in the starter library.
+
+THIS BOAT
+Each boat keeps its own log times, defaults and planning settings, so a second boat no longer shares the first one's.
+
+VOYAGES
+Plan where she goes over the coming weeks and months: the stops, the days between them, fuel, the weather on arrival and what it will cost, from your boat's figures and what you've paid before. Mark a day that can't move, compare alternatives side by side, send the stops to your calendar, or share a voyage to plan it together.
+
+TO-DOS, LIKE REMINDERS
+Tick the round checkbox, add at the top of the list, drag into your own order, group into sections, and show or hide what's done. Every to-do and shopping item is in Apple Reminders too, kept in step both ways. Logging a to-do as maintenance ticks it off.
+
+WEATHER AND TIDES
+The Helm shows NWS alerts near the boat, including gale warnings and small craft advisories within 15 NM. Weather logs the day's average wind with its peak gust, the barometer and its trend, and visibility. A log's tide comes from the station nearest it, or one you pick on a map, and the tide tile says springs or neaps.
+
+SAFETY
+Hurricane Plan and Storm Prep checklists. A failed step stays marked until its job is done. Gear, spares and tools can carry their hazard class, from the nine, with its symbol.
+
+EXPENSES, PAPERS AND FLOAT PLANS
+Make Recurring from an expense already paid; Spend Here's figures open their expenses. A paper can show on every boat, such as the insurance or a cruising guide. A float plan belongs to a boat, takes its places' positions, and Use Again starts a copy from today.
+
+FIXES
+The boat's radio, mobile or satellite number and prominent features are saved in their own places again, not the next one along as since 1.2, and yours are moved back on every device. Send Some Feedback works without Apple Mail. Bigger touch areas, and VoiceOver reads tappable rows as buttons.
