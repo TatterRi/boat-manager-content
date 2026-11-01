@@ -40,7 +40,7 @@
     "question" : "What does a safety check fill in for me?"
   },
   {
-    "answer" : "Boat Manager is free for the first month.\n\nThe subscription allows continued support for all the features and more ... unlimited boats, unlimited Logs, a range of Boat Maintenance management functions including reminders synched with Apple Reminders, Log entries synched with Apple Calendar and PDF’s of boats, equipment, logs, crew and maintenance records.\n",
+    "answer" : "Boat Manager is free for the first month.\n\nThe subscription allows continued support for all the features and more ... unlimited boats, unlimited Logs, a range of Boat Maintenance management functions including reminders synched with Apple Reminders, Log entries synched with Apple Calendar and PDF’s of boats, equipment, logs, crew and maintenance records.\n\nA boat someone shares with you is free: its owner's subscription covers it.",
     "category" : "2. First Use",
     "imageName" : "plus.app",
     "isSysImg" : true,
@@ -1126,5 +1126,101 @@
     "isSysImg" : true,
     "order" : 6,
     "question" : "Can I share a voyage?"
+  },
+  {
+    "answer" : "Open the person's Crew record and tap Edit. Under Crew Sharing, tap Invite to Boat Manager…, choose the boat, their role and the email address or phone number they use for iCloud, then tap Invite. Send them the link it gives you.\n\nWhen they open it on their iPhone, iPad or Mac, the boat comes aboard their Boat Manager and stays in step with yours through iCloud. Their Crew record shows when they've joined.\n\nYou can also tap Share with Crew on the boat's Crew page and send the invitation from there. Link the person to their Crew record afterwards with Already Joined?.",
+    "category" : "6. Crew",
+    "imageName" : "person.crop.circle.badge.plus",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "How do I share a boat with my crew?"
+  },
+  {
+    "answer" : "• Owner: the boat is yours. You hold the subscription, set the boat up, share it and can delete it.\n• Writes the Log: adds to the log and the boat's records.\n• Crew: adds to the boat's records and reads the log.\n• View Only: sees the boat's records and changes nothing.\n\nChange someone's role with Role under Crew Sharing on their Crew record. Each log entry, to-do and expense shows who wrote it.",
+    "category" : "6. Crew",
+    "imageName" : "person.badge.shield.checkmark",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "What can each crew role do?"
+  },
+  {
+    "answer" : "Ask the owner to invite you from Boat Manager, using the email address or phone number you sign in to iCloud with. Open their invitation on your iPhone, iPad or Mac and the boat comes aboard. New to Boat Manager? Choose Joining someone's boat? on the first screen.\n\nA boat shared with you is free: the owner's subscription covers it. What you can do on it depends on the role the owner gave you.\n\nTo leave, Me › Leave This Boat takes the owner's boats off this device. What you added stays with them.",
+    "category" : "6. Crew",
+    "imageName" : "person.2.badge.plus",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "How do I join someone's boat?"
+  },
+  {
+    "answer" : "Open their Crew record, tap Edit, and under Crew Sharing tap Remove beside the boat. The boat leaves their Boat Manager; what they wrote stays in the log.",
+    "category" : "6. Crew",
+    "imageName" : "person.crop.circle.badge.minus",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "How do I stop sharing a boat with someone?"
+  },
+  {
+    "answer" : "The Boat Card sends your boat's details in one go, three ways:\n• Meet: for people you meet along the way, with a QR code that adds you to their Contacts.\n• Marina: what a marina or yard asks for, the dimensions above all.\n• Insurance: the policy, with its certificate from Papers.\n\nTap Share on the boat's main screen, choose the card and what's on it, then Share sends it as a picture, as text a form or email can take, and for Meet as a contact.",
+    "category" : "6. Crew",
+    "imageName" : "person.text.rectangle",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "What is the Boat Card?"
+  },
+  {
+    "answer" : "Me › My Time Aboard lists the days you were aboard and your own Ships Log.\n\nTurn on Track USCG Days in Me › My Settings to count sea service for a licence, on the CG-719S form. Captain or crew can turn it on; when anyone aboard tracks USCG days, the log asks for the body of water.\n\nDays Aboard in Calendar, in the same settings, puts each day you were aboard in a calendar for each boat.",
+    "category" : "6. Crew",
+    "imageName" : "calendar.badge.clock",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "How do I count my time aboard and USCG days?"
+  },
+  {
+    "answer" : "Boat Manager 2.0 has a new, simpler set of screens: your boat on its own screen, with a bar along the foot for the Helm, Find, a + for anything new, Show and More. On iPad and Mac each place is a tile showing what's going on in it.\n\nIf you used Boat Manager before 2.0 you start on the screens you know. Switch in Settings › Boat Manager 2.0 (Try the New Screens, or Classic Screens to go back); it takes effect the next time the app opens. Your data is the same in both.",
+    "category" : "3. Navigation",
+    "imageName" : "rectangle.grid.2x2",
+    "isSysImg" : true,
+    "order" : 16,
+    "question" : "What are the new screens?"
+  },
+  {
+    "answer" : "Yes, in the new screens:\n• More › Arrange… chooses which places are on the main screen and in what order.\n• Arrange… on the Helm puts its tiles in your order; on iPad and Mac you can also press and drag a tile into place.\n• Arrange Sections, on a log entry and on Specs, puts the sections in your order and switches off the ones you don't use.\n• Drag your boats into order in the Boats sidebar.",
+    "category" : "3. Navigation",
+    "imageName" : "arrow.up.arrow.down",
+    "isSysImg" : true,
+    "order" : 17,
+    "question" : "Can I arrange the screens?"
+  },
+  {
+    "answer" : "Find, in the bar, searches the whole boat at once: the log, gear, spares, papers, jobs, people and places. Narrow it with the choices at the top, and tap a result to open it.",
+    "category" : "3. Navigation",
+    "imageName" : "magnifyingglass",
+    "isSysImg" : true,
+    "order" : 18,
+    "question" : "What does Find search?"
+  },
+  {
+    "answer" : "Next shows up to three cards when there's something to do, most urgent first:\n• Weather: gale and storm warnings near the boat.\n• Departure: a float plan or voyage leaving today.\n• Since Your Last Visit: what happened while you were away.\n• Upkeep Due: jobs coming due (off to begin with).\n\nHold a card to change or switch it off, or set them all in Settings › Helm › Suggestions.",
+    "category" : "3. Navigation",
+    "imageName" : "lightbulb",
+    "isSysImg" : true,
+    "order" : 19,
+    "question" : "What are the cards at the top of the Helm?"
+  },
+  {
+    "answer" : "Show is for showing someone the boat and where she's been, full screen.\n\nPhotos: the boat's three photos, then the newest log photos, 63 in all at most. Page through with the arrows, or the arrow keys on a Mac.\n\nMap: the logged places joined in date order, for this season, a voyage or all time. The track breaks where she can't have sailed from one place to the next, such as a winter ashore or a delivery, rather than drawing a line over land. A voyage's stops still to come are drawn in grey until she's sailed them.",
+    "category" : "3. Navigation",
+    "imageName" : "photo.on.rectangle",
+    "isSysImg" : true,
+    "order" : 20,
+    "question" : "What does Show show?"
+  },
+  {
+    "answer" : "Data Health found two logs in a row further apart than a day's run allows for the time between them. Usually one position is wrong, or the logs between them are missing; or she was trucked, shipped or moved by a delivery crew and that isn't logged.\n\nOpen the logs and correct the position, add the missing days, or log the move on the later day: its distance run, or \"trucked\", \"shipped\" or \"delivery\" in the entry. Set aside one that's right as it is. Show's map breaks its track at each.",
+    "category" : "9. Settings",
+    "imageName" : "exclamationmark.triangle",
+    "isSysImg" : true,
+    "order" : 19,
+    "question" : "What does \"Further than she could have sailed\" mean?"
   }
 ]
