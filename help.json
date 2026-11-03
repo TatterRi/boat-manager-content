@@ -1192,7 +1192,7 @@
     "question" : "Can I arrange the screens?"
   },
   {
-    "answer" : "Find, in the bar, searches the whole boat at once: the log, gear, spares, papers, jobs, people and places. Narrow it with the choices at the top, and tap a result to open it.",
+    "answer" : "Find, in the bar, searches the whole boat at once: the log, gear, spares, papers, jobs, people and places. Narrow it with the choices at the top, and tap a result to open it.\n\nThe Boat group finds the boat's own numbers and particulars by the words you'd use for them, such as coast guard number, documentation, MMSI or bridge clearance. Tap one to copy it.",
     "category" : "3. Navigation",
     "imageName" : "magnifyingglass",
     "isSysImg" : true,
@@ -1222,5 +1222,29 @@
     "isSysImg" : true,
     "order" : 19,
     "question" : "What does \"Further than she could have sailed\" mean?"
+  },
+  {
+    "answer" : "On the new screens, + › Guided Log Entry writes the day's log a step at a time: The Day, Where, Engines, The Run, Aboard, Weather, Anything Else, and a Review of the whole entry before Save. The steps run across the top: tap one to jump to it. Anything you skip can be filled in later in the full entry.\n\nSave and Log Maintenance saves the day and goes straight on to a job done that day.",
+    "category" : "5.3 Logs",
+    "imageName" : "list.bullet.clipboard",
+    "isSysImg" : true,
+    "order" : 103,
+    "question" : "What is Guided Log Entry?"
+  },
+  {
+    "answer" : "Quick log notes put a line in the day's log with one tap: a bridge opening, a lock, anchor up or down, dolphins, a squall, and more, grouped as Getting Through, Under Way, Wildlife, Weather & Sea, Traffic & Safety and People & Moments. Each line has the time and the position, and some ask one more thing, such as which bridge.\n\nOpen them from + › Log Note on the new screens. Arrange Buttons puts them in your order, hides the ones you don't use, and adds your own under My Notes.\n\nThe notes are part of the log's text, so they print and export with it. Show and Analysis count them, and the track map marks where they happened. A new log entry picks up the day's notes, and the engine on and off times give its hours run.",
+    "category" : "5.3 Logs",
+    "imageName" : "square.and.pencil",
+    "isSysImg" : true,
+    "order" : 104,
+    "question" : "What are quick log notes?"
+  },
+  {
+    "answer" : "On the new screens, + › Guided Maintenance logs a job a step at a time: the job, from the Library, Recent, Scheduled or Due, or Make Your Own; what was done; the checks; spares and costs; who did it; and a Review before Save. The steps run across the top: tap one to jump to it.",
+    "category" : "5.4 Upkeep",
+    "imageName" : "wrench.and.screwdriver",
+    "isSysImg" : true,
+    "order" : 12,
+    "question" : "What is Guided Maintenance?"
   }
 ]
