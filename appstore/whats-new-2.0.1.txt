@@ -1,0 +1,19 @@
+Sync that stays honest, steadier forms, and log notes your way.
+
+SYNC THAT KEEPS GOING
+A vendor used on a shared boat could stop a device uploading, while iCloud Sync still said all was well. That's fixed, and iCloud Sync now says when uploads have stopped and which record is holding them up.
+
+STEADIER FORMS
+Log Note no longer crashes on the Mac, and coming back from a list on the expense and log forms keeps what you've typed.
+
+LOG NOTES YOUR WAY
+Time and Position are checkmarks on Log Note, remembered for next time, so a poor GPS fix stays out of the log. The log form has a note button by the Narrative, and Diver is among the notes.
+
+SHIPS PAPER ON THE +
+Add a paper from the blue + on any screen. Add Document's lists search by name, and can start a new maintenance task.
+
+VENDORS
+A vendor's page has Edit on the bar, from Find too. Crew can add vendors, and yours stay yours from boat to boat.
+
+FUEL, WORKED OUT
+Rates come from the last 12 months, the fill day is shared out by distance from the dock, and How It's Worked Out shows every sum. The log list has a Generator chip on a boat with a generator.

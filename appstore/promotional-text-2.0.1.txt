@@ -1,0 +1,1 @@
+New in 2.0.1: sync that keeps going and tells you when it can't, a steadier Mac, log notes your way, and Ships Paper on the + from every screen.
