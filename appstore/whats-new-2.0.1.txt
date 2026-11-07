@@ -6,6 +6,9 @@ A vendor used on a shared boat could stop a device uploading, while iCloud Sync 
 STEADIER FORMS
 Log Note no longer crashes on the Mac, and coming back from a list on the expense and log forms keeps what you've typed.
 
+FLOAT PLAN PDFS
+The PDF shows the boat's propulsion and full safety gear, and long entries stay on the page.
+
 LOG NOTES YOUR WAY
 Time and Position are checkmarks on Log Note, remembered for next time, so a poor GPS fix stays out of the log. The log form has a note button by the Narrative, and Diver is among the notes.
 
