@@ -1104,7 +1104,7 @@
     "question" : "Add Planned Jobs to Apple Reminders"
   },
   {
-    "answer" : "Yes. Every to-do and shopping item has a matching reminder in Apple Reminders, kept in step both ways with nothing to press:\n• To-dos are in the \"Boat Manager 2\" list, shopping items in \"Boat Manager Shopping List\".\n• Add, rename, date or tick off an item in either app and the other follows. A reminder you add to either list in Reminders becomes a to-do here.\n• Deleting a reminder in Reminders deletes its to-do.\n• Sections, the order you set and tags stay in Boat Manager: Reminders has no place for them.\n• Notes are not sent to Reminders.\n\nSo Siri, your Watch and Reminders' own notifications and sharing work on your to-dos.\n\nBoat Manager asks for access to Reminders the first time you save a to-do.",
+    "answer" : "Yes. Every to-do and shopping item has a matching reminder in Apple Reminders, kept in step both ways with nothing to press:\n• To-dos are in the \"Boat Manager 2\" list, shopping items in \"Boat Manager Shopping List\".\n• Add, rename, date or tick off an item in either app and the other follows. A reminder you add to either list in Reminders becomes a to-do here.\n• Deleting a reminder in Reminders deletes its to-do.\n• Sections, the order you set and tags stay in Boat Manager: Reminders has no place for them.\n• Notes are not sent to Reminders.\n• A to-do's priority, an early alert (days or hours before it's due) and an alert as you arrive at or leave a place go to Reminders and come back.\n\nSo Siri, your Watch and Reminders' own notifications and sharing work on your to-dos.\n\nBoat Manager asks for access to Reminders the first time you save a to-do.",
     "category" : "2. First Use",
     "imageName" : "checklist",
     "isSysImg" : true,
@@ -1184,7 +1184,7 @@
     "question" : "What are the new screens?"
   },
   {
-    "answer" : "Yes, in the new screens:\n• More › Arrange… chooses which places are on the main screen and in what order.\n• Arrange… on the Helm puts its tiles in your order; on iPad and Mac you can also press and drag a tile into place.\n• Arrange Sections, on a log entry and on Specs, puts the sections in your order and switches off the ones you don't use.\n• Drag your boats into order in the Boats sidebar.",
+    "answer" : "Yes, in the new screens:\n• More › Arrange… chooses which places are on the main screen and in what order. On iPad and Mac, the pin on a row puts that place in the bar beside the +, up to six.\n• Arrange… on the Helm puts its tiles in your order; on iPad and Mac you can also press and drag a tile into place.\n• Arrange This Menu…, at the foot of the +, switches items off and puts them in your order.\n• The Arrange button on the sidebar's All Boats does the same for Crew, Voyages, Waypoints and the rest.\n• Arrange Sections, in the … menu of a log entry, Specs, an expense, a waypoint, a paper, equipment, a spare, a tool, a crew member or a vendor, puts the sections in your order and switches off the ones you don't use. A section that's off still shows if you've filled it in, and while editing it's a tap away under More Sections.\n• Drag your boats into order in the Boats sidebar.\n\nWhat you arrange follows you to your other iPhone, iPad and Mac through iCloud. To keep one device its own, switch off Same Layout on All My Devices at the foot of any Arrange sheet.",
     "category" : "3. Navigation",
     "imageName" : "arrow.up.arrow.down",
     "isSysImg" : true,
@@ -1246,5 +1246,45 @@
     "isSysImg" : true,
     "order" : 12,
     "question" : "What is Guided Maintenance?"
+  },
+  {
+    "answer" : "On the new screens, the + has a guided version of the entries with the most to fill in: Guided Log Entry, Guided Maintenance, Guided Expense, Guided Reminder and Guided Float Plan. Guided Add Equipment and Guided New Project are on the + of Gear and Projects. Each asks one thing at a time, with the steps across the top (tap one to jump to it), and ends on a Review of the whole entry before Save. Full Form Instead switches to the usual form, keeping what you've typed.\n\n• Guided Expense starts from the receipt: take a photo, scan it, pick a file or one already in Papers. It's read for the amount, the date and who you paid, so the next steps start filled in. Then what it was for, from your most-used categories, how much, where and who, and for the captain, how to class it.\n• Guided Reminder sets up a to-do and its alert: what, when (once or repeating), the alert (days or hours ahead, or as you arrive at or leave a place) and a review.",
+    "category" : "3. Navigation",
+    "imageName" : "list.number",
+    "isSysImg" : true,
+    "order" : 21,
+    "question" : "Which entries can I make a step at a time?"
+  },
+  {
+    "answer" : "A job you do when it's needed rather than on a schedule: drain the water from the Racor bowls, pump out, replace the cutless bearing at haul-out. Choose As Required as its frequency. It's never due or overdue and doesn't count as not started; its row says As required. A planned one can still go late against the date you planned it for.\n\nThe starter library has 221 jobs, and the ones that are As Required come set that way. The library's As required filter lists them.",
+    "category" : "8. Maintenance",
+    "imageName" : "arrow.triangle.2.circlepath",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "What is an As Required job?"
+  },
+  {
+    "answer" : "Yes, by GPX. On a voyage, Share › Export Route (GPX) writes its stops in order as one route, for a chartplotter, Aqua Map or any navigation app.\n\nThe other way: + › Import GPX Route on Voyages makes a voyage from a file, and Add Stop › Import GPX Route… adds a file's stops to the voyage you're in, after asking. A route's points are passed through, with a night only at the last one; a file of waypoints gets a night at each. A file with only a track says so: tracks aren't imported.",
+    "category" : "7. Waypoints",
+    "imageName" : "point.bottomleft.forward.to.point.topright.scurvepath",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "Can I move a voyage to my chartplotter?"
+  },
+  {
+    "answer" : "Because that's where they start. As you type the engine readings, Hours underway fills in with the hours the engines ran (the longer of the two on twin engines). For most power boats that's right, and there's nothing more to do.\n\nChange it whenever it isn't: under sail you're underway longer than the engine ran, and an engine check at the dock isn't underway at all, so set it to 0. Once you've changed it, it stays as you set it. Departure and arrival times, where you log them, set it too, and a guided log that's Staying Put leaves it at 0.",
+    "category" : "5.3 Logs",
+    "imageName" : "sailboat",
+    "isSysImg" : true,
+    "order" : 105,
+    "question" : "Why are my hours underway the same as my engine hours?"
+  },
+  {
+    "answer" : "Yes. Open a PDF in Boat Manager from another app (Open With on the Mac) and it goes to the Add Document form, as one sent with the share sheet does, to file on the boat with a name, type and expiry.\n\nOn the Mac, Mail can send an email straight there: in Mail's Print dialog, open the PDF menu, choose Edit Menu…, press + and pick Boat Manager. After that, File › Print › PDF › Boat Manager files the email as a paper.",
+    "category" : "5. Boats",
+    "imageName" : "envelope",
+    "isSysImg" : true,
+    "order" : 11,
+    "question" : "Can I file a PDF or an email from another app?"
   }
 ]

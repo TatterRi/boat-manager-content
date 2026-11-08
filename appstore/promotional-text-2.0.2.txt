@@ -1,0 +1,1 @@
+New in 2.0.2: make Boat Manager yours. Arrange every screen, menu and form, pin what you use to the bar, and add expenses and reminders a step at a time.

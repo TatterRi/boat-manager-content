@@ -3,22 +3,25 @@ Every detail of every boat you run, in one place: the log, upkeep, gear, papers,
 Built by a former USCG-credentialed Master Mariner and ex-Royal Navy officer, over several thousand miles underway.
 
 NEW IN 2.0
-• A simpler set of screens: your boat on its own page, with the Helm, Find, a + for anything new, and Show
-• Arrange it your way: the places, the Helm's tiles and the order of your boats
+• A simpler set of screens: your boat on its own page, with the Helm, Find, a + for anything new and Show
 • Share a boat with your crew, free for them
 • One search across the log, gear, spares, papers, jobs, people and places
-• Voyages planned week by week
+
+MAKE IT YOURS
+• Arrange the screens, the Helm, the + menu, the sidebar and every form
+• Pin the places you use most to the bar on iPad and Mac
+• Your layout follows you to every device through iCloud
+• Guided entry, a step at a time, for logs, upkeep, expenses, reminders and float plans
 
 YOUR BOATS
 • Any number of boats: your main boat, a tender, and the boats you've owned or served on
-• Specs, admin details, dimensions and capacities for each
+• Specs, admin details, dimensions and capacities
 • A fuel-consumption curve fitted to your own data, to estimate what's left in the tank
 
 LOGBOOK
 • Captain's daily log, fuel, water, pump-out and optional generator logs
 • Position, Apple Weather and NOAA tides filled in with each entry
-• Guided Log Entry takes a day's log one step at a time
-• Every passage on a map and a calendar; import waypoints by GPX or CSV
+• Every passage on a map and a calendar; waypoints and routes in and out by GPX
 • Sea service summaries for USCG CG-719S
 
 THE HELM

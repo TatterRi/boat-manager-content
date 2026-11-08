@@ -1,0 +1,28 @@
+Make it yours: arrange every screen, menu and form, pin what you use to the bar, and add expenses and reminders a step at a time.
+
+MAKE IT YOURS
+On the new screens, arrange is everywhere: switch off and reorder the sections of the expense, waypoint, paper, equipment, spare, tool, crew and vendor forms, as the log's already could. Arrange the + menu and the sidebar's All Boats too. On iPad and Mac, pin the places you use most to the bar beside the +. Your arrangement follows you to your other iPhone, iPad and Mac through iCloud, or a device can keep its own.
+
+A STEP AT A TIME
+Guided Expense starts from the receipt, which fills in the amount, the date and who you paid. Guided Reminder sets up a to-do and its alert in four steps. Float plans, new equipment and new projects have guided versions too. Each keeps its steps across the top, and Full Form Instead is a tap away.
+
+REMINDERS THAT FIND YOU
+A to-do can remind you as you arrive at or leave a marina or waypoint, or days or hours before it's due, and has a priority. All three go to Apple Reminders and come back.
+
+MARINAS
+More to note about a marina: a liveaboard fee, a waitlist, floating or covered slips, Wi-Fi and pump-out at the slip, a nearby airport, grocery delivery and more. Spend Here shows the cost per stay, free nights and the average fuel price, and its expenses open straight away. Hold on the Log map for What's Here.
+
+ON THE HELM
+Sunrise and sunset on the forecast, worked out from where you are, so they show offline at anchor too. Days Since has Last Underway: a boat that sits goes foul, and its engines want running.
+
+VOYAGES AND GPX
+Export a voyage's route as GPX for the chartplotter or Aqua Map, and import a GPX route or waypoints as a voyage's stops.
+
+UPKEEP
+74 more jobs in the starter library. A job can be As Required, never due, for the ones done when they're needed: drain the Racor bowl, replace the cutless bearing at haul-out.
+
+PDFS FROM ANYWHERE
+Open a PDF in Boat Manager from another app, with Open With on the Mac, and it's filed as a paper. On the Mac, add it to the Print dialog's PDF menu to file an email straight from Mail.
+
+FIXES
+Hours underway fill in from the engines' hours run as you type the readings, and stay as you set them: longer under sail, none for an engine check at the dock. Checklist steps show their explanations. A project made from a template keeps its name. A new expense no longer opens the camera first.
