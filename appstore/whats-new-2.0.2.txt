@@ -7,22 +7,25 @@ A STEP AT A TIME
 Guided Expense starts from the receipt, which fills in the amount, the date and who you paid. Guided Reminder sets up a to-do and its alert in four steps. Float plans, new equipment and new projects have guided versions too. Each keeps its steps across the top, and Full Form Instead is a tap away.
 
 REMINDERS THAT FIND YOU
-A to-do can remind you as you arrive at or leave a marina or waypoint, or days or hours before it's due, and has a priority. All three go to Apple Reminders and come back.
+A to-do can remind you as you arrive at or leave a marina or waypoint, or days or hours before it's due, and has a priority and a link: the part, or the shop's page. It can repeat quarterly, twice a year, or every so many weeks or months. All of it goes to Apple Reminders and comes back.
 
 MARINAS
 More to note about a marina: a liveaboard fee, a waitlist, floating or covered slips, Wi-Fi and pump-out at the slip, a nearby airport, grocery delivery and more. Spend Here shows the cost per stay, free nights and the average fuel price, and its expenses open straight away. Hold on the Log map for What's Here.
 
 ON THE HELM
-Sunrise and sunset on the forecast, worked out from where you are, so they show offline at anchor too. Days Since has Last Underway: a boat that sits goes foul, and its engines want running.
+Swipe the forecast's hours and the tides to see tomorrow's. A Shopping & To-Dos tile puts what to buy first. Sunrise and sunset on the forecast, worked out from where you are, so they show offline at anchor too. Days Since has Last Underway: a boat that sits goes foul, and its engines want running. Fuel used counts the generator: give it a fuel burn on its page in Gear.
+
+FIND, AND A TOW
+Find answers what you're asked on the radio or the phone: type tow for the dispatch numbers and your membership, or EPIRB, engine, cruising, insurance, membership. Tap an answer to copy it. The lifebuoy has Call for a Tow, for when nobody's in danger but the engine has stopped.
 
 VOYAGES AND GPX
 Export a voyage's route as GPX for the chartplotter or Aqua Map, and import a GPX route or waypoints as a voyage's stops.
 
 UPKEEP
-74 more jobs in the starter library. A job can be As Required, never due, for the ones done when they're needed: drain the Racor bowl, replace the cutless bearing at haul-out.
+74 more jobs in the starter library. A job can be As Required, never due, for the ones done when they're needed: drain the Racor bowl, replace the cutless bearing at haul-out. Due soon now comes about a month ahead, not at 85% of the interval: 30 days, or the hours its meter runs in 30 days going by your log, at least 10, and never more than a quarter of the interval. A monthly check shows a week ahead; a 6,000-hour coolant change no longer turns orange 900 hours early.
 
 PDFS FROM ANYWHERE
 Open a PDF in Boat Manager from another app, with Open With on the Mac, and it's filed as a paper. On the Mac, add it to the Print dialog's PDF menu to file an email straight from Mail.
 
 FIXES
-Hours underway fill in from the engines' hours run as you type the readings, and stay as you set them: longer under sail, none for an engine check at the dock. Checklist steps show their explanations. A project made from a template keeps its name. A new expense no longer opens the camera first.
+Hours underway fill in from the engines' hours run as you type the readings, and stay as you set them: longer under sail, none for an engine check at the dock. Checklist steps show their explanations, and an hours checklist counts its own equipment's hours: the generator's, not the main engines'. A project made from a template keeps its name. A new expense no longer opens the camera first. The log's USCG Days and Maintenance filters show their own details on each row. Changing a log's port moves its position and the chart. Export All carries on past a table that fails, and names it. A crash on the Mac while sharing a boat is fixed.

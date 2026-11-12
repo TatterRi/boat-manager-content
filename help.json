@@ -288,7 +288,7 @@
     "question" : "View more detail"
   },
   {
-    "answer" : "The fuel card estimates how much has been burned since the last refuel you logged, and roughly how much of the tank that leaves — assuming that refuel filled the tank. The ~ is deliberate: it is an estimate.\n\nUnder the tank bar it shows the fuel left, which is the tankage on Specs less the estimate used, so the two always add up to the tank, and the range: that fuel at your long-run distance per gallon (NM\/gal), like the range on a car. The range needs logged distance to work from; without it the line is left off.\n\nFour methods, from your own logs and the boat's Specs. Long-run figures come from the last 12 months, and the day of a fill counts only for the distance run to the fuel dock.\n1. Your long-run gallons per hour, times hours run since the refuel.\n2. Distance run since the refuel, divided by your long-run distance per gallon.\n3. The cruising burn rate from Specs, times hours run.\n4. The trolling, cruising and full-throttle burn rates on Specs, read off at the speed you actually made good, along a straight line between the two figures either side of it.\n\nBy default the card averages the methods that could produce a figure; Settings > Fuel Consumption Calc. Method picks one instead. Every refuel and every hour counts, whether or not the boat moved that day. Tap the card, then How It's Worked Out, to see every sum.\n\nMethods 3 and 4 need the tankage, speeds and burn rates on the boat's Specs; Data Health tells you which are missing.",
+    "answer" : "The fuel card estimates how much has been burned since the last refuel you logged, and roughly how much of the tank that leaves — assuming that refuel filled the tank. The ~ is deliberate: it is an estimate.\n\nUnder the tank bar it shows the fuel left, which is the tankage on Specs less the estimate used, so the two always add up to the tank, and the range: that fuel at your long-run distance per gallon (NM\/gal), like the range on a car. The range needs logged distance to work from; without it the line is left off.\n\nFour methods, from your own logs and the boat's Specs. Long-run figures come from the last 12 months, and the day of a fill counts only for the distance run to the fuel dock.\n1. Your long-run gallons per hour, times hours run since the refuel.\n2. Distance run since the refuel, divided by your long-run distance per gallon.\n3. The cruising burn rate from Specs, times hours run.\n4. The trolling, cruising and full-throttle burn rates on Specs, read off at the speed you actually made good, along a straight line between the two figures either side of it.\n\nBy default the card averages the methods that could produce a figure; Settings > Fuel Consumption Calc. Method picks one instead. Every refuel and every hour counts, whether or not the boat moved that day. Tap the card, then How It's Worked Out, to see every sum.\n\nMethods 3 and 4 need the tankage, speeds and burn rates on the boat's Specs; Data Health tells you which are missing.\n\nA generator on the same tank is counted too. Give it a fuel burn per hour on its page in Gear (the figure at its usual load, about half, not the maximum), and its hours logged since the refuel, times that rate, are added to the fuel used and taken out of the long-run rates, so they stay the engines' own. How It's Worked Out shows the sum, and says so when a generator has run but has no rate, or burns a different fuel.",
     "category" : "3. Navigation",
     "imageName" : "fuelpump",
     "isSysImg" : true,
@@ -1192,7 +1192,7 @@
     "question" : "Can I arrange the screens?"
   },
   {
-    "answer" : "Find, in the bar, searches the whole boat at once: the log, gear, spares, papers, jobs, people and places. Narrow it with the choices at the top, and tap a result to open it.\n\nThe Boat group finds the boat's own numbers and particulars by the words you'd use for them, such as coast guard number, documentation, MMSI or bridge clearance. Tap one to copy it.",
+    "answer" : "Find, in the bar, searches the whole boat at once: the log, gear, spares, papers, jobs, people and places. Narrow it with the choices at the top, and tap a result to open it.\n\nThe Boat group finds the boat's own numbers and particulars by the words you'd use for them, such as coast guard number, documentation, MMSI or bridge clearance. Tap one to copy it.\n\nIt also answers what you're asked on the radio or the phone:\n• tow, BoatUS or Sea Tow: the towing dispatch numbers, with your membership number and a button to call.\n• EPIRB, PLB or beacon: the beacon IDs recorded for float plans, yours and the boat's.\n• engine, hours or generator: what the engines are and their hours.\n• cruising, speed or burn: the cruising speed, rpm and fuel burn from Specs.\n• membership, Safe Harbor or Great Loop: your memberships from Me › Memberships.\n• emergency: your emergency contact.\n\nCancel, beside the field while you type, clears the words and puts the keyboard away.",
     "category" : "3. Navigation",
     "imageName" : "magnifyingglass",
     "isSysImg" : true,
@@ -1248,7 +1248,7 @@
     "question" : "What is Guided Maintenance?"
   },
   {
-    "answer" : "On the new screens, the + has a guided version of the entries with the most to fill in: Guided Log Entry, Guided Maintenance, Guided Expense, Guided Reminder and Guided Float Plan. Guided Add Equipment and Guided New Project are on the + of Gear and Projects. Each asks one thing at a time, with the steps across the top (tap one to jump to it), and ends on a Review of the whole entry before Save. Full Form Instead switches to the usual form, keeping what you've typed.\n\n• Guided Expense starts from the receipt: take a photo, scan it, pick a file or one already in Papers. It's read for the amount, the date and who you paid, so the next steps start filled in. Then what it was for, from your most-used categories, how much, where and who, and for the captain, how to class it.\n• Guided Reminder sets up a to-do and its alert: what, when (once or repeating), the alert (days or hours ahead, or as you arrive at or leave a place) and a review.",
+    "answer" : "On the new screens, the + has a guided version of the entries with the most to fill in: Guided Log Entry, Guided Maintenance, Guided Expense, Guided Reminder and Guided Float Plan. Guided Add Equipment and Guided New Project are on the + of Gear and Projects. Each asks one thing at a time, with the steps across the top (tap one to jump to it), and ends on a Review of the whole entry before Save. Full Form Instead switches to the usual form, keeping what you've typed.\n\n• Guided Expense starts from the receipt: take a photo, scan it, pick a file or one already in Papers. It's read for the amount, the date and who you paid, so the next steps start filled in. Then what it was for, from your most-used categories, how much, where and who, and for the captain, how to class it.\n• Guided Reminder sets up a to-do and its alert: what, when (once, or repeating: weekly to yearly, quarterly, twice a year, or Custom for every so many weeks or months), the alert (days or hours ahead, or as you arrive at or leave a place) and a review.",
     "category" : "3. Navigation",
     "imageName" : "list.number",
     "isSysImg" : true,
@@ -1286,5 +1286,21 @@
     "isSysImg" : true,
     "order" : 11,
     "question" : "Can I file a PDF or an email from another app?"
+  },
+  {
+    "answer" : "If nobody is in danger — the engine has stopped, you're aground or out of fuel — tap the red lifebuoy, then Call for a Tow. It shows the towing services' 24-hour dispatch numbers, with your membership number beside each and a button to call. With no membership entered it shows both BoatUS and Sea Tow; either will tow a non-member, at a price. Typing tow in Find shows the same.\n\nPut the call on Speaker before you start talking: the call takes over the phone's screen, and on Speaker you can come back to Boat Manager and read out what dispatch asks for. They ask, in this order: how many are aboard and whether anyone is hurt, where you are, your membership number, the boat (name, make, length, colour, registration), what's wrong, and where you want to be towed. Find has each of those: type registration, length or color.\n\nEnter your memberships under Me › Memberships. They are yours, kept on your devices, so crew see their own, not yours: a sticker by the helm with the number is still worth having.\n\nIf anyone is in danger, it is not a tow: call the coastguard on VHF channel 16.",
+    "category" : "10. Safety",
+    "imageName" : "lifepreserver",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "What do I do if we need a tow?"
+  },
+  {
+    "answer" : "Yes. On the Helm's Forecast, swipe the Next 12 hours strip to the left for tomorrow's hours, 6 am to 9 pm, with wind, gusts and waves. On Tides, swipe the highs and lows to the left for tomorrow's. The two dots under each show which you're looking at, and a tap on them turns the page too.\n\nThe small Tides tile adds tomorrow's first tide once the next one is today's last.",
+    "category" : "3. Navigation",
+    "imageName" : "sun.horizon",
+    "isSysImg" : true,
+    "order" : 22,
+    "question" : "Can I see tomorrow's weather and tides on the Helm?"
   }
 ]
