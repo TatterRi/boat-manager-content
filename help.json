@@ -1328,7 +1328,7 @@
     "question" : "Can Boat Manager read my engine manual's maintenance schedule?"
   },
   {
-    "answer" : "Every interval of a piece of equipment's service, 50 hours, 250 hours, a year, as one list: all the jobs due at that interval. It's on the equipment's page and in Checklists, and shows on the Upkeep Dashboard as one line, counted from when it was last run. Run it and each job ticked is logged against that equipment. On twin engines it asks at the start which engine you're doing, or both.",
+    "answer" : "Every interval of a piece of equipment's service, 50 hours, 250 hours, a year, as one list: all the jobs due at that interval. It's on the equipment's page and in Checklists, and shows on the Upkeep Dashboard as one line, led by the job in it that comes due first, which it names. Run it and each job ticked is logged against that equipment. On twin engines it asks at the start which engine you're doing, or both.",
     "category" : "8. Maintenance",
     "imageName" : "checklist",
     "isSysImg" : true,
@@ -1422,5 +1422,13 @@
     "isSysImg" : true,
     "order" : 23,
     "question" : "Can I change how early a job shows as due soon?"
+  },
+  {
+    "answer" : "Open the job's page and tap the pin at the top, or swipe right on a job on the Upkeep Dashboard and tap Pin. Pinned jobs sit at the top of the Upkeep Dashboard and on the Helm, each by its own hours or date, whichever checklist it's on: an oil change that comes due on hours inside a yearly service stays in sight. Up to four can be pinned. Pins are kept on each device, like your other layout choices. Swipe a pinned job, or tap the pin on its page again, to unpin it.",
+    "category" : "8. Maintenance",
+    "imageName" : "pin",
+    "isSysImg" : true,
+    "order" : 14,
+    "question" : "How do I pin a job so it stays in sight?"
   }
 ]
