@@ -1288,7 +1288,7 @@
     "question" : "Can I file a PDF or an email from another app?"
   },
   {
-    "answer" : "If nobody is in danger — the engine has stopped, you're aground or out of fuel — tap the red lifebuoy, then Call for a Tow. It shows the towing services' 24-hour dispatch numbers, with your membership number beside each and a button to call. With no membership entered it shows both BoatUS and Sea Tow; either will tow a non-member, at a price. Typing tow in Find shows the same.\n\nPut the call on Speaker before you start talking: the call takes over the phone's screen, and on Speaker you can come back to Boat Manager and read out what dispatch asks for. They ask, in this order: how many are aboard and whether anyone is hurt, where you are, your membership number, the boat (name, make, length, colour, registration), what's wrong, and where you want to be towed. Find has each of those: type registration, length or color.\n\nEnter your memberships under Me › Memberships. They are yours, kept on your devices, so crew see their own, not yours: a sticker by the helm with the number is still worth having.\n\nIf anyone is in danger, it is not a tow: call the coastguard on VHF channel 16.",
+    "answer" : "If nobody is in danger — the engine has stopped, you're aground or out of fuel — tap the red lifebuoy, then Call for a Tow. It shows the towing services' 24-hour dispatch numbers, with your membership number beside each and a button to call. With no membership entered it shows both BoatUS and Sea Tow; either will tow a non-member, at a price. Typing tow in Find shows the same.\n\nPut the call on Speaker before you start talking: the call takes over the phone's screen, and on Speaker you can come back to Boat Manager and read out what dispatch asks for. They ask, in this order: how many are aboard and whether anyone is hurt, where you are, your membership number, the boat (name, make, length, colour, registration), what's wrong, and where you want to be towed. Find has each of those: type registration, length or color.\n\nEnter your memberships under Me › Memberships. They are yours, kept on your devices, so crew see their own, not yours: a sticker by the helm with the number is still worth having.\n\nIf anyone is in danger, it is not a tow: call the coastguard on VHF channel 16.\n\nKeep a Tow Card in Papers from the same page: one page with dispatch's numbers, the boat and lines to fill in, and a 4 × 2 in label for beside your membership sticker, for when there's no phone to hand.",
     "category" : "10. Safety",
     "imageName" : "lifepreserver",
     "isSysImg" : true,
@@ -1302,5 +1302,125 @@
     "isSysImg" : true,
     "order" : 22,
     "question" : "Can I see tomorrow's weather and tides on the Helm?"
+  },
+  {
+    "answer" : "Open Upkeep, then More (…) › Set Up Upkeep, and pick the equipment. It walks you through one piece at a time: which jobs it has, from the Starter Book, its manual's book or your own; each job's interval; when each was last done; and which go on the Upkeep Dashboard. Nothing changes until you Save, and Undo Set-Up puts it back.\n\nEach piece keeps its own jobs, intervals and history: the port engine's oil change is its own, not shared with the starboard's. On twin engines, Also Set Up On copies the jobs to the other one.",
+    "category" : "8. Maintenance",
+    "imageName" : "wand.and.stars",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "How do I set up maintenance for a piece of equipment?"
+  },
+  {
+    "answer" : "The Library keeps jobs in books. The Starter Book comes with the app, for any boat. A manual's book holds the jobs from one engine's or generator's manual, with page references. My Book holds the jobs you add yourself, with your own name, interval and icon.\n\nWhen you set up a piece of equipment you take its jobs from a book. Share as a File on a book's page sends it to another owner, who adds it with Import a File.",
+    "category" : "8. Maintenance",
+    "imageName" : "books.vertical",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "What is a book in the Library?"
+  },
+  {
+    "answer" : "Yes. Put the manual's PDF in Papers, then on the equipment page choose Add Jobs › Read My Manual. It finds the maintenance table, reads each job and its interval, and shows you a draft to check before anything is added; each job keeps the manual's page. It uses Apple Intelligence, so it needs a device that has it. Where it can't read the manual, you can type the table in instead.",
+    "category" : "8. Maintenance",
+    "imageName" : "doc.text.magnifyingglass",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "Can Boat Manager read my engine manual's maintenance schedule?"
+  },
+  {
+    "answer" : "Every interval of a piece of equipment's service, 50 hours, 250 hours, a year, as one list: all the jobs due at that interval. It's on the equipment's page and in Checklists, and shows on the Upkeep Dashboard as one line, counted from when it was last run. Run it and each job ticked is logged against that equipment. On twin engines it asks at the start which engine you're doing, or both.",
+    "category" : "8. Maintenance",
+    "imageName" : "checklist",
+    "isSysImg" : true,
+    "order" : 11,
+    "question" : "What is a Service Checklist?"
+  },
+  {
+    "answer" : "Yes, every task you logged is kept as it was. After you set up a piece of equipment's jobs, Match Past Work offers to tie your past tasks to the new jobs, so each job knows when it was last done. You approve each match, and it never changes the task you logged.\n\nBack up first (your profile › My Settings › Backup & Restore) before you set up or match a lot of equipment.",
+    "category" : "8. Maintenance",
+    "imageName" : "arrow.triangle.merge",
+    "isSysImg" : true,
+    "order" : 12,
+    "question" : "I upgraded from 2.0. Is my logged maintenance still there?"
+  },
+  {
+    "answer" : "On the equipment's page, More (…) › Send to a Technician, or from the Upkeep Dashboard's More. Say what's wrong, add photos or a video, how soon you need it done and where the boat is. Boat Manager makes one PDF with the equipment's report, its recent log entries, open to-dos and spares, and the boat's particulars, and sends it by Mail to the vendor you choose, or by Messages. You choose which parts of the report go.",
+    "category" : "8. Maintenance",
+    "imageName" : "paperplane",
+    "isSysImg" : true,
+    "order" : 13,
+    "question" : "How do I send a problem to a technician?"
+  },
+  {
+    "answer" : "Give a spare a minimum aboard on its page in Gear. The Upkeep Dashboard lists the spares below their minimum: tap one to open it, or the cart to put it on the shopping list. When you mark it Bought, it asks what it cost and adds it to the spare's count. To check what's really aboard, Count the Spares (the + on Gear's Spares) walks you through a stock-take by place or by type.",
+    "category" : "5.2 Gear & Spares",
+    "imageName" : "shippingbox",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "How do I keep track of spares I'm running low on?"
+  },
+  {
+    "answer" : "Set up your batteries in Gear with their amp-hours, then open Power. Add a reading (the volts, or the state of charge from a monitor) and Power shows where each bank stands and how long it has before it reaches its floor, from your loads and tomorrow's sun on the forecast. The Batteries tile on the Helm shows the same. A guided power budget works out what your loads use in a day.",
+    "category" : "5.2 Gear & Spares",
+    "imageName" : "minus.plus.batteryblock",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "How long will my batteries last?"
+  },
+  {
+    "answer" : "Tap Show on the bottom bar: Her Numbers lists the HIN, documentation and registration numbers, insurance and more, large enough to read out. Tap one to copy it. Add them on Specs if they're missing. The Marina and Insurance boat cards (Show › Who We Are) include the HIN too.",
+    "category" : "5. Boats",
+    "imageName" : "number",
+    "isSysImg" : true,
+    "order" : 12,
+    "question" : "Where's my boat's HIN for a marina's paperwork?"
+  },
+  {
+    "answer" : "Safety Checks › Hurricane Plan (add it from the starter lists if it isn't there). It takes you a step at a time: insurance, where she stays, when the plan starts, where she goes, how she's secured, who does it, and after the storm. Each step has room to write, with suggested wording where most boats say the same. Save it and the PDF in Papers is the plan, ready to send to your underwriter. Next season starts from this year's answers.",
+    "category" : "10. Safety",
+    "imageName" : "doc.text",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "How do I write a hurricane plan?"
+  },
+  {
+    "answer" : "A boat of 40 feet or more that goes to sea with a galley and berths needs a written waste management plan under MARPOL Annex V. Safety Checks › Waste Management Plan writes one with you, a step at a time: who is in charge, how garbage is kept and taken ashore, what may go over the side, oil, sewage, placards and crew. The PDF in Papers is the plan to keep aboard. Check the current rules for where you cruise.",
+    "category" : "10. Safety",
+    "imageName" : "trash",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "Does my boat need a waste management plan?"
+  },
+  {
+    "answer" : "Yes. More › This Boat › Your Fields. Add fields to equipment (all of it, or only some types), to the boat (they show on Specs) and to log entries: text, a number with a unit, a date, yes or no, or a choice from a list. They're set up for each boat, and Copy from Another Boat brings another boat's over. Find searches them, and an equipment's fields go in its report.",
+    "category" : "9. Settings",
+    "imageName" : "slider.horizontal.below.rectangle",
+    "isSysImg" : true,
+    "order" : 20,
+    "question" : "Can I add my own fields?"
+  },
+  {
+    "answer" : "Yes. On the Helm, Tile Choices… (below the tiles) sets what a tap on each tile opens, its own page or the screen it's about, and what some tiles lead with: Upkeep's overdue jobs or the next planned job, Fuel used or left, and which Days Since counts show. On the main screen, What Tiles Show… picks the lines under each tile: Expenses this month, this year or last paid, the Log's last entry, and more.",
+    "category" : "9. Settings",
+    "imageName" : "square.grid.2x2",
+    "isSysImg" : true,
+    "order" : 21,
+    "question" : "Can I change what the tiles show?"
+  },
+  {
+    "answer" : "Yes. More › Bottom Bar… sets the three buttons beside the +: Helm, Find, Show, or any screen such as the Log or Upkeep. Whatever comes off the bar moves into More. For shortcuts on the app icon's long press, go to your profile › My Settings › App Icon Shortcuts.",
+    "category" : "9. Settings",
+    "imageName" : "dock.rectangle",
+    "isSysImg" : true,
+    "order" : 22,
+    "question" : "Can I change the buttons on the bottom bar?"
+  },
+  {
+    "answer" : "Yes. Upkeep › More (…) › Due Soon… sets how many days ahead a job turns due soon, 30 to begin with, and for an hours job the fewest hours, 10 to begin with. A job never turns due soon earlier than a quarter of its interval, so a monthly check isn't always due.",
+    "category" : "9. Settings",
+    "imageName" : "clock.badge.exclamationmark",
+    "isSysImg" : true,
+    "order" : 23,
+    "question" : "Can I change how early a job shows as due soon?"
   }
 ]
