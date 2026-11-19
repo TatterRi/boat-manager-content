@@ -1,28 +1,29 @@
-Upkeep, piece by piece: each engine its own jobs, a library of books read from your manuals, Service Checklists, parts aboard, batteries, a tow, a technician, written plans, and your own fields.
-
 UPKEEP, PIECE BY PIECE
-Each piece of equipment keeps its own jobs, each with its own interval, icon and history: the port engine's oil change is its own, not shared with the starboard's. Set Up Upkeep walks you through one piece at a time, on a draft you save once or undo. Coming from 2.0? Match Past Work ties the jobs you've logged to the new ones, with your say on each, and never changes what you logged. Meters, warranties and twin engines set up together are part of it.
+Each piece of equipment keeps its own jobs, each with its own interval, icon and history: the port engine's oil change is its own, not shared with the starboard's. Set Up Upkeep walks you through one piece at a time, on a draft you save once or undo. Coming from 2.0? Match Past Work ties the jobs you've logged to the new ones, with your say on each, and never changes what you logged. A job by hours shows the hour meter: when it was last done, now, and when it falls due.
 
 A LIBRARY OF BOOKS
-Jobs come in books: the Starter Book, a book from your engine's manual, and your own. Read My Manual reads the maintenance table in a manual's PDF and makes its book, page references and all; a job can carry a picture cut from the manual. Share a book as a file with another owner, and add a job of your own with its own name, interval and icon.
+Jobs come in books: the Starter Book, a book from your engine's manual, and your own. Read My Manual reads the maintenance table in a manual's PDF and makes its book, page references and all; a job can carry a picture cut from the manual. Share a book with another owner, or add jobs of your own.
 
 SERVICE CHECKLISTS
-Every interval of an engine's service, 50 hours, 250 hours, a year, is one checklist on its page and one line on the Upkeep Dashboard, counted from the last run. Run it for one engine or both. A maker's daily checks can remind you on the days you go out, and pause while she's in port.
+Every interval of an engine's service, 50 hours, 250 hours, a year, is one checklist on its page and one line on the Upkeep Dashboard, led by the job inside it that comes due first. Run it for one engine or both, or record one already done from that day's log entry with Service Checklist Done. A maker's daily checks can remind you on the days you go out, and pause while she's in port.
+
+PINNED JOBS
+Pin up to four jobs, the oil change say, and they stay in sight at the top of the Upkeep Dashboard and in a Pinned tile on the Helm, each by its own hours or date, whatever checklist they're on. The same job on both engines shows as one. Pin from a job's page, Set Up Upkeep or a swipe on the dashboard, and your pins follow you to your other devices.
 
 PARTS AND THE SHOPPING LIST
-A job knows its parts and whether they're aboard. Spares have a minimum, and the dashboard says what's short; tap one to put it on the shopping list. Mark an item Bought and it asks what it cost and becomes the spare. Count the Spares walks a stock-take by place or by type.
+A job knows its parts and whether they're aboard. Spares have a minimum, and the dashboard says what's short; tap one to put it on the shopping list. Mark an item Bought and it asks what it cost and becomes the spare. When a part is superseded, Replaced By links the old spare to the new one: its jobs and the shopping list follow, and old stock still aboard counts. Count the Spares walks a stock-take by place or by type.
 
 BATTERIES AND POWER
 Power shows where each bank stands and how long it has, from your readings, your loads and tomorrow's sun. A guided power budget, a schematic drawn from your set-up, and a Batteries tile on the Helm.
 
 CALL FOR A TOW
-The lifebuoy's Call for a Tow puts the answers dispatch asks for in their order, reminds you to put the call on Speaker, and logs the tow after. Your towing membership lives on the boat, so crew have it too. Keep a Tow Card in Papers, or print it and a label for beside the helm.
+The lifebuoy's Call for a Tow puts the answers dispatch asks for in their order, reminds you to put the call on Speaker, and logs the tow after. Your towing membership lives on the boat, so crew have it too. Keep a Tow Card in Papers, or print one.
 
 SEND TO A TECHNICIAN
 From an equipment page or the Upkeep Dashboard: say what's wrong, add photos, how soon and where the boat is, and send the technician one PDF with the equipment's report, recent log entries, open to-dos and spares. Choose which parts of the report go.
 
 WRITTEN PLANS
-The Hurricane Plan and the Waste Management Plan are written a step at a time, with suggested wording where most boats say the same. The PDF in Papers is the plan itself, ready for the underwriter or to keep by the helm, and next year starts from this year's.
+The Hurricane Plan and the Waste Management Plan are written a step at a time, with suggested wording where most boats say the same. The PDF in Papers is the plan itself, ready for the underwriter or to keep by the helm.
 
 MAKE IT YOURS
 Choose what each Helm tile opens and leads with, what each main-screen tile says, and the buttons on the bottom bar. Add your own fields to equipment, the boat and the log: a filter part number, a mooring ball number, bilge pump cycles. Set how early jobs turn due soon, the usual alert for a reminder, and shortcuts on the app icon (Profile › My Settings).
@@ -31,4 +32,4 @@ FUEL
 A chart of burn against speed, Filled to the Top when you fill up, and a heater can burn from the tank: give it hours a night on its page in Gear.
 
 AND MORE
-Show has Her Numbers, the HIN and the rest, for a marina office's paperwork. Find searches serial numbers. Search for a place, or pick one on the map, on Waypoints and a voyage's New Stop. Edit sits at the top right of every page. On the Mac, a Boat menu with Cmd-F for Find and Cmd-1 to Cmd-8 for the main screens.
+Show has Her Numbers, the HIN and the rest, for a marina office's paperwork. Find matches your words in any order, finds each piece of equipment's jobs, and its serial number by the equipment's name. The Tides tile draws the tide's curve. Search for a place, or pick one on the map, on Waypoints and a voyage's New Stop. On the Mac, a Boat menu with Cmd-F for Find and Cmd-1 to Cmd-8 for the main screens.
