@@ -1,11 +1,11 @@
 UPKEEP, PIECE BY PIECE
-Each piece of equipment keeps its own jobs, each with its own interval, icon and history: the port engine's oil change is its own, not shared with the starboard's. Set Up Upkeep walks you through one piece at a time, on a draft you save once or undo. Coming from 2.0? Match Past Work ties the jobs you've logged to the new ones, with your say on each, and never changes what you logged. A job by hours shows the hour meter: when it was last done, now, and when it falls due.
+Each piece of equipment keeps its own jobs, each with its own interval, icon and history: the port engine's oil change is its own, not shared with the starboard's. Set Up Upkeep walks you through one piece at a time, on a draft you save once or undo. Coming from 2.0? Match Past Work ties the jobs you've logged to the new ones, with your say on each, and never changes what you logged. A job by hours shows the hour meter: when it was last done, now, and when it falls due. Not doing one this time? Skip it: its interval starts again, shown as skipped, never as done.
 
 A LIBRARY OF BOOKS
 Jobs come in books: the Starter Book, a book from your engine's manual, and your own. Read My Manual reads the maintenance table in a manual's PDF and makes its book, page references and all; a job can carry a picture cut from the manual. Share a book with another owner, or add jobs of your own.
 
 SERVICE CHECKLISTS
-Every interval of an engine's service, 50 hours, 250 hours, a year, is one checklist on its page and one line on the Upkeep Dashboard, led by the job inside it that comes due first. Run it for one engine or both, or record one already done from that day's log entry with Service Checklist Done. A maker's daily checks can remind you on the days you go out, and pause while she's in port.
+Every interval of an engine's service, 50 hours, 250 hours, a year, is one checklist on its page and one line on the Upkeep Dashboard, led by the job inside it that comes due first. Run it for one engine or both, or record one already done from that day's log entry with Service Checklist Done.
 
 PINNED JOBS
 Pin up to four jobs, the oil change say, and they stay in sight at the top of the Upkeep Dashboard and in a Pinned tile on the Helm, each by its own hours or date, whatever checklist they're on. The same job on both engines shows as one. Pin from a job's page, Set Up Upkeep or a swipe on the dashboard, and your pins follow you to your other devices.
@@ -26,7 +26,7 @@ WRITTEN PLANS
 The Hurricane Plan and the Waste Management Plan are written a step at a time, with suggested wording where most boats say the same. The PDF in Papers is the plan itself, ready for the underwriter or to keep by the helm.
 
 MAKE IT YOURS
-Choose what each Helm tile opens and leads with, what each main-screen tile says, and the buttons on the bottom bar. Add your own fields to equipment, the boat and the log: a filter part number, a mooring ball number, bilge pump cycles. Set how early jobs turn due soon, the usual alert for a reminder, and shortcuts on the app icon (Profile › My Settings).
+Choose what each Helm tile opens and leads with, what each main-screen tile says, and the buttons on the bottom bar. Add your own fields to equipment, the boat and the log: a filter part number, a mooring ball number, bilge pump cycles. Set how early jobs turn due soon, and shortcuts on the app icon.
 
 FUEL
 A chart of burn against speed, Filled to the Top when you fill up, and a heater can burn from the tank: give it hours a night on its page in Gear.
