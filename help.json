@@ -1192,7 +1192,7 @@
     "question" : "Can I arrange the screens?"
   },
   {
-    "answer" : "Find, in the bar, searches the whole boat at once: the log, gear, spares, papers, jobs, people and places. Narrow it with the choices at the top, and tap a result to open it.\n\nThe Boat group finds the boat's own numbers and particulars by the words you'd use for them, such as coast guard number, documentation, MMSI or bridge clearance. Tap one to copy it.\n\nIt also answers what you're asked on the radio or the phone:\n• tow, BoatUS or Sea Tow: the towing dispatch numbers, with your membership number and a button to call.\n• EPIRB, PLB or beacon: the beacon IDs recorded for float plans, yours and the boat's.\n• engine, hours or generator: what the engines are and their hours.\n• cruising, speed or burn: the cruising speed, rpm and fuel burn from Specs.\n• membership, Safe Harbor or Great Loop: your memberships from Me › Memberships.\n• emergency: your emergency contact.\n\nCancel, beside the field while you type, clears the words and puts the keyboard away.",
+    "answer" : "Find, in the bar, searches the whole boat at once: the log, gear, spares, papers, jobs, people and places. Your words can come in any order: oil change finds Change Engine Oil. Jobs include each piece of equipment's own, which open on their page. Narrow it with the choices at the top, and tap a result to open it.\n\nThe Boat group finds the boat's own numbers and particulars by the words you'd use for them, such as coast guard number, documentation, MMSI or bridge clearance. Tap one to copy it.\n\nIt also answers what you're asked on the radio or the phone:\n• tow, BoatUS or Sea Tow: the towing dispatch numbers, with your membership number and a button to call.\n• EPIRB, PLB or beacon: the beacon IDs recorded for float plans, yours and the boat's.\n• engine, hours or generator: what the engines are and their hours.\n• serial, with the equipment's name (port engine serial): its serial number. A tap copies it.\n• cruising, speed or burn: the cruising speed, rpm and fuel burn from Specs.\n• membership, Safe Harbor or Great Loop: your memberships from Me › Memberships.\n• emergency: your emergency contact.\n\nCancel, beside the field while you type, clears the words and puts the keyboard away.",
     "category" : "3. Navigation",
     "imageName" : "magnifyingglass",
     "isSysImg" : true,
@@ -1424,11 +1424,59 @@
     "question" : "Can I change how early a job shows as due soon?"
   },
   {
-    "answer" : "Open the job's page and tap the pin at the top, or swipe right on a job on the Upkeep Dashboard and tap Pin. Pinned jobs sit at the top of the Upkeep Dashboard and on the Helm, each by its own hours or date, whichever checklist it's on: an oil change that comes due on hours inside a yearly service stays in sight. Up to four can be pinned. Pins are kept on each device, like your other layout choices. Swipe a pinned job, or tap the pin on its page again, to unpin it.",
+    "answer" : "Open the job's page and tap the pin at the top, or swipe right on a job on the Upkeep Dashboard and tap Pin; Set Up Upkeep's Dashboard step has a pin beside each job too. Pinned jobs sit at the top of the Upkeep Dashboard and in a Pinned tile on the Helm, which you can move or switch off in Arrange like the other tiles. Each shows by its own hours or date, whichever checklist it's on: an oil change that comes due on hours inside a yearly service stays in sight. The same job pinned on both engines shows as one line, led by the one due first; tap it for each engine's. Up to four can be pinned. With Same Layout on All My Devices on, your pins follow you to your other devices. Swipe a pinned job, or tap the pin on its page again, to unpin it.",
     "category" : "8. Maintenance",
     "imageName" : "pin",
     "isSysImg" : true,
     "order" : 14,
     "question" : "How do I pin a job so it stays in sight?"
+  },
+  {
+    "answer" : "Both are on a job's page.\n\n• Skip This Time: you're not doing it this time. Its interval starts again from today (by hours, from today's reading) with nothing logged, and it shows as Skipped with the date, never as done. Logging it later counts as usual. Undo Skip puts it back to the last time it was really done.\n• Set Aside Until Next Logged: you know it's due and don't want to be told. It leaves the dashboard's counts and the season plan, but its clock keeps running from the last time it was done. Logging it brings it back; so does Bring Back on its page.",
+    "category" : "8. Maintenance",
+    "imageName" : "forward.end",
+    "isSysImg" : true,
+    "order" : 15,
+    "question" : "What's the difference between Skip This Time and Set Aside?"
+  },
+  {
+    "answer" : "Open the old spare, tap ••• and Replaced By…, then pick the spare that replaced it, or New Spare from its Equivalents to make one with that number.\n\nThe old spare is set aside and says what replaced it, and the new one lists what it replaces. Jobs that needed the old part, and its open shopping lines, move to the new one, which goes on the same equipment. Any of the old still aboard count toward the new one's need and minimum until they're used. A book that names the old part number finds the new spare.\n\nPicked the wrong one? Not Replaced, in the old spare's •••, brings it back.",
+    "category" : "5.2 Gear & Spares",
+    "imageName" : "arrow.triangle.2.circlepath",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "A spare was superseded by another part. How do I link them?"
+  },
+  {
+    "answer" : "Other part numbers for the same part, such as other makers' cross-references. Type them in, separated by commas, or, in Edit, tap Choose from Spares and tick spares you already have: each adds its maker and part number.\n\nThey're used when a book's jobs are set up (a manual's part number found among a spare's equivalents counts as that spare, so no second one is made), by Find, on a job's Parts list, and by Replaced By's New Spare.\n\nSetting up jobs from a manual makes a spare, with none aboard, for each part it can't match. If that's one you already carry under another number, open it, Choose from Spares to add your number, then ••• › Replaced By… your spare.",
+    "category" : "5.2 Gear & Spares",
+    "imageName" : "equal.circle",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "What are a spare's Equivalents?"
+  },
+  {
+    "answer" : "Open that day's log entry and tap Service Checklist Done… under Log Maintenance. Find the checklist by its equipment or name, tick what was done, and its jobs are logged on that entry's day, each on its own equipment. You can also run it from the equipment's page or its line on the Upkeep Dashboard.",
+    "category" : "5.3 Logs",
+    "imageName" : "checklist.checked",
+    "isSysImg" : true,
+    "order" : 106,
+    "question" : "How do I record that I did a whole service checklist?"
+  },
+  {
+    "answer" : "A job by hours shows the hour meter on its page: the reading when it was last done, the reading now with the meter's name, and the reading it falls due at. A task's page shows each piece of equipment's reading on that day.\n\nWhere a day's log has no reading for a meter, the generator not run say, the last reading before it is used, since the meter didn't move. A job whose reading still can't be found says Hours not known: log a reading on or before the day it was done.",
+    "category" : "8. Maintenance",
+    "imageName" : "gauge.with.dots.needle.33percent",
+    "isSysImg" : true,
+    "order" : 16,
+    "question" : "How do I check a job's hours?"
+  },
+  {
+    "answer" : "+ › Guided Reminder starts with a date on something: an expiry date on a paper, equipment, a spare or a tool (a registration, a battery's replace-by, a flare's use-by), or a job planned for a day. These go on the thing itself and come round in Reminders, where Renewed… rolls the date on.\n\nOr type what to be reminded of, for a to-do with an alert: once or repeating, and Linked To a piece of equipment or a spare so it shows on that page too.",
+    "category" : "8. Maintenance",
+    "imageName" : "bell.badge",
+    "isSysImg" : true,
+    "order" : 17,
+    "question" : "What can Guided Reminder set?"
   }
 ]
