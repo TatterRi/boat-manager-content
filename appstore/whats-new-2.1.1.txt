@@ -1,0 +1,3 @@
+Sharing a boat no longer stops iCloud.
+
+After a boat was shared, a new log entry, expense or piece of equipment could stop every upload to iCloud when it was linked to something of yours kept outside the boat: someone aboard, a place, a library job, a paper or a category. Boat Manager now keeps those links within the boat's share. The first time it opens, it puts right any that had already stopped uploads, so everything that was waiting goes up. If iCloud Sync still shows Stopped Uploads, it now names the record and the link.
