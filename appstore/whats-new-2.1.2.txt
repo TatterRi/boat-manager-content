@@ -4,7 +4,10 @@ SHARING A BOAT, EVERY WAY
 2.1.1 stopped a shared boat's records from halting iCloud uploads. 2.1.2 covers every other way we found: a to-do tagged with a shared boat, a float plan filed for one, a to-do put in one of your sections, a place given its body of water, a paper added as you save, and an expense category used on both a shared boat and one of your own. None of them can stop an upload now, and the first time Boat Manager opens it sends anything that was waiting.
 
 FORECASTS FROM APPLE WEATHER AND NOAA
-A voyage's forecast now comes from Apple Weather, 10 days ahead. Wave heights come from NOAA: the National Weather Service forecast in US coastal waters and the Great Lakes, and NOAA's WaveWatch III wave model further offshore. Where there's no wave forecast, ashore or in a sheltered spot, no wave height shows rather than a 0.
+A voyage's forecast now comes from Apple Weather, 10 days ahead. Wave heights come from NOAA: the National Weather Service forecast in US coastal waters and the Great Lakes, and NOAA's WaveWatch III wave model further offshore. In a marina or harbour, the waves shown are the ones waiting outside. Inland, with no open water near, none show rather than a 0.
+
+WHERE WE ARE
+Show has a new Where We Are section: your latitude and longitude, together and in decimal, each a tap to copy.
 
 ONE OF EACH, EVERYWHERE
 Your categories, to-do sections and bodies of water show once wherever you use them, on your own boats and a shared one alike, and renaming one changes it everywhere. A library job you edit changes on the shared boat too. A float plan keeps its skipper's details, so its PDF is complete whoever has the boat. And a rare crash at launch is fixed.
