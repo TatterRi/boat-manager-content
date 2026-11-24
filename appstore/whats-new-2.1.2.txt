@@ -1,10 +1,16 @@
-Sharing a boat, every way, and forecasts from Apple Weather and NOAA.
+Log a note with Siri, Canadian tides, sharing a boat every way, and forecasts from Apple Weather and NOAA.
 
 SHARING A BOAT, EVERY WAY
 2.1.1 stopped a shared boat's records from halting iCloud uploads. 2.1.2 covers every other way we found: a to-do tagged with a shared boat, a float plan filed for one, a to-do put in one of your sections, a place given its body of water, a paper added as you save, and an expense category used on both a shared boat and one of your own. None of them can stop an upload now, and the first time Boat Manager opens it sends anything that was waiting.
 
 FORECASTS FROM APPLE WEATHER AND NOAA
 A voyage's forecast now comes from Apple Weather, 10 days ahead. Wave heights come from NOAA: the National Weather Service forecast in US coastal waters and the Great Lakes, and NOAA's WaveWatch III wave model further offshore. In a marina or harbour, the waves shown are the ones waiting outside. Inland, with no open water near, none show rather than a 0.
+
+LOG A NOTE WITH SIRI
+Say “Log a note in Boat Manager” and what you say goes on today's log with the time and, when there is one, the position, without opening the app. It's in Shortcuts and on the Action button too. For the new screens.
+
+CANADA, AND OUTSIDE THE US
+Canadian tides, as a guide: 157 places worked out on your device, so they need no signal. They aren't the official tables and aren't for navigation. Set to Canada, weather and tide links open Environment Canada and tides.gc.ca, a float plan's PDF has the Canadian Coast Guard's rescue lines, and forms say Province and Postal Code. Outside the US, a new install starts in metric, the log's weather is in your own °C or °F, and US towing numbers aren't offered away from US waters unless you're a member.
 
 WHERE WE ARE
 Show has a new Where We Are section: your latitude and longitude, together and in decimal, each a tap to copy.
