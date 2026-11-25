@@ -1,7 +1,7 @@
 Log a note with Siri, Canadian tides, sharing a boat every way, and forecasts from Apple Weather and NOAA.
 
 SHARING A BOAT, EVERY WAY
-2.1.1 stopped a shared boat's records from halting iCloud uploads. 2.1.2 covers every other way we found: a to-do tagged with a shared boat, a float plan filed for one, a to-do put in one of your sections, a place given its body of water, a paper added as you save, and an expense category used on both a shared boat and one of your own. None of them can stop an upload now, and the first time Boat Manager opens it sends anything that was waiting.
+2.1.1 stopped a shared boat's records from halting iCloud uploads. 2.1.2 checks every link each time something is saved, whatever it joins: a paper for a crew member, a job done by one of your own vendors, a to-do logged as a job, a float plan, a category, or anything used on both a shared boat and one that isn't. None of them can stop an upload now, and the first time Boat Manager opens it sends anything that was waiting. iCloud Sync also tells offline from stopped, and says when iCloud's storage is full.
 
 FORECASTS FROM APPLE WEATHER AND NOAA
 A voyage's forecast now comes from Apple Weather, 10 days ahead. Wave heights come from NOAA: the National Weather Service forecast in US coastal waters and the Great Lakes, and NOAA's WaveWatch III wave model further offshore. In a marina or harbour, the waves shown are the ones waiting outside. Inland, with no open water near, none show rather than a 0.
