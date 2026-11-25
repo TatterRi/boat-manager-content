@@ -1478,5 +1478,37 @@
     "isSysImg" : true,
     "order" : 17,
     "question" : "What can Guided Reminder set?"
+  },
+  {
+    "answer" : "Yes, on the new screens. Say “Log a note in Boat Manager” and say the note. It goes on today's log with the time, and the position when there is one, without opening the app.\n\nIt's in the Shortcuts app and can go on the Action button. A log for today is made when there isn't one. On a boat shared with you, you need to write its log.",
+    "category" : "5.3 Logs",
+    "imageName" : "mic",
+    "isSysImg" : "True",
+    "order" : "107",
+    "question" : "Can I log a note with Siri?"
+  },
+  {
+    "answer" : "Open a crew member's card and tap Credentials. Each license or certificate has its number, dates, endorsements and notes, a photo or scan, and an expiry that shows in reminders.\n\nThe owner sees everyone's. Crew see their own. A paper in Papers can be put on a card with From Papers. Everyone needs this version of Boat Manager or later to see credentials this way.",
+    "category" : "6. Crew",
+    "imageName" : "person.text.rectangle",
+    "isSysImg" : "True",
+    "order" : "90",
+    "question" : "Where do I keep crew licenses and certificates?"
+  },
+  {
+    "answer" : "When a lot is going up or coming down, iCloud Sync shows how much is done and about how long is left. After an update that adds new fields, everything comes down again once: leave Boat Manager open and plugged in, and it carries on from where it stopped if you close it.\n\nOffline isn't a fault: it says it's waiting for iCloud, and starts again by itself. If it says iCloud refused your changes, its storage is usually full; on a boat shared with you, the owner's.",
+    "category" : "9. Settings",
+    "imageName" : "arrow.triangle.2.circlepath.icloud",
+    "isSysImg" : "True",
+    "order" : "120",
+    "question" : "How long will iCloud take?"
+  },
+  {
+    "answer" : "Yes. Canadian tides are a guide: 157 places worked out on your device, so they need no signal. They aren't the official tables and aren't for navigation; tides.gc.ca and Environment Canada are linked.\n\nSet to Canada, a float plan's PDF has the Canadian Coast Guard's rescue lines, and forms say Province and Postal Code. Outside the US, US towing numbers aren't offered unless you're a member.",
+    "category" : "7. Waypoints",
+    "imageName" : "globe.americas.fill",
+    "isSysImg" : "True",
+    "order" : "95",
+    "question" : "Are there tides and weather in Canada?"
   }
 ]
