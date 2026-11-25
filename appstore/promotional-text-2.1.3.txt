@@ -1,1 +1,1 @@
-New in 2.1: maintenance set up piece by piece from your own manuals, Service Checklists, batteries, a tow and a technician a tap away, and your own fields.
+New: Fishing, in the same log as your boat's engines, fuel and crew. And crew on a shared boat can save what they add, with the role you give them.
