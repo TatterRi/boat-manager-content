@@ -15,5 +15,14 @@ Canadian tides, as a guide: 157 places worked out on your device, so they need n
 WHERE WE ARE
 Show has a new Where We Are section: your latitude and longitude, together and in decimal, each a tap to copy.
 
+LICENSES AND CERTIFICATES
+Credentials keep licenses and certificates on each crew card, with expiry reminders. The owner sees everyone's; crew see their own. Your crew need this version too.
+
+SATELLITE MAPS
+A button on the new screens' maps switches all of them between standard and satellite.
+
+LONG ICLOUD SYNCS SAY HOW FAR ALONG THEY ARE
+When a lot is going up or coming down, iCloud Sync shows how much is done and about how long is left.
+
 ONE OF EACH, EVERYWHERE
 Your categories, to-do sections and bodies of water show once wherever you use them, on your own boats and a shared one alike, and renaming one changes it everywhere. A library job you edit changes on the shared boat too. A float plan keeps its skipper's details, so its PDF is complete whoever has the boat. And a rare crash at launch is fixed.
