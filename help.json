@@ -1128,7 +1128,7 @@
     "question" : "Can I share a voyage?"
   },
   {
-    "answer" : "Open the person's Crew record and tap Edit. Under Crew Sharing, tap Invite to Boat Manager…, choose the boat, their role and the email address or phone number they use for iCloud, then tap Invite. Send them the link it gives you.\n\nWhen they open it on their iPhone, iPad or Mac, the boat comes aboard their Boat Manager and stays in step with yours through iCloud. Their Crew record shows when they've joined.\n\nYou can also tap Share with Crew on the boat's Crew page and send the invitation from there. Link the person to their Crew record afterwards with Already Joined?.",
+    "answer" : "Open the person's Crew record and tap Edit. Under Crew Sharing, tap Invite to Boat Manager…, choose the boat, their role and the email address or phone number they use for iCloud, then tap Invite. Send them the link it gives you.\n\nWhen they open it on their iPhone, iPad or Mac, the boat comes aboard their Boat Manager and stays in step with yours through iCloud. Their Crew record shows when they've joined.\n\nYou can also tap Share with Crew on the boat's Crew page and send the invitation from there. Link the person to their Crew record afterwards with Already Joined?.\n\nThe first time you share a boat, Boat Manager waits for iCloud to finish downloading. If it says it hasn't finished, keep it open and online and try again in a few minutes.",
     "category" : "6. Crew",
     "imageName" : "person.crop.circle.badge.plus",
     "isSysImg" : true,
@@ -1136,7 +1136,7 @@
     "question" : "How do I share a boat with my crew?"
   },
   {
-    "answer" : "• Owner: the boat is yours. You hold the subscription, set the boat up, share it and can delete it.\n• Writes the Log: adds to the log and the boat's records.\n• Crew: adds to the boat's records and reads the log.\n• View Only: sees the boat's records and changes nothing.\n\nChange someone's role with Role under Crew Sharing on their Crew record. Each log entry, to-do and expense shows who wrote it.",
+    "answer" : "• Owner: the boat is yours. You hold the subscription, set the boat up, share it and can delete it.\n• Writes the Log: adds to the log and the boat's records.\n• Crew: adds to the boat's records and reads the log.\n• View Only: sees the boat's records and changes nothing.\n\nChange someone's role with Role under Crew Sharing on their Crew record. Their device has it once both have synced. Each log entry, to-do and expense shows who wrote it.\n\nWhat crew add goes under the boat's own categories and library jobs. They can own boats too: each boat keeps to its own people, places and library.",
     "category" : "6. Crew",
     "imageName" : "person.badge.shield.checkmark",
     "isSysImg" : true,
@@ -1168,7 +1168,7 @@
     "question" : "What is the Boat Card?"
   },
   {
-    "answer" : "Me › My Time Aboard lists the days you were aboard and your own Ships Log.\n\nTurn on Track USCG Days in Me › My Settings to count sea service for a licence, on the CG-719S form. Captain or crew can turn it on; when anyone aboard tracks USCG days, the log asks for the body of water.\n\nDays Aboard in Calendar, in the same settings, puts each day you were aboard in a calendar for each boat.",
+    "answer" : "Me › My Time Aboard lists the days you were aboard and your own Ships Log: every day a log names you, as captain, crew or guest.\n\nTurn on Track USCG Days in Me › My Settings to count sea service for a licence, on the CG-719S form. Captain or crew can turn it on; when anyone aboard tracks USCG days, the log asks for the body of water.\n\nDays Aboard in Calendar, in the same settings, puts each day you were aboard in a calendar for each boat.",
     "category" : "6. Crew",
     "imageName" : "calendar.badge.clock",
     "isSysImg" : true,
@@ -1464,7 +1464,7 @@
     "question" : "How do I record that I did a whole service checklist?"
   },
   {
-    "answer" : "A job by hours shows the hour meter on its page: the reading when it was last done, the reading now with the meter's name, and the reading it falls due at. A task's page shows each piece of equipment's reading on that day.\n\nWhere a day's log has no reading for a meter, the generator not run say, the last reading before it is used, since the meter didn't move. A job whose reading still can't be found says Hours not known: log a reading on or before the day it was done.",
+    "answer" : "A job by hours shows the hour meter on its page: the reading when it was last done, the reading now with the meter's name, and the reading it falls due at. A task's page shows each piece of equipment's reading on that day. Logging a job on anything that counts engine or generator hours shows the reading to record: change it if it's wrong, and that day's log takes it.\n\nWhere a day's log has no reading for a meter, the generator not run say, the last reading before it is used, since the meter didn't move. A job whose reading still can't be found says Hours not known: log a reading on or before the day it was done.",
     "category" : "8. Maintenance",
     "imageName" : "gauge.with.dots.needle.33percent",
     "isSysImg" : true,

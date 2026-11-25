@@ -1,0 +1,19 @@
+Crew can save what they add to a boat shared with them, and get the role you give them; every day aboard counts; and hours on every maintenance job.
+
+CREW CAN SAVE WHAT THEY ADD
+On a boat shared with you, an expense, a fuel cost or a job from the library could fail to save, because it was filed under your own copy of a category or job and not the boat's. It now goes under the boat's. A place or job the boat doesn't have keeps its name there, and your own lists stay as they were.
+
+CREW GET THE ROLE YOU GIVE THEM
+Someone you invited who hadn't yet been aboard a logged day could miss the role, boats and papers you gave them. Their device now gets them when you invite them. For anyone already invited, Boat Manager puts it right the next time you open it, and theirs the next time it syncs.
+
+EVERY DAY ABOARD COUNTS
+Time Aboard, sea time and days aboard could miss days on a shared boat. They now count everyone a log names, so those days are back, and renaming someone on their card renames them in the log too.
+
+OWN ONE BOAT, CREW ON ANOTHER
+Each boat keeps to its own people, places, library and categories: the skipper a float plan starts with, the Boat Card, who did a job and the place a log is at.
+
+SHARING WAITS FOR ICLOUD
+Sharing a boat for the first time while iCloud was still downloading could leave a second copy of it on that device. Boat Manager now waits for the download, or says to try again shortly. If you have a second copy, Download Again in iCloud Sync clears it.
+
+HOURS ON EVERY JOB
+Logging maintenance on anything that counts engine or generator hours shows the reading and records it. Only an oil change did before.
