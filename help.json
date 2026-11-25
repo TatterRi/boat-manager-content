@@ -1483,32 +1483,112 @@
     "answer" : "Yes, on the new screens. Say “Log a note in Boat Manager” and say the note. It goes on today's log with the time, and the position when there is one, without opening the app.\n\nIt's in the Shortcuts app and can go on the Action button. A log for today is made when there isn't one. On a boat shared with you, you need to write its log.",
     "category" : "5.3 Logs",
     "imageName" : "mic",
-    "isSysImg" : "True",
-    "order" : "107",
+    "isSysImg" : true,
+    "order" : 107,
     "question" : "Can I log a note with Siri?"
   },
   {
     "answer" : "Open a crew member's card and tap Credentials. Each license or certificate has its number, dates, endorsements and notes, a photo or scan, and an expiry that shows in reminders.\n\nThe owner sees everyone's. Crew see their own. A paper in Papers can be put on a card with From Papers. Everyone needs this version of Boat Manager or later to see credentials this way.",
     "category" : "6. Crew",
     "imageName" : "person.text.rectangle",
-    "isSysImg" : "True",
-    "order" : "90",
+    "isSysImg" : true,
+    "order" : 90,
     "question" : "Where do I keep crew licenses and certificates?"
   },
   {
     "answer" : "When a lot is going up or coming down, iCloud Sync shows how much is done and about how long is left. After an update that adds new fields, everything comes down again once: leave Boat Manager open and plugged in, and it carries on from where it stopped if you close it.\n\nOffline isn't a fault: it says it's waiting for iCloud, and starts again by itself. If it says iCloud refused your changes, its storage is usually full; on a boat shared with you, the owner's.",
     "category" : "9. Settings",
     "imageName" : "arrow.triangle.2.circlepath.icloud",
-    "isSysImg" : "True",
-    "order" : "120",
+    "isSysImg" : true,
+    "order" : 120,
     "question" : "How long will iCloud take?"
   },
   {
     "answer" : "Yes. Canadian tides are a guide: 157 places worked out on your device, so they need no signal. They aren't the official tables and aren't for navigation; tides.gc.ca and Environment Canada are linked.\n\nSet to Canada, a float plan's PDF has the Canadian Coast Guard's rescue lines, and forms say Province and Postal Code. Outside the US, US towing numbers aren't offered unless you're a member.",
     "category" : "7. Waypoints",
     "imageName" : "globe.americas.fill",
-    "isSysImg" : "True",
-    "order" : "95",
+    "isSysImg" : true,
+    "order" : 95,
     "question" : "Are there tides and weather in Canada?"
+  },
+  {
+    "answer" : "On the new screens, a boat's trips and catches go in the same log as its engines, fuel, costs and crew. It's off until you want it: turn on Fishing in This Boat, and the boat gets a Fishing tile.\n\nFishing has three parts:\n• Trips: Start Fishing and Stop Fishing, or Past Trip for one you didn't log at the time. A trip with no fish is kept too, so your averages stay honest.\n• Catches: every catch, grouped by species, date, angler or bait.\n• Map: where you caught them, for your eyes only.\n\nBelow the trips are Tackle, the Fish Guide, Fishing Licenses and Export…. This Boat or All Boats chooses whether you see one boat's fishing or all of it.",
+    "category" : "5.5 Fishing",
+    "imageName" : "fish",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "What is Fishing?"
+  },
+  {
+    "answer" : "Tap Log a Catch: on Fishing, on a log entry's Fishing section, or on the boat's +. Choose the species and save; that's all a catch needs.\n\nWhen there's time, add whether it was kept, released, lost or tagged, how many, the length and weight, the depth, the bait or lure, who caught it, a photo and notes. The bait list comes from the boat's Tackle. Units follow your own settings.\n\nA catch goes on the trip that's running. With none running, it goes on a trip on that day, or starts one. Logging a catch on an older day's log entry puts it on that day.",
+    "category" : "5.5 Fishing",
+    "imageName" : "plus.circle",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "How do I log a catch?"
+  },
+  {
+    "answer" : "Only you. A catch's spot is kept in your own iCloud, apart from the boat, so it isn't shared with your crew and isn't sent to us. On a crew member's device your catch reads \"Spot not shared\".\n\nA photo added to a catch is redrawn without the place it was taken. A CSV export has positions only when you turn on Include My Spots, each time.\n\nThe boat's track and a log entry's position still show where the boat went that day, as they always have.",
+    "category" : "5.5 Fishing",
+    "imageName" : "lock",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "Who can see where I caught a fish?"
+  },
+  {
+    "answer" : "Fishing › Fish Guide helps you name a fish by what you see. Pick the marks you see, such as stripes, spots, the shape of the tail or the colour, and the guide lists the fish that have them, with what each looks like and what it's taken for. Pictures are an optional download.\n\nYour photo at the top opens Look Up the Photo, which sends the photo, without its place, to an app such as Google for a second opinion.\n\nThe guide is a help to name a fish, not proof of it. Check your local rules before you keep one.",
+    "category" : "5.5 Fishing",
+    "imageName" : "magnifyingglass",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "What is the Fish Guide?"
+  },
+  {
+    "answer" : "Yes. Tap Add a Fish… to add one the guide doesn't have, with its names, what it looks like, what it's taken for, its marks, a photo and notes. On a catch of a species the guide doesn't know, Add … to the Fish Guide starts one from the catch's name and photo.\n\nAny fish can be improved, the guide's own too: open it and tap Improve This Fish…. Only what you change is kept. Put Back the Guide's Words undoes it.\n\nA fish you add or improve is kept on the boat, so everyone aboard sees it, and you see it on all your boats. Each says who added or improved it. Crew who can't write the boat's fishing keep theirs to themselves.",
+    "category" : "5.5 Fishing",
+    "imageName" : "square.and.pencil",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "Can I add or improve fish in the Fish Guide?"
+  },
+  {
+    "answer" : "A log entry on a day you fished has a Fishing section, with each trip and its catches and Log a Catch. The log's Fishing filter lists the days you fished.\n\nA trip's page and a catch's page each have The Day's Log, which opens that day's log entry or offers to start one.",
+    "category" : "5.5 Fishing",
+    "imageName" : "book",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "How do Fishing and the log fit together?"
+  },
+  {
+    "answer" : "A trip's row and page show the time of day it began, the moon and, from that day's log entry, the weather, wind and seas and the Tide at the start. Nothing extra is kept: it's read from the log, so put it in the log and the trip has it.\n\nOn a day with no log entry, a trip shows the time of day and the moon only.",
+    "category" : "5.5 Fishing",
+    "imageName" : "cloud.sun",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "What do a trip's weather, tide and moon show?"
+  },
+  {
+    "answer" : "Fishing › Tackle opens the boat's tackle, kept in Gear. Give an item a Minimum aboard, and it's marked when you have fewer than that. The Below minimum filter lists them all, and Add to Shopping List puts one on the boat's shopping list.\n\nA catch's bait can be one of the boat's tackle items; that item's Caught on It lists what it caught. Gear's reports include a Tackle List PDF.",
+    "category" : "5.5 Fishing",
+    "imageName" : "list.bullet.rectangle",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "How do I keep track of tackle?"
+  },
+  {
+    "answer" : "Yes. Fishing › Export… writes Catches.csv and FishingTrips.csv for what's shown, ready for a spreadsheet: one row per catch, with its trip's details beside it, and one row per trip, including trips with no fish. Positions are left out unless you turn on Include My Spots.\n\nExport All and Import All in CSV Import and Export include fishing trips, catches and the Fish Guide's added fish, and each has a table and a blank template of its own there.",
+    "category" : "5.5 Fishing",
+    "imageName" : "square.and.arrow.up",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "Can I export my fishing to a spreadsheet?"
+  },
+  {
+    "answer" : "Before Fishing was here, the log's Fish Caught button wrote each fish as a note in the log, with the boat's position. While a boat has any, Fishing shows a row saying how many can become catches.\n\nMoving one makes it a catch with its spot on your own map, and takes the position out of the log's note, as your crew can read the log. Move one at a time, or Move All. Nothing changes until you say so. Once they're all moved, the row goes.",
+    "category" : "5.5 Fishing",
+    "imageName" : "arrow.triangle.2.circlepath",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "What are older Fish Caught notes?"
   }
 ]
