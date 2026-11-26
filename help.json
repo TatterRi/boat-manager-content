@@ -1480,7 +1480,7 @@
     "question" : "What can Guided Reminder set?"
   },
   {
-    "answer" : "Yes, on the new screens. Say “Log a note in Boat Manager” and say the note. It goes on today's log with the time, and the position when there is one, without opening the app.\n\nIt's in the Shortcuts app and can go on the Action button. A log for today is made when there isn't one. On a boat shared with you, you need to write its log.",
+    "answer" : "Yes, on the new screens. Say “Log a note in Boat Manager” and say the note. It goes on today's log with the time, and the position when there is one, without opening the app. “Add a note to the log in Boat Manager”, “Add to my log in Boat Manager” and “Write in the log in Boat Manager” work too. Keep Boat Manager in what you say, or Siri may put the note in Apple's Notes.\n\nEach Log Note button can be said as well: “Anchor down in Boat Manager”, “Log dolphins in Boat Manager”, “Bridge opening in Boat Manager”. It writes the line the button writes, sets the day's leaving or arriving as the button does, and asks aloud what the button asks, such as which bridge. Your own buttons under My Notes work the same way, hidden ones too. A button that opens something afterwards, a tank to fill or a to-do, has Siri tell you to add it in the app.\n\nIt's in the Shortcuts app and can go on the Action button. A log for today is made when there isn't one. On a boat shared with you, you need to write its log.",
     "category" : "5.3 Logs",
     "imageName" : "mic",
     "isSysImg" : true,
@@ -1504,7 +1504,7 @@
     "question" : "How long will iCloud take?"
   },
   {
-    "answer" : "Yes. Canadian tides are a guide: 157 places worked out on your device, so they need no signal. They aren't the official tables and aren't for navigation; tides.gc.ca and Environment Canada are linked.\n\nSet to Canada, a float plan's PDF has the Canadian Coast Guard's rescue lines, and forms say Province and Postal Code. Outside the US, US towing numbers aren't offered unless you're a member.",
+    "answer" : "Yes. Canadian tides are a guide: 157 places worked out on your device, so they need no signal. They aren't the official tables and aren't for navigation; tides.gc.ca and Environment Canada are linked.\n\nSet to Canada, a float plan's PDF has the Canadian Coast Guard's rescue lines, and forms say Province and Postal Code. Radar opens Environment Canada's, and Call for a Tow offers C-Tow when you have no membership, with 911 for a Mayday. Outside the US, US towing numbers aren't offered unless you're a member.",
     "category" : "7. Waypoints",
     "imageName" : "globe.americas.fill",
     "isSysImg" : true,
@@ -1590,5 +1590,61 @@
     "isSysImg" : true,
     "order" : 10,
     "question" : "What are older Fish Caught notes?"
+  },
+  {
+    "answer" : "Yes, with the keyboard's microphone. Tap the mic key in any text field, a log's narrative or the Log Note sheet's detail say, and speak: what you say is typed in, and you can check it before saving. On a recent iPhone or iPad, English dictation works with no signal.\n\nTo log without opening the app at all, use Siri: see “Can I log a note with Siri?”. Whatever you dictate goes in as words. Boat Manager doesn't read figures such as fuel or engine hours out of it, so type those in their own fields.",
+    "category" : "5.3 Logs",
+    "imageName" : "mic.badge.plus",
+    "isSysImg" : true,
+    "order" : 108,
+    "question" : "Can I dictate a log entry?"
+  },
+  {
+    "answer" : "Yes, once Fishing is on for the boat. Say “Log a catch in Boat Manager”, or “Fish on in Boat Manager”. Siri asks what you caught and whether you kept it, then saves it as Log a Catch does: on the trip under way, or on a new one if none is, with the spot kept private to you and the day's log line when that is on. The fish's name is matched to the one the boat already uses.\n\n“Start fishing in Boat Manager” and “Stop fishing in Boat Manager” do what their buttons do. While Fishing is on, the Log Note button for a fish sends you to Log a Catch, so the spot stays private.",
+    "category" : "5.5 Fishing",
+    "imageName" : "fish",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "Can I log a catch with Siri?"
+  },
+  {
+    "answer" : "A reading is checked as you type it: in the log, Log Maintenance, the generator sheet and the Helm's Update Engine Hours. It's questioned when it's lower than the last reading, more than 24 hours a day since that reading, ten times it, or higher than a later log's. An orange line under the row says which, and saving asks “Save with these hours?” so a typo doesn't go into the record. If the reading is right, save it anyway.\n\nCorrecting a reading downwards brings the boat's counter down with it, when the counter stood at the wrong reading. Nothing else is changed.",
+    "category" : "8. Maintenance",
+    "imageName" : "exclamationmark.triangle",
+    "isSysImg" : true,
+    "order" : 17,
+    "question" : "Why is Boat Manager asking about my engine hours?"
+  },
+  {
+    "answer" : "Open the equipment's page, then its meter under Maintenance, and tap Meter Replaced. Give the date, the old meter's last reading and the new meter's first. The old meter's hours keep counting towards its jobs, so nothing is counted twice, and the new meter's low readings aren't questioned.",
+    "category" : "8. Maintenance",
+    "imageName" : "arrow.triangle.2.circlepath",
+    "isSysImg" : true,
+    "order" : 18,
+    "question" : "My hour meter was replaced. What do I do?"
+  },
+  {
+    "answer" : "An hours job says about when it falls due, on its Upkeep row and its page. That comes from the hours its counter has logged a month, or This Boat's usual hours a month when there aren't enough logs yet. Its page also says when the counter was last read, and warns when two days underway have gone by with no engine hours logged. The Helm's Engine Hours tile says the same.\n\nWith My Settings › Remind Me of What's Due on, each Upkeep job is announced a week before it falls due, by hours or by months, and the day is worked out again as the hours change. A planned job's Apple reminder moves with the hours too.\n\nGear with a meter of its own counts on that meter, and a part of an engine or the generator counts on its parent's hours. The Helm's Since Oil Change is the engine's own oil-change job as Upkeep has it.",
+    "category" : "8. Maintenance",
+    "imageName" : "calendar.badge.clock",
+    "isSysImg" : true,
+    "order" : 19,
+    "question" : "When will a job by engine hours fall due?"
+  },
+  {
+    "answer" : "Yes. With your iPhone or iPad set to the UK, forms say County and Postcode, a boat has an SSR number, weather and tide links open the Met Office, Met Office radar and Admiralty EasyTide, and a float plan's PDF gives HM Coastguard and 999 or 112.\n\nUK tides are a guide: 61 places round Great Britain, Northern Ireland, the Isle of Man and Jersey, worked out on your device, so they need no signal. Heights are above Lowest Astronomical Tide. They aren't the official tables and aren't for navigation. A place is offered within 30 miles of the boat, and a search by name finds all of them.\n\nCredentials include the RYA certificates and the ICC, and Canada's Pleasure Craft Operator Card and SVOP. Call for a Tow lets you add your own towing service and says 999 for a Mayday. Worked-out distances and wind follow your distance and speed units.",
+    "category" : "7. Waypoints",
+    "imageName" : "globe.europe.africa.fill",
+    "isSysImg" : true,
+    "order" : 96,
+    "question" : "Does Boat Manager work in the UK?"
+  },
+  {
+    "answer" : "• Notices to Mariners: the US Coast Guard's notices along a voyage in US waters, at each stop and in What's Here. Choose whether they show, how far from the route, and which kinds, in My Settings › Notices.\n• Tides at each stop. Arrive near high or low water gives the time to leave by, or says on the stop's row when the tide can't be met in daylight.\n• Each voyage's row has a small map of its route, and the voyage under way, with today's leg or the next, is at the top of the list.\n• A stop's marina rate can be per foot or a flat night.",
+    "category" : "7. Waypoints",
+    "imageName" : "water.waves",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "What do Voyages show along the way?"
   }
 ]
