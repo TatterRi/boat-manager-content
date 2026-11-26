@@ -1128,7 +1128,7 @@
     "question" : "Can I share a voyage?"
   },
   {
-    "answer" : "Open the person's Crew record and tap Edit. Under Crew Sharing, tap Invite to Boat Manager…, choose the boat, their role and the email address or phone number they use for iCloud, then tap Invite. Send them the link it gives you.\n\nWhen they open it on their iPhone, iPad or Mac, the boat comes aboard their Boat Manager and stays in step with yours through iCloud. Their Crew record shows when they've joined.\n\nYou can also tap Share with Crew on the boat's Crew page and send the invitation from there. Link the person to their Crew record afterwards with Already Joined?.",
+    "answer" : "Open the person's Crew record and tap Edit. Under Crew Sharing, tap Invite to Boat Manager…, choose the boat, their role and the email address or phone number they use for iCloud, then tap Invite. Send them the link it gives you.\n\nWhen they open it on their iPhone, iPad or Mac, the boat comes aboard their Boat Manager and stays in step with yours through iCloud. Their Crew record shows when they've joined.\n\nYou can also tap Share with Crew on the boat's Crew page and send the invitation from there. Link the person to their Crew record afterwards with Already Joined?.\n\nThe first time you share a boat, Boat Manager waits for iCloud to finish downloading. If it says it hasn't finished, keep it open and online and try again in a few minutes.",
     "category" : "6. Crew",
     "imageName" : "person.crop.circle.badge.plus",
     "isSysImg" : true,
@@ -1136,7 +1136,7 @@
     "question" : "How do I share a boat with my crew?"
   },
   {
-    "answer" : "• Owner: the boat is yours. You hold the subscription, set the boat up, share it and can delete it.\n• Writes the Log: adds to the log and the boat's records.\n• Crew: adds to the boat's records and reads the log.\n• View Only: sees the boat's records and changes nothing.\n\nChange someone's role with Role under Crew Sharing on their Crew record. Each log entry, to-do and expense shows who wrote it.",
+    "answer" : "• Owner: the boat is yours. You hold the subscription, set the boat up, share it and can delete it.\n• Writes the Log: adds to the log and the boat's records.\n• Crew: adds to the boat's records and reads the log.\n• View Only: sees the boat's records and changes nothing.\n\nChange someone's role with Role under Crew Sharing on their Crew record. Their device has it once both have synced. Each log entry, to-do and expense shows who wrote it.\n\nWhat crew add goes under the boat's own categories and library jobs. They can own boats too: each boat keeps to its own people, places and library.",
     "category" : "6. Crew",
     "imageName" : "person.badge.shield.checkmark",
     "isSysImg" : true,
@@ -1168,7 +1168,7 @@
     "question" : "What is the Boat Card?"
   },
   {
-    "answer" : "Me › My Time Aboard lists the days you were aboard and your own Ships Log.\n\nTurn on Track USCG Days in Me › My Settings to count sea service for a licence, on the CG-719S form. Captain or crew can turn it on; when anyone aboard tracks USCG days, the log asks for the body of water.\n\nDays Aboard in Calendar, in the same settings, puts each day you were aboard in a calendar for each boat.",
+    "answer" : "Me › My Time Aboard lists the days you were aboard and your own Ships Log: every day a log names you, as captain, crew or guest.\n\nTurn on Track USCG Days in Me › My Settings to count sea service for a licence, on the CG-719S form. Captain or crew can turn it on; when anyone aboard tracks USCG days, the log asks for the body of water.\n\nDays Aboard in Calendar, in the same settings, puts each day you were aboard in a calendar for each boat.",
     "category" : "6. Crew",
     "imageName" : "calendar.badge.clock",
     "isSysImg" : true,
@@ -1192,7 +1192,7 @@
     "question" : "Can I arrange the screens?"
   },
   {
-    "answer" : "Find, in the bar, searches the whole boat at once: the log, gear, spares, papers, jobs, people and places. Narrow it with the choices at the top, and tap a result to open it.\n\nThe Boat group finds the boat's own numbers and particulars by the words you'd use for them, such as coast guard number, documentation, MMSI or bridge clearance. Tap one to copy it.\n\nIt also answers what you're asked on the radio or the phone:\n• tow, BoatUS or Sea Tow: the towing dispatch numbers, with your membership number and a button to call.\n• EPIRB, PLB or beacon: the beacon IDs recorded for float plans, yours and the boat's.\n• engine, hours or generator: what the engines are and their hours.\n• cruising, speed or burn: the cruising speed, rpm and fuel burn from Specs.\n• membership, Safe Harbor or Great Loop: your memberships from Me › Memberships.\n• emergency: your emergency contact.\n\nCancel, beside the field while you type, clears the words and puts the keyboard away.",
+    "answer" : "Find, in the bar, searches the whole boat at once: the log, gear, spares, papers, jobs, people and places. Your words can come in any order: oil change finds Change Engine Oil. Jobs include each piece of equipment's own, which open on their page. Narrow it with the choices at the top, and tap a result to open it.\n\nThe Boat group finds the boat's own numbers and particulars by the words you'd use for them, such as coast guard number, documentation, MMSI or bridge clearance. Tap one to copy it.\n\nIt also answers what you're asked on the radio or the phone:\n• tow, BoatUS or Sea Tow: the towing dispatch numbers, with your membership number and a button to call.\n• EPIRB, PLB or beacon: the beacon IDs recorded for float plans, yours and the boat's.\n• engine, hours or generator: what the engines are and their hours.\n• serial, with the equipment's name (port engine serial): its serial number. A tap copies it.\n• cruising, speed or burn: the cruising speed, rpm and fuel burn from Specs.\n• membership, Safe Harbor or Great Loop: your memberships from Me › Memberships.\n• emergency: your emergency contact.\n\nCancel, beside the field while you type, clears the words and puts the keyboard away.",
     "category" : "3. Navigation",
     "imageName" : "magnifyingglass",
     "isSysImg" : true,
@@ -1288,7 +1288,7 @@
     "question" : "Can I file a PDF or an email from another app?"
   },
   {
-    "answer" : "If nobody is in danger — the engine has stopped, you're aground or out of fuel — tap the red lifebuoy, then Call for a Tow. It shows the towing services' 24-hour dispatch numbers, with your membership number beside each and a button to call. With no membership entered it shows both BoatUS and Sea Tow; either will tow a non-member, at a price. Typing tow in Find shows the same.\n\nPut the call on Speaker before you start talking: the call takes over the phone's screen, and on Speaker you can come back to Boat Manager and read out what dispatch asks for. They ask, in this order: how many are aboard and whether anyone is hurt, where you are, your membership number, the boat (name, make, length, colour, registration), what's wrong, and where you want to be towed. Find has each of those: type registration, length or color.\n\nEnter your memberships under Me › Memberships. They are yours, kept on your devices, so crew see their own, not yours: a sticker by the helm with the number is still worth having.\n\nIf anyone is in danger, it is not a tow: call the coastguard on VHF channel 16.",
+    "answer" : "If nobody is in danger — the engine has stopped, you're aground or out of fuel — tap the red lifebuoy, then Call for a Tow. It shows the towing services' 24-hour dispatch numbers, with your membership number beside each and a button to call. With no membership entered it shows both BoatUS and Sea Tow; either will tow a non-member, at a price. Typing tow in Find shows the same.\n\nPut the call on Speaker before you start talking: the call takes over the phone's screen, and on Speaker you can come back to Boat Manager and read out what dispatch asks for. They ask, in this order: how many are aboard and whether anyone is hurt, where you are, your membership number, the boat (name, make, length, colour, registration), what's wrong, and where you want to be towed. Find has each of those: type registration, length or color.\n\nEnter your memberships under Me › Memberships. They are yours, kept on your devices, so crew see their own, not yours: a sticker by the helm with the number is still worth having.\n\nIf anyone is in danger, it is not a tow: call the coastguard on VHF channel 16.\n\nKeep a Tow Card in Papers from the same page: one page with dispatch's numbers, the boat and lines to fill in, and a 4 × 2 in label for beside your membership sticker, for when there's no phone to hand.",
     "category" : "10. Safety",
     "imageName" : "lifepreserver",
     "isSysImg" : true,
@@ -1302,5 +1302,293 @@
     "isSysImg" : true,
     "order" : 22,
     "question" : "Can I see tomorrow's weather and tides on the Helm?"
+  },
+  {
+    "answer" : "Open Upkeep, then More (…) › Set Up Upkeep, and pick the equipment. It walks you through one piece at a time: which jobs it has, from the Starter Book, its manual's book or your own; each job's interval; when each was last done; and which go on the Upkeep Dashboard. Nothing changes until you Save, and Undo Set-Up puts it back.\n\nEach piece keeps its own jobs, intervals and history: the port engine's oil change is its own, not shared with the starboard's. On twin engines, Also Set Up On copies the jobs to the other one.",
+    "category" : "8. Maintenance",
+    "imageName" : "wand.and.stars",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "How do I set up maintenance for a piece of equipment?"
+  },
+  {
+    "answer" : "The Library keeps jobs in books. The Starter Book comes with the app, for any boat. A manual's book holds the jobs from one engine's or generator's manual, with page references. My Book holds the jobs you add yourself, with your own name, interval and icon.\n\nWhen you set up a piece of equipment you take its jobs from a book. Share as a File on a book's page sends it to another owner, who adds it with Import a File.",
+    "category" : "8. Maintenance",
+    "imageName" : "books.vertical",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "What is a book in the Library?"
+  },
+  {
+    "answer" : "Yes. Put the manual's PDF in Papers, then on the equipment page choose Add Jobs › Read My Manual. It finds the maintenance table, reads each job and its interval, and shows you a draft to check before anything is added; each job keeps the manual's page. It uses Apple Intelligence, so it needs a device that has it. Where it can't read the manual, you can type the table in instead.",
+    "category" : "8. Maintenance",
+    "imageName" : "doc.text.magnifyingglass",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "Can Boat Manager read my engine manual's maintenance schedule?"
+  },
+  {
+    "answer" : "Every interval of a piece of equipment's service, 50 hours, 250 hours, a year, as one list: all the jobs due at that interval. It's on the equipment's page and in Checklists, and shows on the Upkeep Dashboard as one line, led by the job in it that comes due first, which it names. Run it and each job ticked is logged against that equipment. On twin engines it asks at the start which engine you're doing, or both.",
+    "category" : "8. Maintenance",
+    "imageName" : "checklist",
+    "isSysImg" : true,
+    "order" : 11,
+    "question" : "What is a Service Checklist?"
+  },
+  {
+    "answer" : "Yes, every task you logged is kept as it was. After you set up a piece of equipment's jobs, Match Past Work offers to tie your past tasks to the new jobs, so each job knows when it was last done. You approve each match, and it never changes the task you logged.\n\nBack up first (your profile › My Settings › Backup & Restore) before you set up or match a lot of equipment.",
+    "category" : "8. Maintenance",
+    "imageName" : "arrow.triangle.merge",
+    "isSysImg" : true,
+    "order" : 12,
+    "question" : "I upgraded from 2.0. Is my logged maintenance still there?"
+  },
+  {
+    "answer" : "On the equipment's page, More (…) › Send to a Technician, or from the Upkeep Dashboard's More. Say what's wrong, add photos or a video, how soon you need it done and where the boat is. Boat Manager makes one PDF with the equipment's report, its recent log entries, open to-dos and spares, and the boat's particulars, and sends it by Mail to the vendor you choose, or by Messages. You choose which parts of the report go.",
+    "category" : "8. Maintenance",
+    "imageName" : "paperplane",
+    "isSysImg" : true,
+    "order" : 13,
+    "question" : "How do I send a problem to a technician?"
+  },
+  {
+    "answer" : "Give a spare a minimum aboard on its page in Gear. The Upkeep Dashboard lists the spares below their minimum: tap one to open it, or the cart to put it on the shopping list. When you mark it Bought, it asks what it cost and adds it to the spare's count. To check what's really aboard, Count the Spares (the + on Gear's Spares) walks you through a stock-take by place or by type.",
+    "category" : "5.2 Gear & Spares",
+    "imageName" : "shippingbox",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "How do I keep track of spares I'm running low on?"
+  },
+  {
+    "answer" : "Set up your batteries in Gear with their amp-hours, then open Power. Add a reading (the volts, or the state of charge from a monitor) and Power shows where each bank stands and how long it has before it reaches its floor, from your loads and tomorrow's sun on the forecast. The Batteries tile on the Helm shows the same. A guided power budget works out what your loads use in a day.",
+    "category" : "5.2 Gear & Spares",
+    "imageName" : "minus.plus.batteryblock",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "How long will my batteries last?"
+  },
+  {
+    "answer" : "Tap Show on the bottom bar: Her Numbers lists the HIN, documentation and registration numbers, insurance and more, large enough to read out. Tap one to copy it. Add them on Specs if they're missing. The Marina and Insurance boat cards (Show › Who We Are) include the HIN too.",
+    "category" : "5. Boats",
+    "imageName" : "number",
+    "isSysImg" : true,
+    "order" : 12,
+    "question" : "Where's my boat's HIN for a marina's paperwork?"
+  },
+  {
+    "answer" : "Safety Checks › Hurricane Plan (add it from the starter lists if it isn't there). It takes you a step at a time: insurance, where she stays, when the plan starts, where she goes, how she's secured, who does it, and after the storm. Each step has room to write, with suggested wording where most boats say the same. Save it and the PDF in Papers is the plan, ready to send to your underwriter. Next season starts from this year's answers.",
+    "category" : "10. Safety",
+    "imageName" : "doc.text",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "How do I write a hurricane plan?"
+  },
+  {
+    "answer" : "A boat of 40 feet or more that goes to sea with a galley and berths needs a written waste management plan under MARPOL Annex V. Safety Checks › Waste Management Plan writes one with you, a step at a time: who is in charge, how garbage is kept and taken ashore, what may go over the side, oil, sewage, placards and crew. The PDF in Papers is the plan to keep aboard. Check the current rules for where you cruise.",
+    "category" : "10. Safety",
+    "imageName" : "trash",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "Does my boat need a waste management plan?"
+  },
+  {
+    "answer" : "Yes. More › This Boat › Your Fields. Add fields to equipment (all of it, or only some types), to the boat (they show on Specs) and to log entries: text, a number with a unit, a date, yes or no, or a choice from a list. They're set up for each boat, and Copy from Another Boat brings another boat's over. Find searches them, and an equipment's fields go in its report.",
+    "category" : "9. Settings",
+    "imageName" : "slider.horizontal.below.rectangle",
+    "isSysImg" : true,
+    "order" : 20,
+    "question" : "Can I add my own fields?"
+  },
+  {
+    "answer" : "Yes. On the Helm, Tile Choices… (below the tiles) sets what a tap on each tile opens, its own page or the screen it's about, and what some tiles lead with: Upkeep's overdue jobs or the next planned job, Fuel used or left, and which Days Since counts show. On the main screen, What Tiles Show… picks the lines under each tile: Expenses this month, this year or last paid, the Log's last entry, and more.",
+    "category" : "9. Settings",
+    "imageName" : "square.grid.2x2",
+    "isSysImg" : true,
+    "order" : 21,
+    "question" : "Can I change what the tiles show?"
+  },
+  {
+    "answer" : "Yes. More › Bottom Bar… sets the three buttons beside the +: Helm, Find, Show, or any screen such as the Log or Upkeep. Whatever comes off the bar moves into More. For shortcuts on the app icon's long press, go to your profile › My Settings › App Icon Shortcuts.",
+    "category" : "9. Settings",
+    "imageName" : "dock.rectangle",
+    "isSysImg" : true,
+    "order" : 22,
+    "question" : "Can I change the buttons on the bottom bar?"
+  },
+  {
+    "answer" : "Yes. Upkeep › More (…) › Due Soon… sets how many days ahead a job turns due soon, 30 to begin with, and for an hours job the fewest hours, 10 to begin with. A job never turns due soon earlier than a quarter of its interval, so a monthly check isn't always due.",
+    "category" : "9. Settings",
+    "imageName" : "clock.badge.exclamationmark",
+    "isSysImg" : true,
+    "order" : 23,
+    "question" : "Can I change how early a job shows as due soon?"
+  },
+  {
+    "answer" : "Open the job's page and tap the pin at the top, or swipe right on a job on the Upkeep Dashboard and tap Pin; Set Up Upkeep's Dashboard step has a pin beside each job too. Pinned jobs sit at the top of the Upkeep Dashboard and in a Pinned tile on the Helm, which you can move or switch off in Arrange like the other tiles. Each shows by its own hours or date, whichever checklist it's on: an oil change that comes due on hours inside a yearly service stays in sight. The same job pinned on both engines shows as one line, led by the one due first; tap it for each engine's. Up to four can be pinned. With Same Layout on All My Devices on, your pins follow you to your other devices. Swipe a pinned job, or tap the pin on its page again, to unpin it.",
+    "category" : "8. Maintenance",
+    "imageName" : "pin",
+    "isSysImg" : true,
+    "order" : 14,
+    "question" : "How do I pin a job so it stays in sight?"
+  },
+  {
+    "answer" : "Both are on a job's page.\n\n• Skip This Time: you're not doing it this time. Its interval starts again from today (by hours, from today's reading) with nothing logged, and it shows as Skipped with the date, never as done. Logging it later counts as usual. Undo Skip puts it back to the last time it was really done.\n• Set Aside Until Next Logged: you know it's due and don't want to be told. It leaves the dashboard's counts and the season plan, but its clock keeps running from the last time it was done. Logging it brings it back; so does Bring Back on its page.",
+    "category" : "8. Maintenance",
+    "imageName" : "forward.end",
+    "isSysImg" : true,
+    "order" : 15,
+    "question" : "What's the difference between Skip This Time and Set Aside?"
+  },
+  {
+    "answer" : "Open the old spare, tap ••• and Replaced By…, then pick the spare that replaced it, or New Spare from its Equivalents to make one with that number.\n\nThe old spare is set aside and says what replaced it, and the new one lists what it replaces. Jobs that needed the old part, and its open shopping lines, move to the new one, which goes on the same equipment. Any of the old still aboard count toward the new one's need and minimum until they're used. A book that names the old part number finds the new spare.\n\nPicked the wrong one? Not Replaced, in the old spare's •••, brings it back.",
+    "category" : "5.2 Gear & Spares",
+    "imageName" : "arrow.triangle.2.circlepath",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "A spare was superseded by another part. How do I link them?"
+  },
+  {
+    "answer" : "Other part numbers for the same part, such as other makers' cross-references. Type them in, separated by commas, or, in Edit, tap Choose from Spares and tick spares you already have: each adds its maker and part number.\n\nThey're used when a book's jobs are set up (a manual's part number found among a spare's equivalents counts as that spare, so no second one is made), by Find, on a job's Parts list, and by Replaced By's New Spare.\n\nSetting up jobs from a manual makes a spare, with none aboard, for each part it can't match. If that's one you already carry under another number, open it, Choose from Spares to add your number, then ••• › Replaced By… your spare.",
+    "category" : "5.2 Gear & Spares",
+    "imageName" : "equal.circle",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "What are a spare's Equivalents?"
+  },
+  {
+    "answer" : "Open that day's log entry and tap Service Checklist Done… under Log Maintenance. Find the checklist by its equipment or name, tick what was done, and its jobs are logged on that entry's day, each on its own equipment. You can also run it from the equipment's page or its line on the Upkeep Dashboard.",
+    "category" : "5.3 Logs",
+    "imageName" : "checklist.checked",
+    "isSysImg" : true,
+    "order" : 106,
+    "question" : "How do I record that I did a whole service checklist?"
+  },
+  {
+    "answer" : "A job by hours shows the hour meter on its page: the reading when it was last done, the reading now with the meter's name, and the reading it falls due at. A task's page shows each piece of equipment's reading on that day. Logging a job on anything that counts engine or generator hours shows the reading to record: change it if it's wrong, and that day's log takes it.\n\nWhere a day's log has no reading for a meter, the generator not run say, the last reading before it is used, since the meter didn't move. A job whose reading still can't be found says Hours not known: log a reading on or before the day it was done.",
+    "category" : "8. Maintenance",
+    "imageName" : "gauge.with.dots.needle.33percent",
+    "isSysImg" : true,
+    "order" : 16,
+    "question" : "How do I check a job's hours?"
+  },
+  {
+    "answer" : "+ › Guided Reminder starts with a date on something: an expiry date on a paper, equipment, a spare or a tool (a registration, a battery's replace-by, a flare's use-by), or a job planned for a day. These go on the thing itself and come round in Reminders, where Renewed… rolls the date on.\n\nOr type what to be reminded of, for a to-do with an alert: once or repeating, and Linked To a piece of equipment or a spare so it shows on that page too.",
+    "category" : "8. Maintenance",
+    "imageName" : "bell.badge",
+    "isSysImg" : true,
+    "order" : 17,
+    "question" : "What can Guided Reminder set?"
+  },
+  {
+    "answer" : "Yes, on the new screens. Say “Log a note in Boat Manager” and say the note. It goes on today's log with the time, and the position when there is one, without opening the app.\n\nIt's in the Shortcuts app and can go on the Action button. A log for today is made when there isn't one. On a boat shared with you, you need to write its log.",
+    "category" : "5.3 Logs",
+    "imageName" : "mic",
+    "isSysImg" : true,
+    "order" : 107,
+    "question" : "Can I log a note with Siri?"
+  },
+  {
+    "answer" : "Open a crew member's card and tap Credentials. Each license or certificate has its number, dates, endorsements and notes, a photo or scan, and an expiry that shows in reminders.\n\nThe owner sees everyone's. Crew see their own. A paper in Papers can be put on a card with From Papers. Everyone needs this version of Boat Manager or later to see credentials this way.",
+    "category" : "6. Crew",
+    "imageName" : "person.text.rectangle",
+    "isSysImg" : true,
+    "order" : 90,
+    "question" : "Where do I keep crew licenses and certificates?"
+  },
+  {
+    "answer" : "When a lot is going up or coming down, iCloud Sync shows how much is done and about how long is left. After an update that adds new fields, everything comes down again once: leave Boat Manager open and plugged in, and it carries on from where it stopped if you close it.\n\nOffline isn't a fault: it says it's waiting for iCloud, and starts again by itself. If it says iCloud refused your changes, its storage is usually full; on a boat shared with you, the owner's.",
+    "category" : "9. Settings",
+    "imageName" : "arrow.triangle.2.circlepath.icloud",
+    "isSysImg" : true,
+    "order" : 120,
+    "question" : "How long will iCloud take?"
+  },
+  {
+    "answer" : "Yes. Canadian tides are a guide: 157 places worked out on your device, so they need no signal. They aren't the official tables and aren't for navigation; tides.gc.ca and Environment Canada are linked.\n\nSet to Canada, a float plan's PDF has the Canadian Coast Guard's rescue lines, and forms say Province and Postal Code. Outside the US, US towing numbers aren't offered unless you're a member.",
+    "category" : "7. Waypoints",
+    "imageName" : "globe.americas.fill",
+    "isSysImg" : true,
+    "order" : 95,
+    "question" : "Are there tides and weather in Canada?"
+  },
+  {
+    "answer" : "On the new screens, a boat's trips and catches go in the same log as its engines, fuel, costs and crew. It's off until you want it: turn on Fishing in This Boat, and the boat gets a Fishing tile.\n\nFishing has three parts:\n• Trips: Start Fishing and Stop Fishing, or Past Trip for one you didn't log at the time. A trip with no fish is kept too, so your averages stay honest.\n• Catches: every catch, grouped by species, date, angler or bait.\n• Map: where you caught them, for your eyes only.\n\nBelow the trips are Tackle, the Fish Guide, Fishing Licenses and Export…. This Boat or All Boats chooses whether you see one boat's fishing or all of it.",
+    "category" : "5.5 Fishing",
+    "imageName" : "fish",
+    "isSysImg" : true,
+    "order" : 1,
+    "question" : "What is Fishing?"
+  },
+  {
+    "answer" : "Tap Log a Catch: on Fishing, on a log entry's Fishing section, or on the boat's +. Choose the species and save; that's all a catch needs.\n\nWhen there's time, add whether it was kept, released, lost or tagged, how many, the length and weight, the depth, the bait or lure, who caught it, a photo and notes. The bait list comes from the boat's Tackle. Units follow your own settings.\n\nA catch goes on the trip that's running. With none running, it goes on a trip on that day, or starts one. Logging a catch on an older day's log entry puts it on that day.",
+    "category" : "5.5 Fishing",
+    "imageName" : "plus.circle",
+    "isSysImg" : true,
+    "order" : 2,
+    "question" : "How do I log a catch?"
+  },
+  {
+    "answer" : "Only you. A catch's spot is kept in your own iCloud, apart from the boat, so it isn't shared with your crew and isn't sent to us. On a crew member's device your catch reads \"Spot not shared\".\n\nA photo added to a catch is redrawn without the place it was taken. A CSV export has positions only when you turn on Include My Spots, each time.\n\nThe boat's track and a log entry's position still show where the boat went that day, as they always have.",
+    "category" : "5.5 Fishing",
+    "imageName" : "lock",
+    "isSysImg" : true,
+    "order" : 3,
+    "question" : "Who can see where I caught a fish?"
+  },
+  {
+    "answer" : "Fishing › Fish Guide helps you name a fish by what you see. Pick the marks you see, such as stripes, spots, the shape of the tail or the colour, and the guide lists the fish that have them, with what each looks like and what it's taken for. Pictures are an optional download.\n\nYour photo at the top opens Look Up the Photo, which sends the photo, without its place, to an app such as Google for a second opinion.\n\nThe guide is a help to name a fish, not proof of it. Check your local rules before you keep one.",
+    "category" : "5.5 Fishing",
+    "imageName" : "magnifyingglass",
+    "isSysImg" : true,
+    "order" : 4,
+    "question" : "What is the Fish Guide?"
+  },
+  {
+    "answer" : "Yes. Tap Add a Fish… to add one the guide doesn't have, with its names, what it looks like, what it's taken for, its marks, a photo and notes. On a catch of a species the guide doesn't know, Add … to the Fish Guide starts one from the catch's name and photo.\n\nAny fish can be improved, the guide's own too: open it and tap Improve This Fish…. Only what you change is kept. Put Back the Guide's Words undoes it.\n\nA fish you add or improve is kept on the boat, so everyone aboard sees it, and you see it on all your boats. Each says who added or improved it. Crew who can't write the boat's fishing keep theirs to themselves.",
+    "category" : "5.5 Fishing",
+    "imageName" : "square.and.pencil",
+    "isSysImg" : true,
+    "order" : 5,
+    "question" : "Can I add or improve fish in the Fish Guide?"
+  },
+  {
+    "answer" : "A log entry on a day you fished has a Fishing section, with each trip and its catches and Log a Catch. The log's Fishing filter lists the days you fished.\n\nA trip's page and a catch's page each have The Day's Log, which opens that day's log entry or offers to start one.",
+    "category" : "5.5 Fishing",
+    "imageName" : "book",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "How do Fishing and the log fit together?"
+  },
+  {
+    "answer" : "A trip's row and page show the time of day it began, the moon and, from that day's log entry, the weather, wind and seas and the Tide at the start. Nothing extra is kept: it's read from the log, so put it in the log and the trip has it.\n\nOn a day with no log entry, a trip shows the time of day and the moon only.",
+    "category" : "5.5 Fishing",
+    "imageName" : "cloud.sun",
+    "isSysImg" : true,
+    "order" : 7,
+    "question" : "What do a trip's weather, tide and moon show?"
+  },
+  {
+    "answer" : "Fishing › Tackle opens the boat's tackle, kept in Gear. Give an item a Minimum aboard, and it's marked when you have fewer than that. The Below minimum filter lists them all, and Add to Shopping List puts one on the boat's shopping list.\n\nA catch's bait can be one of the boat's tackle items; that item's Caught on It lists what it caught. Gear's reports include a Tackle List PDF.",
+    "category" : "5.5 Fishing",
+    "imageName" : "list.bullet.rectangle",
+    "isSysImg" : true,
+    "order" : 8,
+    "question" : "How do I keep track of tackle?"
+  },
+  {
+    "answer" : "Yes. Fishing › Export… writes Catches.csv and FishingTrips.csv for what's shown, ready for a spreadsheet: one row per catch, with its trip's details beside it, and one row per trip, including trips with no fish. Positions are left out unless you turn on Include My Spots.\n\nExport All and Import All in CSV Import and Export include fishing trips, catches and the Fish Guide's added fish, and each has a table and a blank template of its own there.",
+    "category" : "5.5 Fishing",
+    "imageName" : "square.and.arrow.up",
+    "isSysImg" : true,
+    "order" : 9,
+    "question" : "Can I export my fishing to a spreadsheet?"
+  },
+  {
+    "answer" : "Before Fishing was here, the log's Fish Caught button wrote each fish as a note in the log, with the boat's position. While a boat has any, Fishing shows a row saying how many can become catches.\n\nMoving one makes it a catch with its spot on your own map, and takes the position out of the log's note, as your crew can read the log. Move one at a time, or Move All. Nothing changes until you say so. Once they're all moved, the row goes.",
+    "category" : "5.5 Fishing",
+    "imageName" : "arrow.triangle.2.circlepath",
+    "isSysImg" : true,
+    "order" : 10,
+    "question" : "What are older Fish Caught notes?"
   }
 ]

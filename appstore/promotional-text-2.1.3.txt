@@ -1,0 +1,1 @@
+New: Fishing, in the same log as your boat's engines, fuel and crew. And crew on a shared boat can save what they add, with the role you give them.
