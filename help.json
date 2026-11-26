@@ -1512,7 +1512,7 @@
     "question" : "Are there tides and weather in Canada?"
   },
   {
-    "answer" : "On the new screens, a boat's trips and catches go in the same log as its engines, fuel, costs and crew. It's off until you want it: turn on Fishing in This Boat, and the boat gets a Fishing tile.\n\nFishing has three parts:\n• Trips: Start Fishing and Stop Fishing, or Past Trip for one you didn't log at the time. A trip with no fish is kept too, so your averages stay honest.\n• Catches: every catch, grouped by species, date, angler or bait.\n• Map: where you caught them, for your eyes only.\n\nBelow the trips are Tackle, the Fish Guide, Fishing Licenses and Export…. This Boat or All Boats chooses whether you see one boat's fishing or all of it.",
+    "answer" : "On the new screens, a boat's trips and catches go in the same log as its engines, fuel, costs and crew. It's off until you want it. The captain turns it on in More › This Boat with the Trips and Catches switch, or with Turn On Fishing… at the bottom of Arrange on the main screen. A short page says what stays private, and what the log still shows, before you confirm. Then the boat gets a Fishing tile.\n\nFishing has three parts:\n• Trips: Start Fishing and Stop Fishing, or Past Trip for one you didn't log at the time. A trip with no fish is kept too, so your averages stay honest.\n• Catches: every catch, grouped by species, date, angler or bait.\n• Map: where you caught them, for your eyes only.\n\nBelow the trips are Tackle, the Fish Guide, Fishing Licenses and Export…. This Boat or All Boats chooses whether you see one boat's fishing or all of it.",
     "category" : "5.5 Fishing",
     "imageName" : "fish",
     "isSysImg" : true,
