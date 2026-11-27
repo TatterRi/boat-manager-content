@@ -1,4 +1,4 @@
-Engine hours you can trust, with notice before an hours job falls due; bring in a checklist you already have; Siri for each Log Note button and for fishing; the UK and Canada; and more for Voyages.
+Engine hours you can trust; bring in a checklist you already have; voyages you've sailed kept apart from your plans; Siri for each Log Note button and for fishing; and the UK and Canada.
 
 ENGINE HOURS YOU CAN TRUST
 A reading lower than the last, more than 24 hours a day since it, or far too high is flagged as you type and asked about before it's saved. Correct a reading and the boat's counter follows it down. Meter Replaced starts a new meter without counting the old one's hours twice. Gear with a meter of its own, and a part of the starboard engine or the generator, now counts on its own hours, not the port engine's. A Service Checklist run records the hours too.
@@ -16,7 +16,7 @@ THE UK AND CANADA
 Set to the UK: County and Postcode, SSR number, the Met Office forecast and radar, Admiralty EasyTide, HM Coastguard and 999 on a float plan, and tides for 61 places round the coast, worked out on your device as a guide, not for navigation. Set to Canada: Environment Canada's radar, and C-Tow offered on Call for a Tow. RYA, ICC, Pleasure Craft Operator Card and SVOP are among the credentials, and worked-out distances and wind follow your units.
 
 VOYAGES
-Notices to Mariners along a voyage and at each stop, chosen in My Settings. Tides at each stop, and Arrive near high or low water, which says when the tide can't be met in daylight. Each voyage's row shows its route, the voyage under way sits at the top, and a marina's rate can be a flat night.
+Voyages you've sailed are kept apart from your plans. Boat Manager finds them in your log; keep one to name it, add notes and set its first and last days. What happened stays the log's: tap a passage to change its log entry. Plan a Voyage Like This makes a new plan with the same stops, from a day you choose, and the log can be filtered by voyage. Notices to Mariners along a voyage and at each stop, chosen in My Settings. Tides at each stop, and Arrive near high or low water, which says when the tide can't be met in daylight. Each voyage's row shows its route, the voyage under way sits at the top, and a marina's rate can be a flat night.
 
 FISHING
 Fishing has a page of its own to turn it on, from This Boat or Arrange, saying what it adds and what stays private. Tackle, the Fish Guide, Licenses and Export sit at the top of Fishing, where a long list of trips can't push them out of reach. On a shared boat, the Fish Caught note never says where.
@@ -25,4 +25,4 @@ GENSET ON AND OFF
 Two new Log Note buttons. Tap GenSet on and GenSet off as it runs, and the log offers the hours run between them, as it does for Engine on and off.
 
 FIND, HELP AND MORE
-Find searches your tools and tackle, and the Fish Guide. Help lists all of Boat Manager's answers by topic. Read My Manual can start from the Library. Each float plan shows its route, and Use Again starts the next one like it. Set to the UK, Checklists links the RNLI and RYA's free checklists.
+Find goes to a date: type 23 May 2023 or 23/5/2023 for that day's log. It searches your tools and tackle, and the Fish Guide too. Help lists all of Boat Manager's answers by topic. Read My Manual can start from the Library. Each float plan shows its route, and Use Again starts the next one like it. Set to the UK, Checklists links the RNLI and RYA's free checklists.

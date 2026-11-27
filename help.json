@@ -1654,5 +1654,21 @@
     "isSysImg" : true,
     "order" : 6,
     "question" : "Can I bring in a checklist I already have?"
+  },
+  {
+    "answer" : "Voyages you have taken, kept apart from the voyages you plan. Under Voyages, Found in the log lists them: where the log goes quiet for more than a few days, a voyage ended. Change the number of days to split or join them.\n\nOpen one and tap Keep as a Sailed Voyage, and it moves up to Sailed. There you can rename it, add notes, and move its first and last days: start it a day earlier or later, or take in days the log's gap left out. Every log entry in its days belongs to it.\n\nWhat happened is the log's. The map, passages, distance and hours come from the log entries; to change one, tap the passage and edit its log entry. Remove from Sailed forgets the name and days and leaves the log alone.\n\nPlan a Voyage Like This makes a new voyage plan with the same stops and nights, from a day you choose, to change as you like. The log's Voyage filter lists your sailed voyages.",
+    "category" : "7. Waypoints",
+    "imageName" : "sailboat",
+    "isSysImg" : true,
+    "order" : 97,
+    "question" : "What are sailed voyages?"
+  },
+  {
+    "answer" : "Yes. Type a date in Find, such as 23 May 2023, May 23, 2023, 23\/5\/2023, 23 May or yesterday, and the day's log is first in the results; with no log that day, the nearest before and after. A date that could be read either way, such as 3\/4\/2023, follows your device's region: day first in the UK, month first in the US.",
+    "category" : "3. Navigation",
+    "imageName" : "calendar",
+    "isSysImg" : true,
+    "order" : 23,
+    "question" : "Can Find go to a date?"
   }
 ]
