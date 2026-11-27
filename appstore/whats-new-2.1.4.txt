@@ -1,7 +1,7 @@
 Engine hours you can trust; bring in a checklist you already have; voyages you've sailed kept apart from your plans; Siri for each Log Note button and for fishing; and the UK and Canada.
 
 ENGINE HOURS YOU CAN TRUST
-A reading lower than the last, more than 24 hours a day since it, or far too high is flagged as you type and asked about before it's saved. Correct a reading and the boat's counter follows it down. Meter Replaced starts a new meter without counting the old one's hours twice. Gear with a meter of its own, and a part of the starboard engine or the generator, now counts on its own hours, not the port engine's. A Service Checklist run records the hours too.
+A reading lower than the last, more than 24 hours a day since it, or far too high is flagged as you type and asked about before it's saved. Correct a reading and the boat's counter follows it down, and each job keeps the reading it was done at, so a later change to that day's log doesn't move it. Meter Replaced starts a new meter without counting the old one's hours twice. Gear with a meter of its own, and a part of the starboard engine or the generator, now counts on its own hours, not the port engine's. A Service Checklist run records the hours too.
 
 WHEN AN HOURS JOB FALLS DUE
 A job by hours says about when it falls due, from the hours you usually run, and when its counter was last read. With Remind Me of What's Due on, Upkeep's jobs are announced a week before they fall due, by hours or by months. The Helm's Since Oil Change comes from the engine's own oil-change job, and its Engine Hours tile says when hours have gone unlogged for two days underway.
