@@ -1646,5 +1646,13 @@
     "isSysImg" : true,
     "order" : 8,
     "question" : "What do Voyages show along the way?"
+  },
+  {
+    "answer" : "Yes, with Read a Checklist, on the + on Safety Checks or Checklists. Choose a PDF or a picture from Files, scan the printed pages with the camera, pick a photo, or paste the text.\n\nBoat Manager reads it on your device: the PDF's own words, or the words in the picture where it has none. Each line, bullet or tick box becomes a step, and each heading a section. A document with several headed lists, such as the RNLI and RYA's Boating Checklists, can become a checklist for each heading.\n\nEvery step is shown before anything is saved: untick what isn't a step, and tap one to change its words. The checklists are made As Required; set how often in the checklist's own page. For a photo, take the whole page square on and in focus.",
+    "category" : "10. Safety",
+    "imageName" : "text.viewfinder",
+    "isSysImg" : true,
+    "order" : 6,
+    "question" : "Can I bring in a checklist I already have?"
   }
 ]

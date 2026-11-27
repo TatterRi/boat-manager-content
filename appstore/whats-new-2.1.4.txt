@@ -1,4 +1,4 @@
-Engine hours you can trust, and a week's notice before an hours job falls due; Siri for each Log Note button and for fishing; the UK and Canada; and more for Voyages.
+Engine hours you can trust, with notice before an hours job falls due; bring in a checklist you already have; Siri for each Log Note button and for fishing; the UK and Canada; and more for Voyages.
 
 ENGINE HOURS YOU CAN TRUST
 A reading lower than the last, more than 24 hours a day since it, or far too high is flagged as you type and asked about before it's saved. Correct a reading and the boat's counter follows it down. Meter Replaced starts a new meter without counting the old one's hours twice. Gear with a meter of its own, and a part of the starboard engine or the generator, now counts on its own hours, not the port engine's. A Service Checklist run records the hours too.
@@ -9,11 +9,20 @@ A job by hours says about when it falls due, from the hours you usually run, and
 MORE TO SAY TO SIRI
 Each Log Note button is something to say: “Anchor down in Boat Manager” or “Log dolphins in Boat Manager” writes the line the button writes, with the time and position, and asks aloud what the button asks. “Log a catch in Boat Manager”, “Start fishing” and “Stop fishing” do what their buttons do. Log a Note understands more ways of saying it, so a note no longer ends up in Apple's Notes.
 
+READ A CHECKLIST
+Bring in a checklist you already have, from a PDF, a scan, a photo of the page or pasted text. Boat Manager reads it on your device, turns each line into a step and each heading into a section or a checklist of its own, and shows you every step to check before it's saved. From the + on Safety Checks and Checklists.
+
 THE UK AND CANADA
 Set to the UK: County and Postcode, SSR number, the Met Office forecast and radar, Admiralty EasyTide, HM Coastguard and 999 on a float plan, and tides for 61 places round the coast, worked out on your device as a guide, not for navigation. Set to Canada: Environment Canada's radar, and C-Tow offered on Call for a Tow. RYA, ICC, Pleasure Craft Operator Card and SVOP are among the credentials, and worked-out distances and wind follow your units.
 
 VOYAGES
 Notices to Mariners along a voyage and at each stop, chosen in My Settings. Tides at each stop, and Arrive near high or low water, which says when the tide can't be met in daylight. Each voyage's row shows its route, the voyage under way sits at the top, and a marina's rate can be a flat night.
 
-TURNING ON FISHING
-Fishing has a page of its own to turn it on, from This Boat or Arrange, saying what it adds and what stays private.
+FISHING
+Fishing has a page of its own to turn it on, from This Boat or Arrange, saying what it adds and what stays private. Tackle, the Fish Guide, Licenses and Export sit at the top of Fishing, where a long list of trips can't push them out of reach. On a shared boat, the Fish Caught note never says where.
+
+GENSET ON AND OFF
+Two new Log Note buttons. Tap GenSet on and GenSet off as it runs, and the log offers the hours run between them, as it does for Engine on and off.
+
+FIND, HELP AND MORE
+Find searches your tools and tackle, and the Fish Guide. Help lists all of Boat Manager's answers by topic. Read My Manual can start from the Library. Each float plan shows its route, and Use Again starts the next one like it. Set to the UK, Checklists links the RNLI and RYA's free checklists.
